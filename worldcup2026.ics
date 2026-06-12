@@ -2276,9 +2276,8 @@ DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 LOCATION:Atlanta
 DESCRIPTION:Trận #102 | Bán Kết\nGiờ VN: 02:00 ngày 16/07\nSân: 
- Atlanta\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-
- dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: 
- VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
+ Atlanta
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2298,9 +2297,8 @@ DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 LOCATION:Miami
 DESCRIPTION:Trận #103 | Tranh Hạng Ba\nGiờ VN: 04:00 ngày 19/07\nS
- ân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.com/h
- oi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xe
- m: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
+ ân: Miami
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2320,10 +2318,8 @@ DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 LOCATION:MetLife Stadium, New York/New Jersey
 DESCRIPTION:Trận #104 | Chung Kết\nGiờ VN: 02:00 ngày 20/07\nSân:
-  MetLife Stadium, New York/New Jersey\nLịch World Cup chi tiết: http
- s://www.thegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104
- -tran-the-1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-
- truc-tuyen-kenh-vtv3-3.html
+  MetLife Stadium, New York/New Jerse
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
