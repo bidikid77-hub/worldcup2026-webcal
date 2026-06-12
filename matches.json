@@ -46,9 +46,12 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "Finished",
+    "scorers": [
+      "Bosnia-Herzegovina: Jovo Lukić 21'",
+      "Canada: Cyle Larin 78'"
+    ],
     "notes": ""
   },
   {
