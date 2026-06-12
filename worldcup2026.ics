@@ -120,10 +120,8 @@ DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Trận #6 | Bảng C | Lượt 1\nGiờ VN: 05:00 ngày 14/06
- \nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.th
- egioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-
- 1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen
- -kenh-vtv3-3.html
+ \nSân: New York/New Jersey
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -143,10 +141,8 @@ DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 LOCATION:Boston
 DESCRIPTION:Trận #7 | Bảng C | Lượt 1\nGiờ VN: 08:00 ngày 14/06
- \nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.c
- om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
- h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
- html
+ \nSân: Boston
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -166,10 +162,8 @@ DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 LOCATION:Vancouver
 DESCRIPTION:Trận #8 | Bảng D | Lượt 1\nGiờ VN: 11:00 ngày 14/06
- \nSân: Vancouver\nLịch World Cup chi tiết: https://www.thegioididon
- g.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
- ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
- -3.html
+ \nSân: Vancouver
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -189,10 +183,8 @@ DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 LOCATION:Houston
 DESCRIPTION:Trận #9 | Bảng E | Lượt 1\nGiờ VN: 00:00 ngày 15/06
- \nSân: Houston\nLịch World Cup chi tiết: https://www.thegioididong.
- com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
- nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
- .html
+ \nSân: Houston
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -212,10 +204,8 @@ DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 LOCATION:Dallas
 DESCRIPTION:Trận #10 | Bảng F | Lượt 1\nGiờ VN: 03:00 ngày 15/0
- 6\nSân: Dallas\nLịch World Cup chi tiết: https://www.thegioididong.
- com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
- nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
- .html
+ 6\nSân: Dallas
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
