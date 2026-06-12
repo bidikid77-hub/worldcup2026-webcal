@@ -1,0 +1,17 @@
+[
+  {
+    "id": "wc2026-example-001",
+    "date": "2026-06-11",
+    "time": "20:00",
+    "timezone": "America/New_York",
+    "home": "Mexico",
+    "away": "TBD",
+    "stage": "Group stage",
+    "stadium": "Estadio Azteca",
+    "city": "Mexico City",
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": "Update teams/scores when FIFA schedule finalized."
+  }
+]
