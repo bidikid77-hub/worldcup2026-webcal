@@ -5,7 +5,7 @@ Public GitHub Pages calendar for iPhone/Apple Calendar.
 Subscribe URL after GitHub Pages is enabled:
 
 ```text
-webcal://<github-username>.github.io/worldcup2026-webcal/worldcup2026.ics
+webcal://bidikid77-hub.github.io/worldcup2026-webcal/worldcup2026.ics
 ```
 
 Edit `matches.json`, then run:
