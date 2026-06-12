@@ -1,1675 +1,2374 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Nguyen World Cup 2026//VI
+PRODID:-//World Cup 2026 Vietnam//VI
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:⚽ World Cup 2026 – Giờ Việt Nam
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
-X-WR-CALDESC:FIFA World Cup 2026 – lịch tự cập nhật bởi anh N
- guyên.
+X-WR-CALDESC:FIFA World Cup 2026 – 104 trận theo giờ Việt Nam (IC
+ T UTC+7). Nguồn: Fox Sports / FIFA.
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 BEGIN:VEVENT
-UID:wc2026-m001@bidikid77-worldcup2026
-SUMMARY:⚽ Mexico vs Nam Phi
+UID:wc2026-m001-276c09@wc26vn
+SUMMARY:Trận 1 ⚽ [A] Mexico vs Nam Phi
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 LOCATION:Mexico City
-DESCRIPTION:Vòng/bảng: Bảng A - Lượt 1\nTrạng thái: Scheduled\
- nSân: Mexico City\nThành phố: Mexico City
+DESCRIPTION:Trận #1 | Bảng A | Lượt 1\nGiờ VN: 02:00 ngày 12/06
+ \nSân: Mexico City\nLịch World Cup chi tiết: https://www.thegioidid
+ ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
+ nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
+ v3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m002@bidikid77-worldcup2026
-SUMMARY:⚽ Hàn Quốc vs Czechia
+UID:wc2026-m002-8c7ad1@wc26vn
+SUMMARY:Trận 2 ⚽ [A] Hàn Quốc vs Czechia
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 LOCATION:Guadalajara
-DESCRIPTION:Vòng/bảng: Bảng A - Lượt 1\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+DESCRIPTION:Trận #2 | Bảng A | Lượt 1\nGiờ VN: 09:00 ngày 12/06
+ \nSân: Guadalajara\nLịch World Cup chi tiết: https://www.thegioidid
+ ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
+ nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
+ v3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m003@bidikid77-worldcup2026
-SUMMARY:⚽ Canada vs Bosnia-Herzegovina
+UID:wc2026-m003-3901c7@wc26vn
+SUMMARY:Trận 3 ⚽ [B] Canada vs Bosnia-Herzegovina
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 LOCATION:Toronto
-DESCRIPTION:Vòng/bảng: Bảng B - Lượt 1\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+DESCRIPTION:Trận #3 | Bảng B | Lượt 1\nGiờ VN: 02:00 ngày 13/06
+ \nSân: Toronto\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m004@bidikid77-worldcup2026
-SUMMARY:⚽ USA vs Paraguay
+UID:wc2026-m004-366e79@wc26vn
+SUMMARY:Trận 4 ⚽ [D] USA vs Paraguay
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Bảng D - Lượt 1\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #4 | Bảng D | Lượt 1\nGiờ VN: 08:00 ngày 13/06
+ \nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidid
+ ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
+ nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
+ v3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m005@bidikid77-worldcup2026
-SUMMARY:⚽ Qatar vs Thụy Sĩ
+UID:wc2026-m005-372914@wc26vn
+SUMMARY:Trận 5 ⚽ [B] Qatar vs Thụy Sĩ
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 LOCATION:SF Bay Area
-DESCRIPTION:Vòng/bảng: Bảng B - Lượt 1\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+DESCRIPTION:Trận #5 | Bảng B | Lượt 1\nGiờ VN: 02:00 ngày 14/06
+ \nSân: SF Bay Area\nLịch World Cup chi tiết: https://www.thegioidid
+ ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
+ nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
+ v3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m006@bidikid77-worldcup2026
-SUMMARY:⚽ Brazil vs Morocco
+UID:wc2026-m006-af3024@wc26vn
+SUMMARY:Trận 6 ⚽ [C] Brazil vs Morocco
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Bảng C - Lượt 1\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #6 | Bảng C | Lượt 1\nGiờ VN: 05:00 ngày 14/06
+ \nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.th
+ egioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-
+ 1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen
+ -kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m007@bidikid77-worldcup2026
-SUMMARY:⚽ Haiti vs Scotland
+UID:wc2026-m007-0024a0@wc26vn
+SUMMARY:Trận 7 ⚽ [C] Haiti vs Scotland
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Bảng C - Lượt 1\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+DESCRIPTION:Trận #7 | Bảng C | Lượt 1\nGiờ VN: 08:00 ngày 14/06
+ \nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.c
+ om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
+ h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
+ html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m008@bidikid77-worldcup2026
-SUMMARY:⚽ Australia vs Thổ Nhĩ Kỳ
+UID:wc2026-m008-e43f7d@wc26vn
+SUMMARY:Trận 8 ⚽ [D] Australia vs Thổ Nhĩ Kỳ
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Bảng D - Lượt 1\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+DESCRIPTION:Trận #8 | Bảng D | Lượt 1\nGiờ VN: 11:00 ngày 14/06
+ \nSân: Vancouver\nLịch World Cup chi tiết: https://www.thegioididon
+ g.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m009@bidikid77-worldcup2026
-SUMMARY:⚽ Đức vs Curaçao
+UID:wc2026-m009-4f9f24@wc26vn
+SUMMARY:Trận 9 ⚽ [E] Đức vs Curaçao
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Bảng E - Lượt 1\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+DESCRIPTION:Trận #9 | Bảng E | Lượt 1\nGiờ VN: 00:00 ngày 15/06
+ \nSân: Houston\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m010@bidikid77-worldcup2026
-SUMMARY:⚽ Hà Lan vs Nhật Bản
+UID:wc2026-m010-55172e@wc26vn
+SUMMARY:Trận 10 ⚽ [F] Hà Lan vs Nhật Bản
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Bảng F - Lượt 1\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+DESCRIPTION:Trận #10 | Bảng F | Lượt 1\nGiờ VN: 03:00 ngày 15/0
+ 6\nSân: Dallas\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m011@bidikid77-worldcup2026
-SUMMARY:⚽ Bờ Biển Ngà vs Ecuador
+UID:wc2026-m011-030990@wc26vn
+SUMMARY:Trận 11 ⚽ [E] Bờ Biển Ngà vs Ecuador
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 LOCATION:Philadelphia
-DESCRIPTION:Vòng/bảng: Bảng E - Lượt 1\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+DESCRIPTION:Trận #11 | Bảng E | Lượt 1\nGiờ VN: 06:00 ngày 15/0
+ 6\nSân: Philadelphia\nLịch World Cup chi tiết: https://www.thegioid
+ idong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-159198
+ 7\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-
+ vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m012@bidikid77-worldcup2026
-SUMMARY:⚽ Tunisia vs Thụy Điển
+UID:wc2026-m012-7eccf5@wc26vn
+SUMMARY:Trận 12 ⚽ [F] Tunisia vs Thụy Điển
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 LOCATION:Monterrey
-DESCRIPTION:Vòng/bảng: Bảng F - Lượt 1\nTrạng thái: Scheduled\
- nSân: Monterrey\nThành phố: Monterrey
+DESCRIPTION:Trận #12 | Bảng F | Lượt 1\nGiờ VN: 09:00 ngày 15/0
+ 6\nSân: Monterrey\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m013@bidikid77-worldcup2026
-SUMMARY:⚽ Tây Ban Nha vs Cape Verde
+UID:wc2026-m013-516e3b@wc26vn
+SUMMARY:Trận 13 ⚽ [H] Tây Ban Nha vs Cape Verde
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Bảng H - Lượt 1\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+DESCRIPTION:Trận #13 | Bảng H | Lượt 1\nGiờ VN: 23:00 ngày 15/0
+ 6\nSân: Atlanta\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
-TRIGGER:-PT4H
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 30 phut
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m014@bidikid77-worldcup2026
-SUMMARY:⚽ Bỉ vs Ai Cập
+UID:wc2026-m014-fc2bde@wc26vn
+SUMMARY:Trận 14 ⚽ [G] Bỉ vs Ai Cập
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 LOCATION:Seattle
-DESCRIPTION:Vòng/bảng: Bảng G - Lượt 1\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+DESCRIPTION:Trận #14 | Bảng G | Lượt 1\nGiờ VN: 02:00 ngày 16/0
+ 6\nSân: Seattle\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m015@bidikid77-worldcup2026
-SUMMARY:⚽ Saudi Arabia vs Uruguay
+UID:wc2026-m015-0f40ca@wc26vn
+SUMMARY:Trận 15 ⚽ [H] Saudi Arabia vs Uruguay
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Bảng H - Lượt 1\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+DESCRIPTION:Trận #15 | Bảng H | Lượt 1\nGiờ VN: 05:00 ngày 16/0
+ 6\nSân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.c
+ om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
+ h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
+ html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m016@bidikid77-worldcup2026
-SUMMARY:⚽ Iran vs New Zealand
+UID:wc2026-m016-8467cf@wc26vn
+SUMMARY:Trận 16 ⚽ [G] Iran vs New Zealand
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Bảng G - Lượt 1\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #16 | Bảng G | Lượt 1\nGiờ VN: 08:00 ngày 16/0
+ 6\nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m017@bidikid77-worldcup2026
-SUMMARY:⚽ Pháp vs Senegal
+UID:wc2026-m017-12de9e@wc26vn
+SUMMARY:Trận 17 ⚽ [I] Pháp vs Senegal
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Bảng I - Lượt 1\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #17 | Bảng I | Lượt 1\nGiờ VN: 02:00 ngày 17/0
+ 6\nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.t
+ hegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the
+ -1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuye
+ n-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m018@bidikid77-worldcup2026
-SUMMARY:⚽ Na Uy vs Iraq
+UID:wc2026-m018-d7bfda@wc26vn
+SUMMARY:Trận 18 ⚽ [I] Na Uy vs Iraq
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Bảng I - Lượt 1\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+DESCRIPTION:Trận #18 | Bảng I | Lượt 1\nGiờ VN: 05:00 ngày 17/0
+ 6\nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m019@bidikid77-worldcup2026
-SUMMARY:⚽ Argentina vs Algeria
+UID:wc2026-m019-f485d9@wc26vn
+SUMMARY:Trận 19 ⚽ [J] Argentina vs Algeria
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 LOCATION:Kansas City
-DESCRIPTION:Vòng/bảng: Bảng J - Lượt 1\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+DESCRIPTION:Trận #19 | Bảng J | Lượt 1\nGiờ VN: 08:00 ngày 17/0
+ 6\nSân: Kansas City\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m020@bidikid77-worldcup2026
-SUMMARY:⚽ Áo vs Jordan
+UID:wc2026-m020-040630@wc26vn
+SUMMARY:Trận 20 ⚽ [J] Áo vs Jordan
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 LOCATION:SF Bay Area
-DESCRIPTION:Vòng/bảng: Bảng J - Lượt 1\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+DESCRIPTION:Trận #20 | Bảng J | Lượt 1\nGiờ VN: 11:00 ngày 17/0
+ 6\nSân: SF Bay Area\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m021@bidikid77-worldcup2026
-SUMMARY:⚽ Bồ Đào Nha vs Congo DR
+UID:wc2026-m021-eaddc9@wc26vn
+SUMMARY:Trận 21 ⚽ [K] Bồ Đào Nha vs Congo DR
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Bảng K - Lượt 1\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+DESCRIPTION:Trận #21 | Bảng K | Lượt 1\nGiờ VN: 00:00 ngày 18/0
+ 6\nSân: Houston\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m022@bidikid77-worldcup2026
-SUMMARY:⚽ Anh vs Croatia
+UID:wc2026-m022-b5e977@wc26vn
+SUMMARY:Trận 22 ⚽ [L] Anh vs Croatia
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Bảng L - Lượt 1\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+DESCRIPTION:Trận #22 | Bảng L | Lượt 1\nGiờ VN: 03:00 ngày 18/0
+ 6\nSân: Dallas\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m023@bidikid77-worldcup2026
-SUMMARY:⚽ Ghana vs Panama
+UID:wc2026-m023-3683d5@wc26vn
+SUMMARY:Trận 23 ⚽ [L] Ghana vs Panama
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 LOCATION:Toronto
-DESCRIPTION:Vòng/bảng: Bảng L - Lượt 1\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+DESCRIPTION:Trận #23 | Bảng L | Lượt 1\nGiờ VN: 06:00 ngày 18/0
+ 6\nSân: Toronto\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m024@bidikid77-worldcup2026
-SUMMARY:⚽ Uzbekistan vs Colombia
+UID:wc2026-m024-dcb67b@wc26vn
+SUMMARY:Trận 24 ⚽ [K] Uzbekistan vs Colombia
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 LOCATION:Mexico City
-DESCRIPTION:Vòng/bảng: Bảng K - Lượt 1\nTrạng thái: Scheduled\
- nSân: Mexico City\nThành phố: Mexico City
+DESCRIPTION:Trận #24 | Bảng K | Lượt 1\nGiờ VN: 09:00 ngày 18/0
+ 6\nSân: Mexico City\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m025@bidikid77-worldcup2026
-SUMMARY:⚽ Nam Phi vs Czechia
+UID:wc2026-m025-93eead@wc26vn
+SUMMARY:Trận 25 ⚽ [A] Nam Phi vs Czechia
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Bảng A - Lượt 2\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+DESCRIPTION:Trận #25 | Bảng A | Lượt 2\nGiờ VN: 23:00 ngày 18/0
+ 6\nSân: Atlanta\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
-TRIGGER:-PT4H
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 30 phut
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m026@bidikid77-worldcup2026
-SUMMARY:⚽ Thụy Sĩ vs Bosnia-Herzegovina
+UID:wc2026-m026-1b6185@wc26vn
+SUMMARY:Trận 26 ⚽ [B] Thụy Sĩ vs Bosnia-Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Bảng B - Lượt 2\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #26 | Bảng B | Lượt 2\nGiờ VN: 02:00 ngày 19/0
+ 6\nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m027@bidikid77-worldcup2026
-SUMMARY:⚽ Canada vs Qatar
+UID:wc2026-m027-73e461@wc26vn
+SUMMARY:Trận 27 ⚽ [B] Canada vs Qatar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Bảng B - Lượt 2\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+DESCRIPTION:Trận #27 | Bảng B | Lượt 2\nGiờ VN: 05:00 ngày 19/0
+ 6\nSân: Vancouver\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m028@bidikid77-worldcup2026
-SUMMARY:⚽ Mexico vs Hàn Quốc
+UID:wc2026-m028-02bab3@wc26vn
+SUMMARY:Trận 28 ⚽ [A] Mexico vs Hàn Quốc
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 LOCATION:Guadalajara
-DESCRIPTION:Vòng/bảng: Bảng A - Lượt 2\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+DESCRIPTION:Trận #28 | Bảng A | Lượt 2\nGiờ VN: 08:00 ngày 19/0
+ 6\nSân: Guadalajara\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m029@bidikid77-worldcup2026
-SUMMARY:⚽ USA vs Australia
+UID:wc2026-m029-ad4a30@wc26vn
+SUMMARY:Trận 29 ⚽ [D] USA vs Australia
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 LOCATION:Seattle
-DESCRIPTION:Vòng/bảng: Bảng D - Lượt 2\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+DESCRIPTION:Trận #29 | Bảng D | Lượt 2\nGiờ VN: 02:00 ngày 20/0
+ 6\nSân: Seattle\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m030@bidikid77-worldcup2026
-SUMMARY:⚽ Scotland vs Morocco
+UID:wc2026-m030-a0a674@wc26vn
+SUMMARY:Trận 30 ⚽ [C] Scotland vs Morocco
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Bảng C - Lượt 2\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+DESCRIPTION:Trận #30 | Bảng C | Lượt 2\nGiờ VN: 02:00 ngày 20/0
+ 6\nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m031@bidikid77-worldcup2026
-SUMMARY:⚽ Brazil vs Haiti
+UID:wc2026-m031-bf9e46@wc26vn
+SUMMARY:Trận 31 ⚽ [C] Brazil vs Haiti
 DTSTART:20260620T010000Z
 DTEND:20260620T030000Z
 LOCATION:Philadelphia
-DESCRIPTION:Vòng/bảng: Bảng C - Lượt 2\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+DESCRIPTION:Trận #31 | Bảng C | Lượt 2\nGiờ VN: 08:00 ngày 20/0
+ 6\nSân: Philadelphia\nLịch World Cup chi tiết: https://www.thegioid
+ idong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-159198
+ 7\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-
+ vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m032@bidikid77-worldcup2026
-SUMMARY:⚽ Paraguay vs Thổ Nhĩ Kỳ
+UID:wc2026-m032-6d7276@wc26vn
+SUMMARY:Trận 32 ⚽ [D] Paraguay vs Thổ Nhĩ Kỳ
 DTSTART:20260620T040000Z
 DTEND:20260620T060000Z
 LOCATION:SF Bay Area
-DESCRIPTION:Vòng/bảng: Bảng D - Lượt 2\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+DESCRIPTION:Trận #32 | Bảng D | Lượt 2\nGiờ VN: 11:00 ngày 20/0
+ 6\nSân: SF Bay Area\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m033@bidikid77-worldcup2026
-SUMMARY:⚽ Hà Lan vs Ba Lan
+UID:wc2026-m033-fdb59d@wc26vn
+SUMMARY:Trận 33 ⚽ [F] Hà Lan vs Ba Lan
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Bảng F - Lượt 2\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+DESCRIPTION:Trận #33 | Bảng F | Lượt 2\nGiờ VN: 00:00 ngày 21/0
+ 6\nSân: Houston\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m034@bidikid77-worldcup2026
-SUMMARY:⚽ Đức vs Bờ Biển Ngà
+UID:wc2026-m034-4bda00@wc26vn
+SUMMARY:Trận 34 ⚽ [E] Đức vs Bờ Biển Ngà
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 LOCATION:Toronto
-DESCRIPTION:Vòng/bảng: Bảng E - Lượt 2\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+DESCRIPTION:Trận #34 | Bảng E | Lượt 2\nGiờ VN: 03:00 ngày 21/0
+ 6\nSân: Toronto\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m035@bidikid77-worldcup2026
-SUMMARY:⚽ Ecuador vs Curaçao
+UID:wc2026-m035-862196@wc26vn
+SUMMARY:Trận 35 ⚽ [E] Ecuador vs Curaçao
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 LOCATION:Kansas City
-DESCRIPTION:Vòng/bảng: Bảng E - Lượt 2\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+DESCRIPTION:Trận #35 | Bảng E | Lượt 2\nGiờ VN: 07:00 ngày 21/0
+ 6\nSân: Kansas City\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m036@bidikid77-worldcup2026
-SUMMARY:⚽ Tunisia vs Nhật Bản
+UID:wc2026-m036-d231ad@wc26vn
+SUMMARY:Trận 36 ⚽ [F] Tunisia vs Nhật Bản
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 LOCATION:Monterrey
-DESCRIPTION:Vòng/bảng: Bảng F - Lượt 2\nTrạng thái: Scheduled\
- nSân: Monterrey\nThành phố: Monterrey
+DESCRIPTION:Trận #36 | Bảng F | Lượt 2\nGiờ VN: 11:00 ngày 21/0
+ 6\nSân: Monterrey\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m037@bidikid77-worldcup2026
-SUMMARY:⚽ Tây Ban Nha vs Saudi Arabia
+UID:wc2026-m037-4b0100@wc26vn
+SUMMARY:Trận 37 ⚽ [H] Tây Ban Nha vs Saudi Arabia
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Bảng H - Lượt 2\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+DESCRIPTION:Trận #37 | Bảng H | Lượt 2\nGiờ VN: 23:00 ngày 21/0
+ 6\nSân: Atlanta\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
-TRIGGER:-PT4H
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 30 phut
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m038@bidikid77-worldcup2026
-SUMMARY:⚽ Bỉ vs Iran
+UID:wc2026-m038-304121@wc26vn
+SUMMARY:Trận 38 ⚽ [G] Bỉ vs Iran
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Bảng G - Lượt 2\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #38 | Bảng G | Lượt 2\nGiờ VN: 02:00 ngày 22/0
+ 6\nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m039@bidikid77-worldcup2026
-SUMMARY:⚽ Uruguay vs Cape Verde
+UID:wc2026-m039-f74cee@wc26vn
+SUMMARY:Trận 39 ⚽ [H] Uruguay vs Cape Verde
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Bảng H - Lượt 2\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+DESCRIPTION:Trận #39 | Bảng H | Lượt 2\nGiờ VN: 05:00 ngày 22/0
+ 6\nSân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.c
+ om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
+ h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
+ html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m040@bidikid77-worldcup2026
-SUMMARY:⚽ New Zealand vs Ai Cập
+UID:wc2026-m040-0c732e@wc26vn
+SUMMARY:Trận 40 ⚽ [G] New Zealand vs Ai Cập
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Bảng G - Lượt 2\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+DESCRIPTION:Trận #40 | Bảng G | Lượt 2\nGiờ VN: 08:00 ngày 22/0
+ 6\nSân: Vancouver\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m041@bidikid77-worldcup2026
-SUMMARY:⚽ Argentina vs Áo
+UID:wc2026-m041-f46ae8@wc26vn
+SUMMARY:Trận 41 ⚽ [J] Argentina vs Áo
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Bảng J - Lượt 2\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+DESCRIPTION:Trận #41 | Bảng J | Lượt 2\nGiờ VN: 00:00 ngày 23/0
+ 6\nSân: Dallas\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m042@bidikid77-worldcup2026
-SUMMARY:⚽ Pháp vs Iraq
+UID:wc2026-m042-3baa6c@wc26vn
+SUMMARY:Trận 42 ⚽ [I] Pháp vs Iraq
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 LOCATION:Philadelphia
-DESCRIPTION:Vòng/bảng: Bảng I - Lượt 2\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+DESCRIPTION:Trận #42 | Bảng I | Lượt 2\nGiờ VN: 04:00 ngày 23/0
+ 6\nSân: Philadelphia\nLịch World Cup chi tiết: https://www.thegioid
+ idong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-159198
+ 7\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-
+ vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m043@bidikid77-worldcup2026
-SUMMARY:⚽ Na Uy vs Senegal
+UID:wc2026-m043-efc06f@wc26vn
+SUMMARY:Trận 43 ⚽ [I] Na Uy vs Senegal
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Bảng I - Lượt 2\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #43 | Bảng I | Lượt 2\nGiờ VN: 07:00 ngày 23/0
+ 6\nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.t
+ hegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the
+ -1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuye
+ n-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m044@bidikid77-worldcup2026
-SUMMARY:⚽ Jordan vs Algeria
+UID:wc2026-m044-ad5034@wc26vn
+SUMMARY:Trận 44 ⚽ [J] Jordan vs Algeria
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 LOCATION:SF Bay Area
-DESCRIPTION:Vòng/bảng: Bảng J - Lượt 2\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+DESCRIPTION:Trận #44 | Bảng J | Lượt 2\nGiờ VN: 10:00 ngày 23/0
+ 6\nSân: SF Bay Area\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m045@bidikid77-worldcup2026
-SUMMARY:⚽ Bồ Đào Nha vs Uzbekistan
+UID:wc2026-m045-7e6a0f@wc26vn
+SUMMARY:Trận 45 ⚽ [K] Bồ Đào Nha vs Uzbekistan
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Bảng K - Lượt 2\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+DESCRIPTION:Trận #45 | Bảng K | Lượt 2\nGiờ VN: 00:00 ngày 24/0
+ 6\nSân: Houston\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m046@bidikid77-worldcup2026
-SUMMARY:⚽ Anh vs Ghana
+UID:wc2026-m046-ec0469@wc26vn
+SUMMARY:Trận 46 ⚽ [L] Anh vs Ghana
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Bảng L - Lượt 2\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+DESCRIPTION:Trận #46 | Bảng L | Lượt 2\nGiờ VN: 03:00 ngày 24/0
+ 6\nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m047@bidikid77-worldcup2026
-SUMMARY:⚽ Panama vs Croatia
+UID:wc2026-m047-1e649a@wc26vn
+SUMMARY:Trận 47 ⚽ [L] Panama vs Croatia
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 LOCATION:Toronto
-DESCRIPTION:Vòng/bảng: Bảng L - Lượt 2\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+DESCRIPTION:Trận #47 | Bảng L | Lượt 2\nGiờ VN: 06:00 ngày 24/0
+ 6\nSân: Toronto\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m048@bidikid77-worldcup2026
-SUMMARY:⚽ Colombia vs Congo DR
+UID:wc2026-m048-58700b@wc26vn
+SUMMARY:Trận 48 ⚽ [K] Colombia vs Congo DR
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 LOCATION:Guadalajara
-DESCRIPTION:Vòng/bảng: Bảng K - Lượt 2\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+DESCRIPTION:Trận #48 | Bảng K | Lượt 2\nGiờ VN: 09:00 ngày 24/0
+ 6\nSân: Guadalajara\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m049@bidikid77-worldcup2026
-SUMMARY:⚽ Canada vs Thụy Sĩ
+UID:wc2026-m049-ac7d96@wc26vn
+SUMMARY:Trận 49 ⚽ [B] Canada vs Thụy Sĩ
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Bảng B - Lượt 3\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+DESCRIPTION:Trận #49 | Bảng B | Lượt 3\nGiờ VN: 02:00 ngày 25/0
+ 6\nSân: Vancouver\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m050@bidikid77-worldcup2026
-SUMMARY:⚽ Qatar vs Bosnia-Herzegovina
+UID:wc2026-m050-5ade73@wc26vn
+SUMMARY:Trận 50 ⚽ [B] Qatar vs Bosnia-Herzegovina
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 LOCATION:Seattle
-DESCRIPTION:Vòng/bảng: Bảng B - Lượt 3\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+DESCRIPTION:Trận #50 | Bảng B | Lượt 3\nGiờ VN: 02:00 ngày 25/0
+ 6\nSân: Seattle\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m051@bidikid77-worldcup2026
-SUMMARY:⚽ Scotland vs Brazil
+UID:wc2026-m051-497c17@wc26vn
+SUMMARY:Trận 51 ⚽ [C] Scotland vs Brazil
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Bảng C - Lượt 3\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+DESCRIPTION:Trận #51 | Bảng C | Lượt 3\nGiờ VN: 05:00 ngày 25/0
+ 6\nSân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.c
+ om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
+ h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
+ html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m052@bidikid77-worldcup2026
-SUMMARY:⚽ Morocco vs Haiti
+UID:wc2026-m052-6b6b9d@wc26vn
+SUMMARY:Trận 52 ⚽ [C] Morocco vs Haiti
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Bảng C - Lượt 3\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+DESCRIPTION:Trận #52 | Bảng C | Lượt 3\nGiờ VN: 05:00 ngày 25/0
+ 6\nSân: Atlanta\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2
+ -2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m053@bidikid77-worldcup2026
-SUMMARY:⚽ Mexico vs Czechia
+UID:wc2026-m053-cd0317@wc26vn
+SUMMARY:Trận 53 ⚽ [A] Mexico vs Czechia
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 LOCATION:Mexico City
-DESCRIPTION:Vòng/bảng: Bảng A - Lượt 3\nTrạng thái: Scheduled\
- nSân: Mexico City\nThành phố: Mexico City
+DESCRIPTION:Trận #53 | Bảng A | Lượt 3\nGiờ VN: 08:00 ngày 25/0
+ 6\nSân: Mexico City\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv2-2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m054@bidikid77-worldcup2026
-SUMMARY:⚽ Hàn Quốc vs Nam Phi
+UID:wc2026-m054-9ef746@wc26vn
+SUMMARY:Trận 54 ⚽ [A] Hàn Quốc vs Nam Phi
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 LOCATION:Monterrey
-DESCRIPTION:Vòng/bảng: Bảng A - Lượt 3\nTrạng thái: Scheduled\
- nSân: Monterrey\nThành phố: Monterrey
+DESCRIPTION:Trận #54 | Bảng A | Lượt 3\nGiờ VN: 08:00 ngày 25/0
+ 6\nSân: Monterrey\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m055@bidikid77-worldcup2026
-SUMMARY:⚽ Ecuador vs Đức
+UID:wc2026-m055-b0a567@wc26vn
+SUMMARY:Trận 55 ⚽ [E] Ecuador vs Đức
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Bảng E - Lượt 3\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #55 | Bảng E | Lượt 3\nGiờ VN: 03:00 ngày 26/0
+ 6\nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.t
+ hegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the
+ -1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuye
+ n-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m056@bidikid77-worldcup2026
-SUMMARY:⚽ Curaçao vs Bờ Biển Ngà
+UID:wc2026-m056-db44f9@wc26vn
+SUMMARY:Trận 56 ⚽ [E] Curaçao vs Bờ Biển Ngà
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 LOCATION:Philadelphia
-DESCRIPTION:Vòng/bảng: Bảng E - Lượt 3\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+DESCRIPTION:Trận #56 | Bảng E | Lượt 3\nGiờ VN: 03:00 ngày 26/0
+ 6\nSân: Philadelphia\nLịch World Cup chi tiết: https://www.thegioid
+ idong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-159198
+ 7\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-
+ vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m057@bidikid77-worldcup2026
-SUMMARY:⚽ Tunisia vs Hà Lan
+UID:wc2026-m057-3c6ccd@wc26vn
+SUMMARY:Trận 57 ⚽ [F] Tunisia vs Hà Lan
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 LOCATION:Kansas City
-DESCRIPTION:Vòng/bảng: Bảng F - Lượt 3\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+DESCRIPTION:Trận #57 | Bảng F | Lượt 3\nGiờ VN: 06:00 ngày 26/0
+ 6\nSân: Kansas City\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m058@bidikid77-worldcup2026
-SUMMARY:⚽ Nhật Bản vs Thụy Điển
+UID:wc2026-m058-290962@wc26vn
+SUMMARY:Trận 58 ⚽ [F] Nhật Bản vs Thụy Điển
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Bảng F - Lượt 3\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+DESCRIPTION:Trận #58 | Bảng F | Lượt 3\nGiờ VN: 06:00 ngày 26/0
+ 6\nSân: Dallas\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m059@bidikid77-worldcup2026
-SUMMARY:⚽ USA vs Thổ Nhĩ Kỳ
+UID:wc2026-m059-9f209a@wc26vn
+SUMMARY:Trận 59 ⚽ [D] USA vs Thổ Nhĩ Kỳ
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Bảng D - Lượt 3\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #59 | Bảng D | Lượt 3\nGiờ VN: 09:00 ngày 26/0
+ 6\nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m060@bidikid77-worldcup2026
-SUMMARY:⚽ Paraguay vs Australia
+UID:wc2026-m060-5a49eb@wc26vn
+SUMMARY:Trận 60 ⚽ [D] Paraguay vs Australia
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 LOCATION:SF Bay Area
-DESCRIPTION:Vòng/bảng: Bảng D - Lượt 3\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+DESCRIPTION:Trận #60 | Bảng D | Lượt 3\nGiờ VN: 09:00 ngày 26/0
+ 6\nSân: SF Bay Area\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv2-2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m061@bidikid77-worldcup2026
-SUMMARY:⚽ Na Uy vs Pháp
+UID:wc2026-m061-4056dd@wc26vn
+SUMMARY:Trận 61 ⚽ [I] Na Uy vs Pháp
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Bảng I - Lượt 3\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+DESCRIPTION:Trận #61 | Bảng I | Lượt 3\nGiờ VN: 02:00 ngày 27/0
+ 6\nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m062@bidikid77-worldcup2026
-SUMMARY:⚽ Senegal vs Iraq
+UID:wc2026-m062-e4c0e3@wc26vn
+SUMMARY:Trận 62 ⚽ [I] Senegal vs Iraq
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 LOCATION:Toronto
-DESCRIPTION:Vòng/bảng: Bảng I - Lượt 3\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+DESCRIPTION:Trận #62 | Bảng I | Lượt 3\nGiờ VN: 02:00 ngày 27/0
+ 6\nSân: Toronto\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2
+ -2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m063@bidikid77-worldcup2026
-SUMMARY:⚽ Uruguay vs Tây Ban Nha
+UID:wc2026-m063-4e2822@wc26vn
+SUMMARY:Trận 63 ⚽ [H] Uruguay vs Tây Ban Nha
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 LOCATION:Guadalajara
-DESCRIPTION:Vòng/bảng: Bảng H - Lượt 3\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+DESCRIPTION:Trận #63 | Bảng H | Lượt 3\nGiờ VN: 07:00 ngày 27/0
+ 6\nSân: Guadalajara\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv2-2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m064@bidikid77-worldcup2026
-SUMMARY:⚽ Cape Verde vs Saudi Arabia
+UID:wc2026-m064-fa3cc2@wc26vn
+SUMMARY:Trận 64 ⚽ [H] Cape Verde vs Saudi Arabia
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Bảng H - Lượt 3\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+DESCRIPTION:Trận #64 | Bảng H | Lượt 3\nGiờ VN: 07:00 ngày 27/0
+ 6\nSân: Houston\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m065@bidikid77-worldcup2026
-SUMMARY:⚽ New Zealand vs Bỉ
+UID:wc2026-m065-73dba5@wc26vn
+SUMMARY:Trận 65 ⚽ [G] New Zealand vs Bỉ
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Bảng G - Lượt 3\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+DESCRIPTION:Trận #65 | Bảng G | Lượt 3\nGiờ VN: 10:00 ngày 27/0
+ 6\nSân: Vancouver\nLịch World Cup chi tiết: https://www.thegioidido
+ ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
+ Kênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
+ 2-2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m066@bidikid77-worldcup2026
-SUMMARY:⚽ Ai Cập vs Iran
+UID:wc2026-m066-ea4894@wc26vn
+SUMMARY:Trận 66 ⚽ [G] Ai Cập vs Iran
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 LOCATION:Seattle
-DESCRIPTION:Vòng/bảng: Bảng G - Lượt 3\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+DESCRIPTION:Trận #66 | Bảng G | Lượt 3\nGiờ VN: 10:00 ngày 27/0
+ 6\nSân: Seattle\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m067@bidikid77-worldcup2026
-SUMMARY:⚽ Panama vs Anh
+UID:wc2026-m067-602914@wc26vn
+SUMMARY:Trận 67 ⚽ [L] Panama vs Anh
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Bảng L - Lượt 3\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #67 | Bảng L | Lượt 3\nGiờ VN: 04:00 ngày 28/0
+ 6\nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.t
+ hegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the
+ -1591987\nKênh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuye
+ n-kenh-vtv2-2.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m068@bidikid77-worldcup2026
-SUMMARY:⚽ Croatia vs Ghana
+UID:wc2026-m068-1447ca@wc26vn
+SUMMARY:Trận 68 ⚽ [L] Croatia vs Ghana
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 LOCATION:Philadelphia
-DESCRIPTION:Vòng/bảng: Bảng L - Lượt 3\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+DESCRIPTION:Trận #68 | Bảng L | Lượt 3\nGiờ VN: 04:00 ngày 28/0
+ 6\nSân: Philadelphia\nLịch World Cup chi tiết: https://www.thegioid
+ idong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-159198
+ 7\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-
+ vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m069@bidikid77-worldcup2026
-SUMMARY:⚽ Colombia vs Bồ Đào Nha
+UID:wc2026-m069-4ffb9f@wc26vn
+SUMMARY:Trận 69 ⚽ [K] Colombia vs Bồ Đào Nha
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Bảng K - Lượt 3\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+DESCRIPTION:Trận #69 | Bảng K | Lượt 3\nGiờ VN: 06:30 ngày 28/0
+ 6\nSân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.c
+ om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
+ h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
+ html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m070@bidikid77-worldcup2026
-SUMMARY:⚽ Uzbekistan vs Congo DR
+UID:wc2026-m070-c7663b@wc26vn
+SUMMARY:Trận 70 ⚽ [K] Uzbekistan vs Congo DR
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Bảng K - Lượt 3\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+DESCRIPTION:Trận #70 | Bảng K | Lượt 3\nGiờ VN: 06:30 ngày 28/0
+ 6\nSân: Atlanta\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV10\nLink xem VTV10: https://vtvgo.vn/channel/vtv-can-tho-1,
+ 6.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m071@bidikid77-worldcup2026
-SUMMARY:⚽ Jordan vs Argentina
+UID:wc2026-m071-e66136@wc26vn
+SUMMARY:Trận 71 ⚽ [J] Jordan vs Argentina
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Bảng J - Lượt 3\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+DESCRIPTION:Trận #71 | Bảng J | Lượt 3\nGiờ VN: 09:00 ngày 28/0
+ 6\nSân: Dallas\nLịch World Cup chi tiết: https://www.thegioididong.
+ com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
+ nh xem: VTV2\nLink xem VTV2: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2
+ .html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m072@bidikid77-worldcup2026
-SUMMARY:⚽ Algeria vs Áo
+UID:wc2026-m072-4bf20a@wc26vn
+SUMMARY:Trận 72 ⚽ [J] Algeria vs Áo
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 LOCATION:Kansas City
-DESCRIPTION:Vòng/bảng: Bảng J - Lượt 3\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+DESCRIPTION:Trận #72 | Bảng J | Lượt 3\nGiờ VN: 09:00 ngày 28/0
+ 6\nSân: Kansas City\nLịch World Cup chi tiết: https://www.thegioidi
+ dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
+ \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
+ tv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m073@bidikid77-worldcup2026
-SUMMARY:⚽ 2A vs 2B
+UID:wc2026-m073-725a6d@wc26vn
+SUMMARY:Trận 73 ⚽ [R32] 2A vs 2B
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Los A
- ngeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #73 | Vòng 32\nGiờ VN: 02:00 ngày 29/06\nSân: Los
+  Angeles\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi
+ -dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem:
+  VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m074@bidikid77-worldcup2026
-SUMMARY:⚽ 1C vs 2F
+UID:wc2026-m074-73fd59@wc26vn
+SUMMARY:Trận 74 ⚽ [R32] 1C vs 2F
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Houst
- on\nThành phố: Houston
+DESCRIPTION:Trận #74 | Vòng 32\nGiờ VN: 00:00 ngày 30/06\nSân: Hou
+ ston\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m075@bidikid77-worldcup2026
-SUMMARY:⚽ 1E vs 3rd(ABCDF)
+UID:wc2026-m075-1277dc@wc26vn
+SUMMARY:Trận 75 ⚽ [R32] 1E vs 3rd(ABCDF)
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Bosto
- n\nThành phố: Boston
+DESCRIPTION:Trận #75 | Vòng 32\nGiờ VN: 03:30 ngày 30/06\nSân: Bos
+ ton\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap/
+ lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV3
+ \nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m076@bidikid77-worldcup2026
-SUMMARY:⚽ 1F vs 2C
+UID:wc2026-m076-848a0f@wc26vn
+SUMMARY:Trận 76 ⚽ [R32] 1F vs 2C
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 LOCATION:Monterrey
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Monte
- rrey\nThành phố: Monterrey
+DESCRIPTION:Trận #76 | Vòng 32\nGiờ VN: 08:00 ngày 30/06\nSân: Mon
+ terrey\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-d
+ ap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: V
+ TV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m077@bidikid77-worldcup2026
-SUMMARY:⚽ 2E vs 2I
+UID:wc2026-m077-c0668f@wc26vn
+SUMMARY:Trận 77 ⚽ [R32] 2E vs 2I
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Dalla
- s\nThành phố: Dallas
+DESCRIPTION:Trận #77 | Vòng 32\nGiờ VN: 00:00 ngày 01/07\nSân: Dal
+ las\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap/
+ lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV3
+ \nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m078@bidikid77-worldcup2026
-SUMMARY:⚽ 1I vs 3rd(CDFGH)
+UID:wc2026-m078-11e709@wc26vn
+SUMMARY:Trận 78 ⚽ [R32] 1I vs 3rd(CDFGH)
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: New Y
- ork/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #78 | Vòng 32\nGiờ VN: 04:00 ngày 01/07\nSân: New
+  York/New Jersey\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m079@bidikid77-worldcup2026
-SUMMARY:⚽ 1A vs 3rd(CEFHI)
+UID:wc2026-m079-aeff56@wc26vn
+SUMMARY:Trận 79 ⚽ [R32] 1A vs 3rd(CEFHI)
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 LOCATION:Mexico City
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Mexic
- o City\nThành phố: Mexico City
+DESCRIPTION:Trận #79 | Vòng 32\nGiờ VN: 08:00 ngày 01/07\nSân: Mex
+ ico City\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi
+ -dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem:
+  VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m080@bidikid77-worldcup2026
-SUMMARY:⚽ 1L vs 3rd(EHIJK)
+UID:wc2026-m080-e37633@wc26vn
+SUMMARY:Trận 80 ⚽ [R32] 1L vs 3rd(EHIJK)
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Atlan
- ta\nThành phố: Atlanta
+DESCRIPTION:Trận #80 | Vòng 32\nGiờ VN: 23:00 ngày 01/07\nSân: Atl
+ anta\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
-TRIGGER:-PT4H
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 30 phut
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m081@bidikid77-worldcup2026
-SUMMARY:⚽ 1G vs 3rd(AEHIJ)
+UID:wc2026-m081-d18d05@wc26vn
+SUMMARY:Trận 81 ⚽ [R32] 1G vs 3rd(AEHIJ)
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 LOCATION:Seattle
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Seatt
- le\nThành phố: Seattle
+DESCRIPTION:Trận #81 | Vòng 32\nGiờ VN: 03:00 ngày 02/07\nSân: Sea
+ ttle\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m082@bidikid77-worldcup2026
-SUMMARY:⚽ 1D vs 3rd(BEFIJ)
+UID:wc2026-m082-b7a88a@wc26vn
+SUMMARY:Trận 82 ⚽ [R32] 1D vs 3rd(BEFIJ)
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 LOCATION:SF Bay Area
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: SF Ba
- y Area\nThành phố: SF Bay Area
+DESCRIPTION:Trận #82 | Vòng 32\nGiờ VN: 07:00 ngày 02/07\nSân: SF 
+ Bay Area\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi
+ -dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem:
+  VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m083@bidikid77-worldcup2026
-SUMMARY:⚽ 1H vs 2J
+UID:wc2026-m083-7fdc25@wc26vn
+SUMMARY:Trận 83 ⚽ [R32] 1H vs 2J
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Los A
- ngeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #83 | Vòng 32\nGiờ VN: 02:00 ngày 03/07\nSân: Los
+  Angeles\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi
+ -dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem:
+  VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m084@bidikid77-worldcup2026
-SUMMARY:⚽ 2K vs 2L
+UID:wc2026-m084-104c13@wc26vn
+SUMMARY:Trận 84 ⚽ [R32] 2K vs 2L
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 LOCATION:Toronto
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Toron
- to\nThành phố: Toronto
+DESCRIPTION:Trận #84 | Vòng 32\nGiờ VN: 06:00 ngày 03/07\nSân: Tor
+ onto\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m085@bidikid77-worldcup2026
-SUMMARY:⚽ 1B vs 3rd(DEJIL)
+UID:wc2026-m085-c55ab0@wc26vn
+SUMMARY:Trận 85 ⚽ [R32] 1B vs 3rd(DEJIL)
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Vanco
- uver\nThành phố: Vancouver
+DESCRIPTION:Trận #85 | Vòng 32\nGiờ VN: 10:00 ngày 03/07\nSân: Van
+ couver\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-d
+ ap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: V
+ TV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m086@bidikid77-worldcup2026
-SUMMARY:⚽ 2D vs 2G
+UID:wc2026-m086-9a7d63@wc26vn
+SUMMARY:Trận 86 ⚽ [R32] 2D vs 2G
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Dalla
- s\nThành phố: Dallas
+DESCRIPTION:Trận #86 | Vòng 32\nGiờ VN: 01:00 ngày 04/07\nSân: Dal
+ las\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap/
+ lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV3
+ \nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m087@bidikid77-worldcup2026
-SUMMARY:⚽ 1J vs 2H
+UID:wc2026-m087-211219@wc26vn
+SUMMARY:Trận 87 ⚽ [R32] 1J vs 2H
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Miami
- \nThành phố: Miami
+DESCRIPTION:Trận #87 | Vòng 32\nGiờ VN: 05:00 ngày 04/07\nSân: Mia
+ mi\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap/l
+ ich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV3\
+ nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m088@bidikid77-worldcup2026
-SUMMARY:⚽ 1K vs 3rd(DEJIL)
+UID:wc2026-m088-3de788@wc26vn
+SUMMARY:Trận 88 ⚽ [R32] 1K vs 3rd(DEJIL)
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 LOCATION:Kansas City
-DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Kansa
- s City\nThành phố: Kansas City
+DESCRIPTION:Trận #88 | Vòng 32\nGiờ VN: 08:30 ngày 04/07\nSân: Kan
+ sas City\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi
+ -dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem:
+  VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m089@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m089-8bfeac@wc26vn
+SUMMARY:Trận 89 ⚽ [R16] TBD vs TBD
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 LOCATION:Houston
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Houst
- on\nThành phố: Houston
+DESCRIPTION:Trận #89 | Vòng 16\nGiờ VN: 00:00 ngày 05/07\nSân: Hou
+ ston\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m090@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m090-a84649@wc26vn
+SUMMARY:Trận 90 ⚽ [R16] TBD vs TBD
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 LOCATION:Philadelphia
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Phila
- delphia\nThành phố: Philadelphia
+DESCRIPTION:Trận #90 | Vòng 16\nGiờ VN: 04:00 ngày 05/07\nSân: Phi
+ ladelphia\nLịch World Cup chi tiết: https://www.thegioididong.com/ho
+ i-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem
+ : VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m091@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m091-734807@wc26vn
+SUMMARY:Trận 91 ⚽ [R16] TBD vs TBD
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 LOCATION:New York/New Jersey
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: New Y
- ork/New Jersey\nThành phố: New York/New Jersey
+DESCRIPTION:Trận #91 | Vòng 16\nGiờ VN: 03:00 ngày 06/07\nSân: New
+  York/New Jersey\nLịch World Cup chi tiết: https://www.thegioididong
+ .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
+ ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
+ -3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m092@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m092-ae4c50@wc26vn
+SUMMARY:Trận 92 ⚽ [R16] TBD vs TBD
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 LOCATION:Mexico City
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Mexic
- o City\nThành phố: Mexico City
+DESCRIPTION:Trận #92 | Vòng 16\nGiờ VN: 07:00 ngày 06/07\nSân: Mex
+ ico City\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi
+ -dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem:
+  VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m093@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m093-5240f9@wc26vn
+SUMMARY:Trận 93 ⚽ [R16] TBD vs TBD
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Dalla
- s\nThành phố: Dallas
+DESCRIPTION:Trận #93 | Vòng 16\nGiờ VN: 02:00 ngày 07/07\nSân: Dal
+ las\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap/
+ lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV3
+ \nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m094@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m094-0f68dc@wc26vn
+SUMMARY:Trận 94 ⚽ [R16] TBD vs TBD
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 LOCATION:Seattle
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Seatt
- le\nThành phố: Seattle
+DESCRIPTION:Trận #94 | Vòng 16\nGiờ VN: 07:00 ngày 07/07\nSân: Sea
+ ttle\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m095@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m095-b13442@wc26vn
+SUMMARY:Trận 95 ⚽ [R16] TBD vs TBD
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Atlan
- ta\nThành phố: Atlanta
+DESCRIPTION:Trận #95 | Vòng 16\nGiờ VN: 23:00 ngày 07/07\nSân: Atl
+ anta\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
-TRIGGER:-PT4H
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 30 phut
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m096@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m096-353d2e@wc26vn
+SUMMARY:Trận 96 ⚽ [R16] TBD vs TBD
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 LOCATION:Vancouver
-DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Vanco
- uver\nThành phố: Vancouver
+DESCRIPTION:Trận #96 | Vòng 16\nGiờ VN: 03:00 ngày 08/07\nSân: Van
+ couver\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-d
+ ap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: V
+ TV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m097@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m097-b23b61@wc26vn
+SUMMARY:Trận 97 ⚽ [TK] TBD vs TBD
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 LOCATION:Boston
-DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Bos
- ton\nThành phố: Boston
+DESCRIPTION:Trận #97 | Tứ Kết\nGiờ VN: 03:00 ngày 10/07\nSân: B
+ oston\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-da
+ p/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VT
+ V3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m098@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m098-ba515a@wc26vn
+SUMMARY:Trận 98 ⚽ [TK] TBD vs TBD
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 LOCATION:Los Angeles
-DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Los
-  Angeles\nThành phố: Los Angeles
+DESCRIPTION:Trận #98 | Tứ Kết\nGiờ VN: 02:00 ngày 11/07\nSân: L
+ os Angeles\nLịch World Cup chi tiết: https://www.thegioididong.com/h
+ oi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xe
+ m: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m099@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m099-cb69ff@wc26vn
+SUMMARY:Trận 99 ⚽ [TK] TBD vs TBD
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Mia
- mi\nThành phố: Miami
+DESCRIPTION:Trận #99 | Tứ Kết\nGiờ VN: 04:00 ngày 12/07\nSân: M
+ iami\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-dap
+ /lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: VTV
+ 3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m100@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m100-54ba62@wc26vn
+SUMMARY:Trận 100 ⚽ [TK] TBD vs TBD
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 LOCATION:Kansas City
-DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Kan
- sas City\nThành phố: Kansas City
+DESCRIPTION:Trận #100 | Tứ Kết\nGiờ VN: 08:00 ngày 12/07\nSân: 
+ Kansas City\nLịch World Cup chi tiết: https://www.thegioididong.com/
+ hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh x
+ em: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.htm
+ l
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m101@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m101-9d709e@wc26vn
+SUMMARY:Trận 101 ⚽ [BK] TBD vs TBD
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 LOCATION:Dallas
-DESCRIPTION:Vòng/bảng: Bán Kết\nTrạng thái: Scheduled\nSân: Dal
- las\nThành phố: Dallas
+DESCRIPTION:Trận #101 | Bán Kết\nGiờ VN: 02:00 ngày 15/07\nSân: 
+ Dallas\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-d
+ ap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: V
+ TV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m102@bidikid77-worldcup2026
-SUMMARY:⚽ TBD vs TBD
+UID:wc2026-m102-b0d567@wc26vn
+SUMMARY:Trận 102 ⚽ [BK] TBD vs TBD
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 LOCATION:Atlanta
-DESCRIPTION:Vòng/bảng: Bán Kết\nTrạng thái: Scheduled\nSân: Atl
- anta\nThành phố: Atlanta
+DESCRIPTION:Trận #102 | Bán Kết\nGiờ VN: 02:00 ngày 16/07\nSân: 
+ Atlanta\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-
+ dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: 
+ VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m103@bidikid77-worldcup2026
-SUMMARY:⚽ 🥉 Tranh Hạng 3: TBD vs TBD
+UID:wc2026-m103-aa1579@wc26vn
+SUMMARY:Trận 103 ⚽ 🥉 Tranh Hạng 3: TBD vs TBD
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 LOCATION:Miami
-DESCRIPTION:Vòng/bảng: Tranh Hạng Ba\nTrạng thái: Scheduled\nSân
- : Miami\nThành phố: Miami
+DESCRIPTION:Trận #103 | Tranh Hạng Ba\nGiờ VN: 04:00 ngày 19/07\nS
+ ân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.com/h
+ oi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xe
+ m: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-m104@bidikid77-worldcup2026
-SUMMARY:⚽ 🏆 CHUNG KẾT: TBD vs TBD
+UID:wc2026-m104-095fc6@wc26vn
+SUMMARY:Trận 104 ⚽ 🏆 CHUNG KẾT: TBD vs TBD
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-LOCATION:MetLife Stadium\, New York/New Jersey
-DESCRIPTION:Vòng/bảng: Chung Kết\nTrạng thái: Scheduled\nSân: Me
- tLife Stadium\, New York/New Jersey\nThành phố: MetLife Stadium\, New
-  York/New Jersey
+LOCATION:MetLife Stadium, New York/New Jersey
+DESCRIPTION:Trận #104 | Chung Kết\nGiờ VN: 02:00 ngày 20/07\nSân:
+  MetLife Stadium, New York/New Jersey\nLịch World Cup chi tiết: http
+ s://www.thegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104
+ -tran-the-1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-
+ truc-tuyen-kenh-vtv3-3.html
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng
+DESCRIPTION:World Cup 2026 - tran dau bat dau sau 4 tieng
+TRIGGER:-PT4H
+END:VALARM
+BEGIN:VALARM
+ACTION:AUDIO
 TRIGGER:-PT4H
 END:VALARM
 END:VEVENT
