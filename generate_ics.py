@@ -1,87 +1,152 @@
 #!/usr/bin/env python3
-import json, hashlib
-from datetime import datetime, timedelta, timezone
-from zoneinfo import ZoneInfo
+import json
 from pathlib import Path
-BASE = Path(__file__).resolve().parent
-MATCHES = BASE / 'matches.json'
-OUT = BASE / 'worldcup2026.ics'
-CAL_NAME = 'World Cup 2026 - Nguyen'
-DEFAULT_DURATION_MINUTES = 120
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+
+MATCHES_FILE = Path("matches.json")
+ICS_FILE = Path("worldcup2026.ics")
+
+CAL_NAME = "⚽ World Cup 2026 – Giờ Việt Nam"
+CAL_DESC = "FIFA World Cup 2026 – lịch tự cập nhật bởi anh Nguyên."
+DEFAULT_TZ = "Asia/Ho_Chi_Minh"
 
 def esc(s):
-    s = '' if s is None else str(s)
-    return s.replace('\\', '\\\\').replace(';', '\\;').replace(',', '\\,').replace('\n', '\\n')
+    s = "" if s is None else str(s)
+    return (
+        s.replace("\\", "\\\\")
+         .replace(";", "\\;")
+         .replace(",", "\\,")
+         .replace("\n", "\\n")
+    )
 
-def fold(line):
-    b = line.encode('utf-8')
+def fold_line(line):
     out = []
-    while len(b) > 75:
-        cut = 75
-        while cut > 0 and (b[cut] & 0xC0) == 0x80:
+    while len(line.encode("utf-8")) > 73:
+        cut = 73
+        while cut > 1 and len(line[:cut].encode("utf-8")) > 73:
             cut -= 1
-        out.append(b[:cut].decode('utf-8'))
-        b = b' ' + b[cut:]
-    out.append(b.decode('utf-8'))
-    return '\r\n'.join(out)
+        out.append(line[:cut])
+        line = " " + line[cut:]
+    out.append(line)
+    return "\r\n".join(out)
 
-def dt_local(date, time, tz):
-    return datetime.strptime(date + ' ' + time, '%Y-%m-%d %H:%M').replace(tzinfo=ZoneInfo(tz))
+def add(lines, key, value):
+    lines.append(fold_line(f"{key}:{esc(value)}"))
 
 def fmt_dt(dt):
-    return dt.strftime('%Y%m%dT%H%M%S')
+    return dt.astimezone(ZoneInfo("UTC")).strftime("%Y%m%dT%H%M%SZ")
 
-def summary(m):
-    h = m.get('home', 'TBD')
-    a = m.get('away', 'TBD')
-    score = m.get('score', '').strip()
-    return f'{h} {score} {a}' if score else f'{h} vs {a}'
+def event_summary(m):
+    home = m.get("home") or "TBD"
+    away = m.get("away") or "TBD"
+    score = (m.get("score") or "").strip()
+    status = (m.get("status") or "Scheduled").strip().lower()
 
-def description(m):
+    if score:
+        title = f"⚽ {home} {score} {away}"
+    else:
+        title = f"⚽ {home} vs {away}"
+
+    if status in ["finished", "ended", "fulltime", "ft", "kết thúc"]:
+        title += " ✅"
+    elif status in ["live", "đang đá"]:
+        title += " 🔴 LIVE"
+
+    return title
+
+def event_description(m):
     parts = []
-    for label, key in [('Vong', 'stage'), ('Trang thai', 'status'), ('San', 'stadium'), ('Thanh pho', 'city')]:
-        if m.get(key):
-            parts.append(f'{label}: {m[key]}')
-    if m.get('score'):
-        parts.append(f'Ty so: {m["score"]}')
-    scorers = m.get('scorers') or []
-    if scorers:
-        parts.append('Cau thu ghi ban:')
-        for s in scorers:
-            if isinstance(s, dict):
-                parts.append(f'- {s.get("team", "")}: {s.get("player", "")} {s.get("minute", "")}')
-            else:
-                parts.append(f'- {s}')
-    if m.get('notes'):
-        parts.append(f'Ghi chu: {m["notes"]}')
-    return '\n'.join(parts)
 
-def uid(m):
-    raw = m.get('id') or '|'.join([m.get('date',''), m.get('time',''), m.get('home',''), m.get('away',''), m.get('stadium','')])
-    return hashlib.sha1(raw.encode()).hexdigest() + '@worldcup2026-nguyen'
+    if m.get("stage"):
+        parts.append(f"Vòng/bảng: {m['stage']}")
+
+    if m.get("score"):
+        parts.append(f"Tỷ số: {m['score']}")
+
+    if m.get("status"):
+        parts.append(f"Trạng thái: {m['status']}")
+
+    scorers = m.get("scorers") or []
+    if scorers:
+        parts.append("Cầu thủ ghi bàn:")
+        for scorer in scorers:
+            parts.append(f"- {scorer}")
+
+    if m.get("stadium"):
+        parts.append(f"Sân: {m['stadium']}")
+
+    if m.get("city"):
+        parts.append(f"Thành phố: {m['city']}")
+
+    if m.get("notes"):
+        parts.append(f"Ghi chú: {m['notes']}")
+
+    return "\n".join(parts)
 
 def main():
-    matches = json.loads(MATCHES.read_text(encoding='utf-8'))
-    now = datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
-    lines = [
-        'BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Nguyen//World Cup 2026 WebCal//VI',
-        'CALSCALE:GREGORIAN','METHOD:PUBLISH',f'X-WR-CALNAME:{esc(CAL_NAME)}','X-WR-TIMEZONE:UTC',
-        'REFRESH-INTERVAL;VALUE=DURATION:PT1H','X-PUBLISHED-TTL:PT1H'
-    ]
-    for m in matches:
-        tz = m.get('timezone') or 'UTC'
-        start = dt_local(m['date'], m['time'], tz)
-        end = start + timedelta(minutes=int(m.get('duration_minutes') or DEFAULT_DURATION_MINUTES))
-        loc = ' - '.join(x for x in [m.get('stadium',''), m.get('city','')] if x)
-        lines += [
-            'BEGIN:VEVENT', f'UID:{uid(m)}', f'DTSTAMP:{now}',
-            f'DTSTART;TZID={tz}:{fmt_dt(start)}', f'DTEND;TZID={tz}:{fmt_dt(end)}',
-            f'SUMMARY:{esc(summary(m))}', f'LOCATION:{esc(loc)}', f'DESCRIPTION:{esc(description(m))}',
-            'STATUS:CONFIRMED', 'END:VEVENT'
-        ]
-    lines.append('END:VCALENDAR')
-    OUT.write_text('\r\n'.join(fold(x) for x in lines) + '\r\n', encoding='utf-8')
-    print(f'Wrote {OUT} with {len(matches)} matches')
+    matches = json.loads(MATCHES_FILE.read_text(encoding="utf-8"))
 
-if __name__ == '__main__':
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//Nguyen World Cup 2026//VI",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        fold_line(f"X-WR-CALNAME:{esc(CAL_NAME)}"),
+        f"X-WR-TIMEZONE:{DEFAULT_TZ}",
+        fold_line(f"X-WR-CALDESC:{esc(CAL_DESC)}"),
+        "REFRESH-INTERVAL;VALUE=DURATION:P1D",
+    ]
+
+    for idx, m in enumerate(matches, start=1):
+        tzname = m.get("timezone") or DEFAULT_TZ
+        tz = ZoneInfo(tzname)
+
+        start = datetime.strptime(
+            f"{m['date']} {m['time']}",
+            "%Y-%m-%d %H:%M"
+        ).replace(tzinfo=tz)
+
+        duration = int(m.get("duration_minutes") or 120)
+        end = start + timedelta(minutes=duration)
+
+        uid = m.get("id") or f"wc2026-{idx:03d}"
+        location = m.get("stadium") or m.get("city") or ""
+
+        lines.append("BEGIN:VEVENT")
+        add(lines, "UID", f"{uid}@bidikid77-worldcup2026")
+        add(lines, "SUMMARY", event_summary(m))
+        lines.append(f"DTSTART:{fmt_dt(start)}")
+        lines.append(f"DTEND:{fmt_dt(end)}")
+
+        if location:
+            add(lines, "LOCATION", location)
+
+        add(lines, "DESCRIPTION", event_description(m))
+
+        status = (m.get("status") or "Scheduled").lower()
+        if status in ["cancelled", "canceled", "hủy"]:
+            lines.append("STATUS:CANCELLED")
+        else:
+            lines.append("STATUS:CONFIRMED")
+
+        lines.append("TRANSP:TRANSPARENT")
+
+        lines.extend([
+            "BEGIN:VALARM",
+            "ACTION:DISPLAY",
+            "DESCRIPTION:World Cup 2026 - trận đấu bắt đầu sau 4 tiếng",
+            "TRIGGER:-PT4H",
+            "END:VALARM",
+        ])
+
+        lines.append("END:VEVENT")
+
+    lines.append("END:VCALENDAR")
+
+    ICS_FILE.write_text("\r\n".join(lines) + "\r\n", encoding="utf-8")
+    print(f"Generated {ICS_FILE} with {len(matches)} matches")
+
+if __name__ == "__main__":
     main()
