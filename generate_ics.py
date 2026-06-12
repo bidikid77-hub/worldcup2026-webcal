@@ -37,6 +37,22 @@ def add(lines, key, value):
 def fmt_dt(dt):
     return dt.astimezone(ZoneInfo("UTC")).strftime("%Y%m%dT%H%M%SZ")
 
+def to_bold_digits(text):
+    table = str.maketrans({
+        "0": "𝟎",
+        "1": "𝟏",
+        "2": "𝟐",
+        "3": "𝟑",
+        "4": "𝟒",
+        "5": "𝟓",
+        "6": "𝟔",
+        "7": "𝟕",
+        "8": "𝟖",
+        "9": "𝟗",
+    })
+    return text.translate(table)
+
+
 def event_summary(m):
     home = m.get("home") or "TBD"
     away = m.get("away") or "TBD"
@@ -57,7 +73,8 @@ def event_summary(m):
     prefix = f"Trận {match_no} ⚽{group} " if match_no else "⚽ "
 
     if score:
-        title = f"{prefix}{home} {score} {away}"
+        score_display = to_bold_digits(score)
+        title = f"{prefix}{home} {score_display} {away}"
     else:
         title = f"{prefix}{home} vs {away}"
 
