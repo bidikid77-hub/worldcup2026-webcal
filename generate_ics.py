@@ -42,11 +42,24 @@ def event_summary(m):
     away = m.get("away") or "TBD"
     score = (m.get("score") or "").strip()
     status = (m.get("status") or "Scheduled").strip().lower()
+    stage = m.get("stage") or ""
+    mid = m.get("id") or ""
+
+    match_no = ""
+    if mid.startswith("wc2026-m"):
+        match_no = str(int(mid.replace("wc2026-m", "")))
+
+    group = ""
+    if "Bảng " in stage:
+        group = stage.split("Bảng ", 1)[1].split(" ", 1)[0]
+        group = f" [{group}]"
+
+    prefix = f"Trận {match_no} ⚽{group} " if match_no else "⚽ "
 
     if score:
-        title = f"⚽ {home} {score} {away}"
+        title = f"{prefix}{home} {score} {away}"
     else:
-        title = f"⚽ {home} vs {away}"
+        title = f"{prefix}{home} vs {away}"
 
     if status in ["finished", "ended", "fulltime", "ft", "kết thúc"]:
         title += " ✅"
