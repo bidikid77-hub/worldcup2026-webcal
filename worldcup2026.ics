@@ -2230,11 +2230,9 @@ SUMMARY:Trận 100 ⚽ [TK] TBD vs TBD
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 LOCATION:Kansas City
-DESCRIPTION:Trận #100 | Tứ Kết\nGiờ VN: 08:00 ngày 12/07\nSân: 
- Kansas City\nLịch World Cup chi tiết: https://www.thegioididong.com/
- hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh x
- em: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.htm
- l
+DESCRIPTION:Trận #100 | Tứ Kết\nGiờ VN: 08:00
+ \nSân: Kansas City
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -2253,11 +2251,9 @@ SUMMARY:Trận 101 ⚽ [BK] TBD vs TBD
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 LOCATION:Dallas
-DESCRIPTION:Trận #101 | Bán Kết\nGiờ VN: 02:00 ngày 15/07\nSân: 
- Dallas\nLịch World Cup chi tiết: https://www.thegioididong.com/hoi-d
- ap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKênh xem: V
- TV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
-STATUS:CONFIRMED
+DESCRIPTION:Trận #101 | Bán Kết\nGiờ VN: 02:00
+ \nSân: Dallas
+ \nKênh xem: VTV3
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2275,8 +2271,8 @@ SUMMARY:Trận 102 ⚽ [BK] TBD vs TBD
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 LOCATION:Atlanta
-DESCRIPTION:Trận #102 | Bán Kết\nGiờ VN: 02:00 ngày 16/07\nSân: 
- Atlanta
+DESCRIPTION:Trận #102 | Bán Kết\nGiờ VN: 02:00
+ \nSân: Atlanta
  \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2296,8 +2292,8 @@ SUMMARY:Trận 103 ⚽ 🥉 Tranh Hạng 3: TBD vs TBD
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 LOCATION:Miami
-DESCRIPTION:Trận #103 | Tranh Hạng Ba\nGiờ VN: 04:00 ngày 19/07\nS
- ân: Miami
+DESCRIPTION:Trận #103 | Tranh Hạng Ba\nGiờ VN: 04:00
+ \nSân: Miami
  \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -2317,8 +2313,8 @@ SUMMARY:Trận 104 ⚽ 🏆 CHUNG KẾT: TBD vs TBD
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 LOCATION:MetLife Stadium, New York/New Jersey
-DESCRIPTION:Trận #104 | Chung Kết\nGiờ VN: 02:00 ngày 20/07\nSân:
-  MetLife Stadium, New York/New Jerse
+DESCRIPTION:Trận #104 | Chung Kết\nGiờ VN: 02:00
+ \nSân: MetLife Stadium, New York/New Jerse
  \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
