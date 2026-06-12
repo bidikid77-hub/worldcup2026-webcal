@@ -5,11 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:⚽ World Cup 2026 – Giờ Việt Nam
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
-X-WR-CALDESC:FIFA World Cup 2026 – lịch tự cập nhật bởi anh N
- guyên.
+X-WR-CALDESC:Lịch FIFA World Cup 2026 tự cập nhật: lịch thi đ
+ ấu\, kết quả\, cầu thủ ghi bàn.
 REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:wc2026-m001@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 1 ⚽ [A] Mexico 𝟐-𝟎 Nam Phi ✅
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
@@ -17,7 +20,7 @@ LOCATION:Mexico City
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 1\nTỷ số: 2-0\nTrạng t
  hái: Finished\nCầu thủ ghi bàn:\n- Mexico: Julián Quiñones 9'\n-
   Mexico: Raúl Jiménez 67'\nSân: Mexico City\nThành phố: Mexico Cit
- y
+ y\nNguồn lịch: https://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -28,6 +31,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m002@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 2 ⚽ [A] Hàn Quốc 𝟐-𝟏 Czechia ✅
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
@@ -35,7 +40,8 @@ LOCATION:Guadalajara
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 1\nTỷ số: 2-1\nTrạng t
  hái: Finished\nCầu thủ ghi bàn:\n- Czechia: Ladislav Krejčí 59'\
  n- Hàn Quốc: Hwang In-beom 67'\n- Hàn Quốc: Oh Hyeon-gyu 80'\nSân
- : Guadalajara\nThành phố: Guadalajara
+ : Guadalajara\nThành phố: Guadalajara\nNguồn lịch: https://bidiki
+ d77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -46,12 +52,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m003@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 3 ⚽ [B] Canada vs Bosnia-Herzegovina
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 LOCATION:Toronto
 DESCRIPTION:Vòng/bảng: Bảng B - Lượt 1\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+ nSân: Toronto\nThành phố: Toronto\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -62,12 +71,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m004@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 4 ⚽ [D] USA vs Paraguay
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Bảng D - Lượt 1\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+ nSân: Los Angeles\nThành phố: Los Angeles\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -78,12 +90,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m005@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 5 ⚽ [B] Qatar vs Thụy Sĩ
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Vòng/bảng: Bảng B - Lượt 1\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+ nSân: SF Bay Area\nThành phố: SF Bay Area\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -94,12 +109,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m006@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 6 ⚽ [C] Brazil vs Morocco
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Bảng C - Lượt 1\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+ nSân: New York/New Jersey\nThành phố: New York/New Jersey\nNguồn l
+ ịch: https://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -110,12 +128,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m007@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 7 ⚽ [C] Haiti vs Scotland
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Bảng C - Lượt 1\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+ nSân: Boston\nThành phố: Boston\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -126,12 +147,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m008@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 8 ⚽ [D] Australia vs Thổ Nhĩ Kỳ
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Bảng D - Lượt 1\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+ nSân: Vancouver\nThành phố: Vancouver\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -142,12 +166,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m009@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 9 ⚽ [E] Đức vs Curaçao
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Bảng E - Lượt 1\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+ nSân: Houston\nThành phố: Houston\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -158,12 +185,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m010@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 10 ⚽ [F] Hà Lan vs Nhật Bản
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Bảng F - Lượt 1\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+ nSân: Dallas\nThành phố: Dallas\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -174,12 +204,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m011@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 11 ⚽ [E] Bờ Biển Ngà vs Ecuador
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 LOCATION:Philadelphia
 DESCRIPTION:Vòng/bảng: Bảng E - Lượt 1\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+ nSân: Philadelphia\nThành phố: Philadelphia\nNguồn lịch: https:/
+ /bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -190,12 +223,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m012@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 12 ⚽ [F] Tunisia vs Thụy Điển
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 LOCATION:Monterrey
 DESCRIPTION:Vòng/bảng: Bảng F - Lượt 1\nTrạng thái: Scheduled\
- nSân: Monterrey\nThành phố: Monterrey
+ nSân: Monterrey\nThành phố: Monterrey\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -206,12 +242,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m013@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 13 ⚽ [H] Tây Ban Nha vs Cape Verde
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Bảng H - Lượt 1\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+ nSân: Atlanta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -222,12 +261,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m014@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 14 ⚽ [G] Bỉ vs Ai Cập
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 LOCATION:Seattle
 DESCRIPTION:Vòng/bảng: Bảng G - Lượt 1\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+ nSân: Seattle\nThành phố: Seattle\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -238,12 +280,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m015@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 15 ⚽ [H] Saudi Arabia vs Uruguay
 DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Bảng H - Lượt 1\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+ nSân: Miami\nThành phố: Miami\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -254,12 +299,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m016@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 16 ⚽ [G] Iran vs New Zealand
 DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Bảng G - Lượt 1\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+ nSân: Los Angeles\nThành phố: Los Angeles\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -270,12 +318,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m017@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 17 ⚽ [I] Pháp vs Senegal
 DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Bảng I - Lượt 1\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+ nSân: New York/New Jersey\nThành phố: New York/New Jersey\nNguồn l
+ ịch: https://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -286,12 +337,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m018@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 18 ⚽ [I] Na Uy vs Iraq
 DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Bảng I - Lượt 1\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+ nSân: Boston\nThành phố: Boston\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -302,12 +356,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m019@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 19 ⚽ [J] Argentina vs Algeria
 DTSTART:20260617T010000Z
 DTEND:20260617T030000Z
 LOCATION:Kansas City
 DESCRIPTION:Vòng/bảng: Bảng J - Lượt 1\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+ nSân: Kansas City\nThành phố: Kansas City\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -318,12 +375,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m020@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 20 ⚽ [J] Áo vs Jordan
 DTSTART:20260617T040000Z
 DTEND:20260617T060000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Vòng/bảng: Bảng J - Lượt 1\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+ nSân: SF Bay Area\nThành phố: SF Bay Area\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -334,12 +394,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m021@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 21 ⚽ [K] Bồ Đào Nha vs Congo DR
 DTSTART:20260617T170000Z
 DTEND:20260617T190000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Bảng K - Lượt 1\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+ nSân: Houston\nThành phố: Houston\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -350,12 +413,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m022@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 22 ⚽ [L] Anh vs Croatia
 DTSTART:20260617T200000Z
 DTEND:20260617T220000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Bảng L - Lượt 1\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+ nSân: Dallas\nThành phố: Dallas\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -366,12 +432,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m023@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 23 ⚽ [L] Ghana vs Panama
 DTSTART:20260617T230000Z
 DTEND:20260618T010000Z
 LOCATION:Toronto
 DESCRIPTION:Vòng/bảng: Bảng L - Lượt 1\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+ nSân: Toronto\nThành phố: Toronto\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -382,12 +451,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m024@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 24 ⚽ [K] Uzbekistan vs Colombia
 DTSTART:20260618T020000Z
 DTEND:20260618T040000Z
 LOCATION:Mexico City
 DESCRIPTION:Vòng/bảng: Bảng K - Lượt 1\nTrạng thái: Scheduled\
- nSân: Mexico City\nThành phố: Mexico City
+ nSân: Mexico City\nThành phố: Mexico City\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -398,12 +470,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m025@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 25 ⚽ [A] Nam Phi vs Czechia
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 2\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+ nSân: Atlanta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -414,12 +489,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m026@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 26 ⚽ [B] Thụy Sĩ vs Bosnia-Herzegovina
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Bảng B - Lượt 2\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+ nSân: Los Angeles\nThành phố: Los Angeles\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -430,12 +508,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m027@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 27 ⚽ [B] Canada vs Qatar
 DTSTART:20260618T220000Z
 DTEND:20260619T000000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Bảng B - Lượt 2\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+ nSân: Vancouver\nThành phố: Vancouver\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -446,12 +527,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m028@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 28 ⚽ [A] Mexico vs Hàn Quốc
 DTSTART:20260619T010000Z
 DTEND:20260619T030000Z
 LOCATION:Guadalajara
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 2\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+ nSân: Guadalajara\nThành phố: Guadalajara\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -462,12 +546,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m029@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 29 ⚽ [D] USA vs Australia
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 LOCATION:Seattle
 DESCRIPTION:Vòng/bảng: Bảng D - Lượt 2\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+ nSân: Seattle\nThành phố: Seattle\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -478,12 +565,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m030@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 30 ⚽ [C] Scotland vs Morocco
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Bảng C - Lượt 2\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+ nSân: Boston\nThành phố: Boston\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -494,12 +584,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m031@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 31 ⚽ [C] Brazil vs Haiti
 DTSTART:20260620T010000Z
 DTEND:20260620T030000Z
 LOCATION:Philadelphia
 DESCRIPTION:Vòng/bảng: Bảng C - Lượt 2\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+ nSân: Philadelphia\nThành phố: Philadelphia\nNguồn lịch: https:/
+ /bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -510,12 +603,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m032@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 32 ⚽ [D] Paraguay vs Thổ Nhĩ Kỳ
 DTSTART:20260620T040000Z
 DTEND:20260620T060000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Vòng/bảng: Bảng D - Lượt 2\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+ nSân: SF Bay Area\nThành phố: SF Bay Area\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -526,12 +622,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m033@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 33 ⚽ [F] Hà Lan vs Ba Lan
 DTSTART:20260620T170000Z
 DTEND:20260620T190000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Bảng F - Lượt 2\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+ nSân: Houston\nThành phố: Houston\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -542,12 +641,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m034@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 34 ⚽ [E] Đức vs Bờ Biển Ngà
 DTSTART:20260620T200000Z
 DTEND:20260620T220000Z
 LOCATION:Toronto
 DESCRIPTION:Vòng/bảng: Bảng E - Lượt 2\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+ nSân: Toronto\nThành phố: Toronto\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -558,12 +660,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m035@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 35 ⚽ [E] Ecuador vs Curaçao
 DTSTART:20260621T000000Z
 DTEND:20260621T020000Z
 LOCATION:Kansas City
 DESCRIPTION:Vòng/bảng: Bảng E - Lượt 2\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+ nSân: Kansas City\nThành phố: Kansas City\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -574,12 +679,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m036@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 36 ⚽ [F] Tunisia vs Nhật Bản
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
 LOCATION:Monterrey
 DESCRIPTION:Vòng/bảng: Bảng F - Lượt 2\nTrạng thái: Scheduled\
- nSân: Monterrey\nThành phố: Monterrey
+ nSân: Monterrey\nThành phố: Monterrey\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -590,12 +698,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m037@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 37 ⚽ [H] Tây Ban Nha vs Saudi Arabia
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Bảng H - Lượt 2\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+ nSân: Atlanta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -606,12 +717,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m038@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 38 ⚽ [G] Bỉ vs Iran
 DTSTART:20260621T190000Z
 DTEND:20260621T210000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Bảng G - Lượt 2\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+ nSân: Los Angeles\nThành phố: Los Angeles\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -622,12 +736,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m039@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 39 ⚽ [H] Uruguay vs Cape Verde
 DTSTART:20260621T220000Z
 DTEND:20260622T000000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Bảng H - Lượt 2\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+ nSân: Miami\nThành phố: Miami\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -638,12 +755,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m040@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 40 ⚽ [G] New Zealand vs Ai Cập
 DTSTART:20260622T010000Z
 DTEND:20260622T030000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Bảng G - Lượt 2\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+ nSân: Vancouver\nThành phố: Vancouver\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -654,12 +774,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m041@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 41 ⚽ [J] Argentina vs Áo
 DTSTART:20260622T170000Z
 DTEND:20260622T190000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Bảng J - Lượt 2\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+ nSân: Dallas\nThành phố: Dallas\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -670,12 +793,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m042@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 42 ⚽ [I] Pháp vs Iraq
 DTSTART:20260622T210000Z
 DTEND:20260622T230000Z
 LOCATION:Philadelphia
 DESCRIPTION:Vòng/bảng: Bảng I - Lượt 2\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+ nSân: Philadelphia\nThành phố: Philadelphia\nNguồn lịch: https:/
+ /bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -686,12 +812,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m043@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 43 ⚽ [I] Na Uy vs Senegal
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Bảng I - Lượt 2\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+ nSân: New York/New Jersey\nThành phố: New York/New Jersey\nNguồn l
+ ịch: https://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -702,12 +831,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m044@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 44 ⚽ [J] Jordan vs Algeria
 DTSTART:20260623T030000Z
 DTEND:20260623T050000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Vòng/bảng: Bảng J - Lượt 2\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+ nSân: SF Bay Area\nThành phố: SF Bay Area\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -718,12 +850,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m045@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 45 ⚽ [K] Bồ Đào Nha vs Uzbekistan
 DTSTART:20260623T170000Z
 DTEND:20260623T190000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Bảng K - Lượt 2\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+ nSân: Houston\nThành phố: Houston\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -734,12 +869,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m046@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 46 ⚽ [L] Anh vs Ghana
 DTSTART:20260623T200000Z
 DTEND:20260623T220000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Bảng L - Lượt 2\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+ nSân: Boston\nThành phố: Boston\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -750,12 +888,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m047@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 47 ⚽ [L] Panama vs Croatia
 DTSTART:20260623T230000Z
 DTEND:20260624T010000Z
 LOCATION:Toronto
 DESCRIPTION:Vòng/bảng: Bảng L - Lượt 2\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+ nSân: Toronto\nThành phố: Toronto\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -766,12 +907,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m048@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 48 ⚽ [K] Colombia vs Congo DR
 DTSTART:20260624T020000Z
 DTEND:20260624T040000Z
 LOCATION:Guadalajara
 DESCRIPTION:Vòng/bảng: Bảng K - Lượt 2\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+ nSân: Guadalajara\nThành phố: Guadalajara\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -782,12 +926,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m049@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 49 ⚽ [B] Canada vs Thụy Sĩ
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Bảng B - Lượt 3\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+ nSân: Vancouver\nThành phố: Vancouver\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -798,12 +945,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m050@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 50 ⚽ [B] Qatar vs Bosnia-Herzegovina
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
 LOCATION:Seattle
 DESCRIPTION:Vòng/bảng: Bảng B - Lượt 3\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+ nSân: Seattle\nThành phố: Seattle\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -814,12 +964,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m051@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 51 ⚽ [C] Scotland vs Brazil
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Bảng C - Lượt 3\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+ nSân: Miami\nThành phố: Miami\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -830,12 +983,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m052@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 52 ⚽ [C] Morocco vs Haiti
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Bảng C - Lượt 3\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+ nSân: Atlanta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -846,12 +1002,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m053@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 53 ⚽ [A] Mexico vs Czechia
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 LOCATION:Mexico City
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 3\nTrạng thái: Scheduled\
- nSân: Mexico City\nThành phố: Mexico City
+ nSân: Mexico City\nThành phố: Mexico City\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -862,12 +1021,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m054@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 54 ⚽ [A] Hàn Quốc vs Nam Phi
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
 LOCATION:Monterrey
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 3\nTrạng thái: Scheduled\
- nSân: Monterrey\nThành phố: Monterrey
+ nSân: Monterrey\nThành phố: Monterrey\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -878,12 +1040,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m055@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 55 ⚽ [E] Ecuador vs Đức
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Bảng E - Lượt 3\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+ nSân: New York/New Jersey\nThành phố: New York/New Jersey\nNguồn l
+ ịch: https://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -894,12 +1059,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m056@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 56 ⚽ [E] Curaçao vs Bờ Biển Ngà
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
 LOCATION:Philadelphia
 DESCRIPTION:Vòng/bảng: Bảng E - Lượt 3\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+ nSân: Philadelphia\nThành phố: Philadelphia\nNguồn lịch: https:/
+ /bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -910,12 +1078,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m057@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 57 ⚽ [F] Tunisia vs Hà Lan
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 LOCATION:Kansas City
 DESCRIPTION:Vòng/bảng: Bảng F - Lượt 3\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+ nSân: Kansas City\nThành phố: Kansas City\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -926,12 +1097,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m058@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 58 ⚽ [F] Nhật Bản vs Thụy Điển
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Bảng F - Lượt 3\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+ nSân: Dallas\nThành phố: Dallas\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -942,12 +1116,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m059@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 59 ⚽ [D] USA vs Thổ Nhĩ Kỳ
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Bảng D - Lượt 3\nTrạng thái: Scheduled\
- nSân: Los Angeles\nThành phố: Los Angeles
+ nSân: Los Angeles\nThành phố: Los Angeles\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -958,12 +1135,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m060@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 60 ⚽ [D] Paraguay vs Australia
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Vòng/bảng: Bảng D - Lượt 3\nTrạng thái: Scheduled\
- nSân: SF Bay Area\nThành phố: SF Bay Area
+ nSân: SF Bay Area\nThành phố: SF Bay Area\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -974,12 +1154,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m061@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 61 ⚽ [I] Na Uy vs Pháp
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Bảng I - Lượt 3\nTrạng thái: Scheduled\
- nSân: Boston\nThành phố: Boston
+ nSân: Boston\nThành phố: Boston\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -990,12 +1173,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m062@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 62 ⚽ [I] Senegal vs Iraq
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
 LOCATION:Toronto
 DESCRIPTION:Vòng/bảng: Bảng I - Lượt 3\nTrạng thái: Scheduled\
- nSân: Toronto\nThành phố: Toronto
+ nSân: Toronto\nThành phố: Toronto\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1006,12 +1192,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m063@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 63 ⚽ [H] Uruguay vs Tây Ban Nha
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 LOCATION:Guadalajara
 DESCRIPTION:Vòng/bảng: Bảng H - Lượt 3\nTrạng thái: Scheduled\
- nSân: Guadalajara\nThành phố: Guadalajara
+ nSân: Guadalajara\nThành phố: Guadalajara\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1022,12 +1211,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m064@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 64 ⚽ [H] Cape Verde vs Saudi Arabia
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Bảng H - Lượt 3\nTrạng thái: Scheduled\
- nSân: Houston\nThành phố: Houston
+ nSân: Houston\nThành phố: Houston\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1038,12 +1230,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m065@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 65 ⚽ [G] New Zealand vs Bỉ
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Bảng G - Lượt 3\nTrạng thái: Scheduled\
- nSân: Vancouver\nThành phố: Vancouver
+ nSân: Vancouver\nThành phố: Vancouver\nNguồn lịch: https://bidik
+ id77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1054,12 +1249,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m066@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 66 ⚽ [G] Ai Cập vs Iran
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
 LOCATION:Seattle
 DESCRIPTION:Vòng/bảng: Bảng G - Lượt 3\nTrạng thái: Scheduled\
- nSân: Seattle\nThành phố: Seattle
+ nSân: Seattle\nThành phố: Seattle\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1070,12 +1268,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m067@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 67 ⚽ [L] Panama vs Anh
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Bảng L - Lượt 3\nTrạng thái: Scheduled\
- nSân: New York/New Jersey\nThành phố: New York/New Jersey
+ nSân: New York/New Jersey\nThành phố: New York/New Jersey\nNguồn l
+ ịch: https://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1086,12 +1287,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m068@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 68 ⚽ [L] Croatia vs Ghana
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
 LOCATION:Philadelphia
 DESCRIPTION:Vòng/bảng: Bảng L - Lượt 3\nTrạng thái: Scheduled\
- nSân: Philadelphia\nThành phố: Philadelphia
+ nSân: Philadelphia\nThành phố: Philadelphia\nNguồn lịch: https:/
+ /bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1102,12 +1306,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m069@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 69 ⚽ [K] Colombia vs Bồ Đào Nha
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Bảng K - Lượt 3\nTrạng thái: Scheduled\
- nSân: Miami\nThành phố: Miami
+ nSân: Miami\nThành phố: Miami\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1118,12 +1325,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m070@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 70 ⚽ [K] Uzbekistan vs Congo DR
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Bảng K - Lượt 3\nTrạng thái: Scheduled\
- nSân: Atlanta\nThành phố: Atlanta
+ nSân: Atlanta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77
+ -hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1134,12 +1344,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m071@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 71 ⚽ [J] Jordan vs Argentina
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Bảng J - Lượt 3\nTrạng thái: Scheduled\
- nSân: Dallas\nThành phố: Dallas
+ nSân: Dallas\nThành phố: Dallas\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1150,12 +1363,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m072@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 72 ⚽ [J] Algeria vs Áo
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
 LOCATION:Kansas City
 DESCRIPTION:Vòng/bảng: Bảng J - Lượt 3\nTrạng thái: Scheduled\
- nSân: Kansas City\nThành phố: Kansas City
+ nSân: Kansas City\nThành phố: Kansas City\nNguồn lịch: https://b
+ idikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1166,12 +1382,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m073@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 73 ⚽ 2A vs 2B
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Los A
- ngeles\nThành phố: Los Angeles
+ ngeles\nThành phố: Los Angeles\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1182,12 +1401,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m074@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 74 ⚽ 1C vs 2F
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Houst
- on\nThành phố: Houston
+ on\nThành phố: Houston\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1198,12 +1420,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m075@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 75 ⚽ 1E vs 3rd(ABCDF)
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Bosto
- n\nThành phố: Boston
+ n\nThành phố: Boston\nNguồn lịch: https://bidikid77-hub.github.io
+ /worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1214,12 +1439,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m076@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 76 ⚽ 1F vs 2C
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
 LOCATION:Monterrey
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Monte
- rrey\nThành phố: Monterrey
+ rrey\nThành phố: Monterrey\nNguồn lịch: https://bidikid77-hub.git
+ hub.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1230,12 +1458,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m077@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 77 ⚽ 2E vs 2I
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Dalla
- s\nThành phố: Dallas
+ s\nThành phố: Dallas\nNguồn lịch: https://bidikid77-hub.github.io
+ /worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1246,12 +1477,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m078@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 78 ⚽ 1I vs 3rd(CDFGH)
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: New Y
- ork/New Jersey\nThành phố: New York/New Jersey
+ ork/New Jersey\nThành phố: New York/New Jersey\nNguồn lịch: https
+ ://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1262,12 +1496,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m079@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 79 ⚽ 1A vs 3rd(CEFHI)
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
 LOCATION:Mexico City
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Mexic
- o City\nThành phố: Mexico City
+ o City\nThành phố: Mexico City\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1278,12 +1515,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m080@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 80 ⚽ 1L vs 3rd(EHIJK)
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Atlan
- ta\nThành phố: Atlanta
+ ta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1294,12 +1534,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m081@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 81 ⚽ 1G vs 3rd(AEHIJ)
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
 LOCATION:Seattle
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Seatt
- le\nThành phố: Seattle
+ le\nThành phố: Seattle\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1310,12 +1553,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m082@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 82 ⚽ 1D vs 3rd(BEFIJ)
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: SF Ba
- y Area\nThành phố: SF Bay Area
+ y Area\nThành phố: SF Bay Area\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1326,12 +1572,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m083@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 83 ⚽ 1H vs 2J
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Los A
- ngeles\nThành phố: Los Angeles
+ ngeles\nThành phố: Los Angeles\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1342,12 +1591,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m084@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 84 ⚽ 2K vs 2L
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
 LOCATION:Toronto
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Toron
- to\nThành phố: Toronto
+ to\nThành phố: Toronto\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1358,12 +1610,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m085@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 85 ⚽ 1B vs 3rd(DEJIL)
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Vanco
- uver\nThành phố: Vancouver
+ uver\nThành phố: Vancouver\nNguồn lịch: https://bidikid77-hub.git
+ hub.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1374,12 +1629,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m086@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 86 ⚽ 2D vs 2G
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Dalla
- s\nThành phố: Dallas
+ s\nThành phố: Dallas\nNguồn lịch: https://bidikid77-hub.github.io
+ /worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1390,12 +1648,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m087@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 87 ⚽ 1J vs 2H
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Miami
- \nThành phố: Miami
+ \nThành phố: Miami\nNguồn lịch: https://bidikid77-hub.github.io/w
+ orldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1406,12 +1667,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m088@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 88 ⚽ 1K vs 3rd(DEJIL)
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 LOCATION:Kansas City
 DESCRIPTION:Vòng/bảng: Vòng 32\nTrạng thái: Scheduled\nSân: Kansa
- s City\nThành phố: Kansas City
+ s City\nThành phố: Kansas City\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1422,12 +1686,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m089@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 89 ⚽ TBD vs TBD
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 LOCATION:Houston
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Houst
- on\nThành phố: Houston
+ on\nThành phố: Houston\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1438,12 +1705,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m090@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 90 ⚽ TBD vs TBD
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 LOCATION:Philadelphia
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Phila
- delphia\nThành phố: Philadelphia
+ delphia\nThành phố: Philadelphia\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1454,12 +1724,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m091@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 91 ⚽ TBD vs TBD
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: New Y
- ork/New Jersey\nThành phố: New York/New Jersey
+ ork/New Jersey\nThành phố: New York/New Jersey\nNguồn lịch: https
+ ://bidikid77-hub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1470,12 +1743,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m092@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 92 ⚽ TBD vs TBD
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
 LOCATION:Mexico City
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Mexic
- o City\nThành phố: Mexico City
+ o City\nThành phố: Mexico City\nNguồn lịch: https://bidikid77-hub
+ .github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1486,12 +1762,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m093@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 93 ⚽ TBD vs TBD
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Dalla
- s\nThành phố: Dallas
+ s\nThành phố: Dallas\nNguồn lịch: https://bidikid77-hub.github.io
+ /worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1502,12 +1781,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m094@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 94 ⚽ TBD vs TBD
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 LOCATION:Seattle
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Seatt
- le\nThành phố: Seattle
+ le\nThành phố: Seattle\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1518,12 +1800,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m095@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 95 ⚽ TBD vs TBD
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Atlan
- ta\nThành phố: Atlanta
+ ta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1534,12 +1819,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m096@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 96 ⚽ TBD vs TBD
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
 LOCATION:Vancouver
 DESCRIPTION:Vòng/bảng: Vòng 16\nTrạng thái: Scheduled\nSân: Vanco
- uver\nThành phố: Vancouver
+ uver\nThành phố: Vancouver\nNguồn lịch: https://bidikid77-hub.git
+ hub.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1550,12 +1838,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m097@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 97 ⚽ TBD vs TBD
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 LOCATION:Boston
 DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Bos
- ton\nThành phố: Boston
+ ton\nThành phố: Boston\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1566,12 +1857,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m098@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 98 ⚽ TBD vs TBD
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 LOCATION:Los Angeles
 DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Los
-  Angeles\nThành phố: Los Angeles
+  Angeles\nThành phố: Los Angeles\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1582,12 +1876,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m099@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 99 ⚽ TBD vs TBD
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Mia
- mi\nThành phố: Miami
+ mi\nThành phố: Miami\nNguồn lịch: https://bidikid77-hub.github.io
+ /worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1598,12 +1895,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m100@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 100 ⚽ TBD vs TBD
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
 LOCATION:Kansas City
 DESCRIPTION:Vòng/bảng: Tứ Kết\nTrạng thái: Scheduled\nSân: Kan
- sas City\nThành phố: Kansas City
+ sas City\nThành phố: Kansas City\nNguồn lịch: https://bidikid77-h
+ ub.github.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1614,12 +1914,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m101@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 101 ⚽ TBD vs TBD
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
 LOCATION:Dallas
 DESCRIPTION:Vòng/bảng: Bán Kết\nTrạng thái: Scheduled\nSân: Dal
- las\nThành phố: Dallas
+ las\nThành phố: Dallas\nNguồn lịch: https://bidikid77-hub.github.
+ io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1630,12 +1933,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m102@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 102 ⚽ TBD vs TBD
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 LOCATION:Atlanta
 DESCRIPTION:Vòng/bảng: Bán Kết\nTrạng thái: Scheduled\nSân: Atl
- anta\nThành phố: Atlanta
+ anta\nThành phố: Atlanta\nNguồn lịch: https://bidikid77-hub.githu
+ b.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1646,12 +1952,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m103@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 103 ⚽ 🥉 Tranh Hạng 3: TBD vs TBD
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
 LOCATION:Miami
 DESCRIPTION:Vòng/bảng: Tranh Hạng Ba\nTrạng thái: Scheduled\nSân
- : Miami\nThành phố: Miami
+ : Miami\nThành phố: Miami\nNguồn lịch: https://bidikid77-hub.gith
+ ub.io/worldcup2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -1662,13 +1971,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-m104@bidikid77-worldcup2026
+DTSTAMP:20260612T145244Z
+LAST-MODIFIED:20260612T145244Z
 SUMMARY:Trận 104 ⚽ 🏆 CHUNG KẾT: TBD vs TBD
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
 LOCATION:MetLife Stadium\, New York/New Jersey
 DESCRIPTION:Vòng/bảng: Chung Kết\nTrạng thái: Scheduled\nSân: Me
  tLife Stadium\, New York/New Jersey\nThành phố: MetLife Stadium\, New
-  York/New Jersey
+  York/New Jersey\nNguồn lịch: https://bidikid77-hub.github.io/worldc
+ up2026-webcal/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
