@@ -225,10 +225,8 @@ DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 LOCATION:Philadelphia
 DESCRIPTION:Trận #11 | Bảng E | Lượt 1\nGiờ VN: 06:00 ngày 15/0
- 6\nSân: Philadelphia\nLịch World Cup chi tiết: https://www.thegioid
- idong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-159198
- 7\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-
- vtv3-3.html
+ 6\nSân: Philadelphia
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -248,10 +246,8 @@ DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 LOCATION:Monterrey
 DESCRIPTION:Trận #12 | Bảng F | Lượt 1\nGiờ VN: 09:00 ngày 15/0
- 6\nSân: Monterrey\nLịch World Cup chi tiết: https://www.thegioidido
- ng.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\n
- Kênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv
- 3-3.html
+ 6\nSân: Monterrey
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -271,10 +267,8 @@ DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 LOCATION:Atlanta
 DESCRIPTION:Trận #13 | Bảng H | Lượt 1\nGiờ VN: 23:00 ngày 15/0
- 6\nSân: Atlanta\nLịch World Cup chi tiết: https://www.thegioididong
- .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
- ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
- -3.html
+ 6\nSân: Atlanta
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -294,10 +288,8 @@ DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 LOCATION:Seattle
 DESCRIPTION:Trận #14 | Bảng G | Lượt 1\nGiờ VN: 02:00 ngày 16/0
- 6\nSân: Seattle\nLịch World Cup chi tiết: https://www.thegioididong
- .com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nK
- ênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3
- -3.html
+ 6\nSân: Seattle
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -317,10 +309,8 @@ DTSTART:20260615T220000Z
 DTEND:20260616T000000Z
 LOCATION:Miami
 DESCRIPTION:Trận #15 | Bảng H | Lượt 1\nGiờ VN: 05:00 ngày 16/0
- 6\nSân: Miami\nLịch World Cup chi tiết: https://www.thegioididong.c
- om/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKên
- h xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.
- html
+ 6\nSân: Miami
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -340,10 +330,8 @@ DTSTART:20260616T010000Z
 DTEND:20260616T030000Z
 LOCATION:Los Angeles
 DESCRIPTION:Trận #16 | Bảng G | Lượt 1\nGiờ VN: 08:00 ngày 16/0
- 6\nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidi
- dong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987
- \nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-v
- tv3-3.html
+ 6\nSân: Los Angeles
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -363,10 +351,8 @@ DTSTART:20260616T190000Z
 DTEND:20260616T210000Z
 LOCATION:New York/New Jersey
 DESCRIPTION:Trận #17 | Bảng I | Lượt 1\nGiờ VN: 02:00 ngày 17/0
- 6\nSân: New York/New Jersey\nLịch World Cup chi tiết: https://www.t
- hegioididong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the
- -1591987\nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuye
- n-kenh-vtv3-3.html
+ 6\nSân: New York/New Jersey
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -386,10 +372,8 @@ DTSTART:20260616T220000Z
 DTEND:20260617T000000Z
 LOCATION:Boston
 DESCRIPTION:Trận #18 | Bảng I | Lượt 1\nGiờ VN: 05:00 ngày 17/0
- 6\nSân: Boston\nLịch World Cup chi tiết: https://www.thegioididong.
- com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
- nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
- .html
+ 6\nSân: Boston
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
