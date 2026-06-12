@@ -15,10 +15,8 @@ DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 LOCATION:Mexico City
 DESCRIPTION:Trận #1 | Bảng A | Lượt 1\nGiờ VN: 02:00 ngày 12/06
- \nSân: Mexico City\nLịch World Cup chi tiết: https://www.thegioidid
- ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
- nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
- v3-3.html
+ \nSân: Mexico City
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -38,10 +36,8 @@ DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 LOCATION:Guadalajara
 DESCRIPTION:Trận #2 | Bảng A | Lượt 1\nGiờ VN: 09:00 ngày 12/06
- \nSân: Guadalajara\nLịch World Cup chi tiết: https://www.thegioidid
- ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
- nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
- v3-3.html
+ \nSân: Guadalajara
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -61,10 +57,8 @@ DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 LOCATION:Toronto
 DESCRIPTION:Trận #3 | Bảng B | Lượt 1\nGiờ VN: 02:00 ngày 13/06
- \nSân: Toronto\nLịch World Cup chi tiết: https://www.thegioididong.
- com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\nKê
- nh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3
- .html
+ \nSân: Toronto
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -84,10 +78,8 @@ DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 LOCATION:Los Angeles
 DESCRIPTION:Trận #4 | Bảng D | Lượt 1\nGiờ VN: 08:00 ngày 13/06
- \nSân: Los Angeles\nLịch World Cup chi tiết: https://www.thegioidid
- ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
- nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
- v3-3.html
+ \nSân: Los Angeles
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -107,10 +99,8 @@ DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 LOCATION:SF Bay Area
 DESCRIPTION:Trận #5 | Bảng B | Lượt 1\nGiờ VN: 02:00 ngày 14/06
- \nSân: SF Bay Area\nLịch World Cup chi tiết: https://www.thegioidid
- ong.com/hoi-dap/lich-thi-dau-world-cup-2026-gio-vn-104-tran-the-1591987\
- nKênh xem: VTV3\nLink xem VTV3: https://vtvgo.vn/xem-truc-tuyen-kenh-vt
- v3-3.html
+ \nSân: SF Bay Area
+ \nKênh xem: VTV3
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
