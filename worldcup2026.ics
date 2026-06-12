@@ -15,7 +15,9 @@ DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 LOCATION:Mexico City
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 1\nTỷ số: 2-0\nTrạng t
- hái: Finished\nSân: Mexico City\nThành phố: Mexico City
+ hái: Finished\nCầu thủ ghi bàn:\n- Mexico: Julián Quiñones 9'\n-
+  Mexico: Raúl Jiménez 67'\nSân: Mexico City\nThành phố: Mexico Cit
+ y
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -31,7 +33,9 @@ DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 LOCATION:Guadalajara
 DESCRIPTION:Vòng/bảng: Bảng A - Lượt 1\nTỷ số: 2-1\nTrạng t
- hái: Finished\nSân: Guadalajara\nThành phố: Guadalajara
+ hái: Finished\nCầu thủ ghi bàn:\n- Czechia: Ladislav Krejčí 59'\
+ n- Hàn Quốc: Hwang In-beom 67'\n- Hàn Quốc: Oh Hyeon-gyu 80'\nSân
+ : Guadalajara\nThành phố: Guadalajara
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 BEGIN:VALARM

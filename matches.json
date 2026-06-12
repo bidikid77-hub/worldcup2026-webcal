@@ -11,7 +11,10 @@
     "city": "Mexico City",
     "score": "2-0",
     "status": "Finished",
-    "scorers": [],
+    "scorers": [
+      "Mexico: Julián Quiñones 9'",
+      "Mexico: Raúl Jiménez 67'"
+    ],
     "notes": ""
   },
   {
@@ -26,7 +29,11 @@
     "city": "Guadalajara",
     "score": "2-1",
     "status": "Finished",
-    "scorers": [],
+    "scorers": [
+      "Czechia: Ladislav Krejčí 59'",
+      "Hàn Quốc: Hwang In-beom 67'",
+      "Hàn Quốc: Oh Hyeon-gyu 80'"
+    ],
     "notes": ""
   },
   {
