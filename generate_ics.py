@@ -54,6 +54,13 @@ def description(m):
                 parts.append(f'- {s}')
     if m.get('notes'):
         parts.append(f'Ghi chu: {m["notes"]}')
+    if m.get('detail_link'):
+        parts.append(f'Lich chi tiet: {m["detail_link"]}')
+    if m.get('tv_channel'):
+        parts.append(f'Kenh xem: {m["tv_channel"]}')
+    if m.get('tv_link'):
+        label = m.get('tv_channel') or 'VTV'
+        parts.append(f'Link xem {label}: {m["tv_link"]}')
     return '\n'.join(parts)
 
 def uid(m):
