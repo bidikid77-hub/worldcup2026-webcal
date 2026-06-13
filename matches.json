@@ -89,9 +89,12 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "Finished",
+    "scorers": [
+      "Switzerland: Breel Embolo 17'",
+      "Qatar: Miro Muheim 90'+4'"
+    ],
     "notes": "",
     "tv_channel": "VTV3"
   },
