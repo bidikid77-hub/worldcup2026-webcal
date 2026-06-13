@@ -42,8 +42,13 @@ def summary(m):
             num = str(int(raw_id.split('m', 1)[1]))
         except Exception:
             num = ''
+    stage = str(m.get('stage') or '')
+    group = ''
+    if 'Bảng ' in stage:
+        group = stage.split('Bảng ', 1)[1].split(' ', 1)[0].strip()
     prefix = f'Trận {num} ' if num else ''
-    return f'{prefix}{h} {score} {a}' if score else f'{prefix}{h} vs {a}'
+    group_text = f'[{group}] ' if group else ''
+    return f'{prefix}{group_text}{h} {score} {a}' if score else f'{prefix}{group_text}{h} vs {a}'
 
 def description(m):
     parts = []
