@@ -1,5 +1,7 @@
 # ⚽ World Cup 2026 WebCal
 
+> English version: [README.en.md](README.en.md)
+
 Lịch **FIFA World Cup 2026** dạng **WebCal / ICS** tối ưu cho người dùng Việt Nam.
 
 Repo này xuất bản lịch công khai qua **GitHub Pages** để có thể:
