@@ -39,28 +39,23 @@ def summary(m):
 
 def description(m):
     parts = []
-    for label, key in [('Vong', 'stage'), ('Trang thai', 'status'), ('San', 'stadium'), ('Thanh pho', 'city')]:
+    for label, key in [('Vòng', 'stage'), ('Trạng thái', 'status'), ('Sân', 'stadium'), ('Thành phố', 'city')]:
         if m.get(key):
             parts.append(f'{label}: {m[key]}')
     if m.get('score'):
-        parts.append(f'Ty so: {m["score"]}')
+        parts.append(f'Tỷ số: {m["score"]}')
     scorers = m.get('scorers') or []
     if scorers:
-        parts.append('Cau thu ghi ban:')
+        parts.append('Cầu thủ ghi bàn:')
         for s in scorers:
             if isinstance(s, dict):
                 parts.append(f'- {s.get("team", "")}: {s.get("player", "")} {s.get("minute", "")}')
             else:
                 parts.append(f'- {s}')
     if m.get('notes'):
-        parts.append(f'Ghi chu: {m["notes"]}')
-    if m.get('detail_link'):
-        parts.append(f'Lich chi tiet: {m["detail_link"]}')
+        parts.append(f'Ghi chú: {m["notes"]}')
     if m.get('tv_channel'):
-        parts.append(f'Kenh xem: {m["tv_channel"]}')
-    if m.get('tv_link'):
-        label = m.get('tv_channel') or 'VTV'
-        parts.append(f'Link xem {label}: {m["tv_link"]}')
+        parts.append(f'Kênh xem: {m["tv_channel"]}')
     return '\n'.join(parts)
 
 def uid(m):
