@@ -9,12 +9,9 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "2-0",
-    "status": "Finished",
-    "scorers": [
-      "Mexico: Julián Quiñones 9'",
-      "Mexico: Raúl Jiménez 67'"
-    ],
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
     "notes": ""
   },
   {
@@ -27,13 +24,9 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "2-1",
-    "status": "Finished",
-    "scorers": [
-      "Czechia: Ladislav Krejčí 59'",
-      "Hàn Quốc: Hwang In-beom 67'",
-      "Hàn Quốc: Oh Hyeon-gyu 80'"
-    ],
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
     "notes": ""
   },
   {
@@ -46,12 +39,9 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "1-1",
-    "status": "Finished",
-    "scorers": [
-      "Bosnia-Herzegovina: Jovo Lukić 21'",
-      "Canada: Cyle Larin 78'"
-    ],
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
     "notes": ""
   },
   {
