@@ -9,8 +9,8 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "2-0",
+    "status": "Finished",
     "scorers": [],
     "notes": ""
   },
@@ -24,8 +24,8 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "",
-    "status": "Scheduled",
+    "score": "2-1",
+    "status": "Finished",
     "scorers": [],
     "notes": ""
   },
@@ -39,8 +39,8 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
+    "score": "1-1",
+    "status": "Finished",
     "scorers": [],
     "notes": ""
   },
@@ -54,8 +54,8 @@
     "stage": "Bảng D - Lượt 1",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
+    "score": "4-1",
+    "status": "Finished",
     "scorers": [],
     "notes": ""
   },
