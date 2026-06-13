@@ -35,7 +35,15 @@ def summary(m):
     h = m.get('home', 'TBD')
     a = m.get('away', 'TBD')
     score = m.get('score', '').strip()
-    return f'{h} {score} {a}' if score else f'{h} vs {a}'
+    raw_id = str(m.get('id') or '')
+    num = ''
+    if raw_id.startswith('wc2026-m'):
+        try:
+            num = str(int(raw_id.split('m', 1)[1]))
+        except Exception:
+            num = ''
+    prefix = f'Trận {num} ' if num else ''
+    return f'{prefix}{h} {score} {a}' if score else f'{prefix}{h} vs {a}'
 
 def description(m):
     parts = []
