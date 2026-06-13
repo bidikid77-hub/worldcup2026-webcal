@@ -52,23 +52,26 @@ def summary(m):
 
 def description(m):
     parts = []
-    for label, key in [('Vòng', 'stage'), ('Trạng thái', 'status'), ('Sân', 'stadium')]:
-        if m.get(key):
-            parts.append(f'{label}: {m[key]}')
+    if m.get('stage'):
+        parts.append(f'📌 Vòng: {m["stage"]}')
+    if m.get('status'):
+        parts.append(f'⏱ Trạng thái: {m["status"]}')
+    if m.get('stadium'):
+        parts.append(f'🏟 Sân: {m["stadium"]}')
     if m.get('score'):
-        parts.append(f'Tỷ số: {m["score"]}')
+        parts.append(f'⚽ Tỷ số: {m["score"]}')
     scorers = m.get('scorers') or []
     if scorers:
-        parts.append('Cầu thủ ghi bàn:')
+        parts.append('⚽ Cầu thủ ghi bàn:')
         for s in scorers:
             if isinstance(s, dict):
                 parts.append(f'- {s.get("team", "")}: {s.get("player", "")} {s.get("minute", "")}')
             else:
                 parts.append(f'- {s}')
     if m.get('notes'):
-        parts.append(f'Ghi chú: {m["notes"]}')
+        parts.append(f'📝 Ghi chú: {m["notes"]}')
     if m.get('tv_channel'):
-        parts.append(f'Kênh xem: {m["tv_channel"]}')
+        parts.append(f'📺 Kênh xem: {m["tv_channel"]}')
     return '\n'.join(parts)
 
 def uid(m):
