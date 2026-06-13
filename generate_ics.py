@@ -52,7 +52,7 @@ def summary(m):
 
 def description(m):
     parts = []
-    for label, key in [('Vòng', 'stage'), ('Trạng thái', 'status'), ('Sân', 'stadium'), ('Thành phố', 'city')]:
+    for label, key in [('Vòng', 'stage'), ('Trạng thái', 'status'), ('Sân', 'stadium')]:
         if m.get(key):
             parts.append(f'{label}: {m[key]}')
     if m.get('score'):
