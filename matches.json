@@ -145,9 +145,12 @@
     "stage": "Bảng D - Lượt 1",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "2-0",
+    "status": "Finished",
+    "scorers": [
+      "Australia: Nestory Irankunda 27'",
+      "Australia: Connor Metcalfe 75'"
+    ],
     "notes": "",
     "tv_channel": "VTV3"
   },
