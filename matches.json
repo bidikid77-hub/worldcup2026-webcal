@@ -108,9 +108,12 @@
     "stage": "Bảng C - Lượt 1",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "Finished",
+    "scorers": [
+      "Morocco: Ismael Saibari 21'",
+      "Brazil: Vinícius Júnior 32'"
+    ],
     "notes": "",
     "tv_channel": "VTV3"
   },
@@ -124,9 +127,11 @@
     "stage": "Bảng C - Lượt 1",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "0-1",
+    "status": "Finished",
+    "scorers": [
+      "Scotland: John McGinn 28'"
+    ],
     "notes": "",
     "tv_channel": "VTV3"
   },
