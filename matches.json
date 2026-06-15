@@ -9,9 +9,22 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "2-0",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Mexico",
+        "player": "Julián Quiñones",
+        "minute": "9'",
+        "assist": "Érik Lira"
+      },
+      {
+        "team": "Mexico",
+        "player": "Raúl Jiménez",
+        "minute": "67'",
+        "assist": "Roberto Alvarado"
+      }
+    ],
     "notes": ""
   },
   {
@@ -24,9 +37,28 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "2-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Czechia",
+        "player": "Ladislav Krejcí",
+        "minute": "59'",
+        "assist": "Vladimír Coufal"
+      },
+      {
+        "team": "Hàn Quốc",
+        "player": "Hwang In-Beom",
+        "minute": "67'",
+        "assist": "Lee Kang-In"
+      },
+      {
+        "team": "Hàn Quốc",
+        "player": "Oh Hyeon-Gyu",
+        "minute": "80'",
+        "assist": "Hwang In-Beom"
+      }
+    ],
     "notes": ""
   },
   {
@@ -39,9 +71,22 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Bosnia-Herzegovina",
+        "player": "Jovo Lukic",
+        "minute": "21'",
+        "assist": "Sead Kolasinac"
+      },
+      {
+        "team": "Canada",
+        "player": "Cyle Larin",
+        "minute": "78'",
+        "assist": "Promise David"
+      }
+    ],
     "notes": ""
   },
   {
@@ -54,9 +99,39 @@
     "stage": "Bảng D - Lượt 1",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "4-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "USA",
+        "player": "Damián Bobadilla",
+        "minute": "7'"
+      },
+      {
+        "team": "USA",
+        "player": "Folarin Balogun",
+        "minute": "31'",
+        "assist": "Christian Pulisic"
+      },
+      {
+        "team": "USA",
+        "player": "Folarin Balogun",
+        "minute": "45'+5'",
+        "assist": "Malik Tillman"
+      },
+      {
+        "team": "Paraguay",
+        "player": "Maurício",
+        "minute": "73'",
+        "assist": "Julio Enciso"
+      },
+      {
+        "team": "USA",
+        "player": "Giovanni Reyna",
+        "minute": "90'+8'",
+        "assist": "Alex Freeman"
+      }
+    ],
     "notes": ""
   },
   {
@@ -69,9 +144,21 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Thụy Sĩ",
+        "player": "Breel Embolo",
+        "minute": "17'"
+      },
+      {
+        "team": "Qatar",
+        "player": "Miro Muheim",
+        "minute": "90'+4'",
+        "assist": "Homam Ahmed"
+      }
+    ],
     "notes": ""
   },
   {
@@ -84,9 +171,22 @@
     "stage": "Bảng C - Lượt 1",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Morocco",
+        "player": "Ismael Saibari",
+        "minute": "21'",
+        "assist": "Brahim Díaz"
+      },
+      {
+        "team": "Brazil",
+        "player": "Vinícius Júnior",
+        "minute": "32'",
+        "assist": "Bruno Guimarães"
+      }
+    ],
     "notes": ""
   },
   {
@@ -99,9 +199,15 @@
     "stage": "Bảng C - Lượt 1",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "0-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Scotland",
+        "player": "John McGinn",
+        "minute": "28'"
+      }
+    ],
     "notes": ""
   },
   {
