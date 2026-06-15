@@ -6,7 +6,9 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-BASE = Path(__file__).resolve().parent
+BASE = Path.cwd()
+if not (BASE / "matches.json").exists():
+    BASE = Path(__file__).resolve().parent
 MATCHES = BASE / "matches.json"
 GEN = BASE / "generate_ics.py"
 ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?limit=100"
