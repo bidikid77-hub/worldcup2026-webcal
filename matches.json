@@ -9,14 +9,10 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "2-0",
-    "status": "Finished",
-    "scorers": [
-      "Mexico: Julián Quiñones 9'",
-      "Mexico: Raúl Jiménez 67'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m002",
@@ -28,15 +24,10 @@
     "stage": "Bảng A - Lượt 1",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "2-1",
-    "status": "Finished",
-    "scorers": [
-      "Czechia: Ladislav Krejcí 59'",
-      "South Korea: Hwang In-Beom 67'",
-      "South Korea: Oh Hyeon-Gyu 80'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m003",
@@ -48,14 +39,10 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "1-1",
-    "status": "Finished",
-    "scorers": [
-      "Bosnia-Herzegovina: Jovo Lukic 21'",
-      "Canada: Cyle Larin 78'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m004",
@@ -67,17 +54,10 @@
     "stage": "Bảng D - Lượt 1",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "4-1",
-    "status": "Finished",
-    "scorers": [
-      "United States: Damián Bobadilla 7'",
-      "United States: Folarin Balogun 31'",
-      "United States: Folarin Balogun 45'+5'",
-      "Paraguay: Maurício 73'",
-      "United States: Giovanni Reyna 90'+8'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m005",
@@ -89,14 +69,10 @@
     "stage": "Bảng B - Lượt 1",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "1-1",
-    "status": "Finished",
-    "scorers": [
-      "Switzerland: Breel Embolo 17'",
-      "Qatar: Miro Muheim 90'+4'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m006",
@@ -108,14 +84,10 @@
     "stage": "Bảng C - Lượt 1",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "1-1",
-    "status": "Finished",
-    "scorers": [
-      "Morocco: Ismael Saibari 21'",
-      "Brazil: Vinícius Júnior 32'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m007",
@@ -127,13 +99,10 @@
     "stage": "Bảng C - Lượt 1",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "0-1",
-    "status": "Finished",
-    "scorers": [
-      "Scotland: John McGinn 28'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "score": "",
+    "status": "Scheduled",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m008",
@@ -146,13 +115,9 @@
     "stadium": "Vancouver",
     "city": "Vancouver",
     "score": "2-0",
-    "status": "Finished",
-    "scorers": [
-      "Australia: Nestory Irankunda 27'",
-      "Australia: Connor Metcalfe 75'"
-    ],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "status": "FT",
+    "scorers": [],
+    "notes": ""
   },
   {
     "id": "wc2026-m009",
@@ -164,11 +129,10 @@
     "stage": "Bảng E - Lượt 1",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "7-1",
+    "status": "FT",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m010",
@@ -180,11 +144,10 @@
     "stage": "Bảng F - Lượt 1",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
+    "score": "2-2",
+    "status": "FT",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m011",
@@ -199,8 +162,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m012",
@@ -215,8 +177,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m013",
@@ -231,8 +192,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m014",
@@ -247,8 +207,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m015",
@@ -263,8 +222,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m016",
@@ -279,8 +237,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m017",
@@ -295,8 +252,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m018",
@@ -311,8 +267,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m019",
@@ -327,8 +282,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m020",
@@ -343,8 +297,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m021",
@@ -359,8 +312,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m022",
@@ -375,8 +327,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m023",
@@ -391,8 +342,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m024",
@@ -407,8 +357,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m025",
@@ -423,8 +372,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m026",
@@ -439,8 +387,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m027",
@@ -455,8 +402,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m028",
@@ -471,8 +417,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m029",
@@ -487,8 +432,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m030",
@@ -503,8 +447,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m031",
@@ -519,8 +462,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m032",
@@ -535,8 +477,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m033",
@@ -551,8 +492,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m034",
@@ -567,8 +507,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m035",
@@ -583,8 +522,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m036",
@@ -599,8 +537,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m037",
@@ -615,8 +552,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m038",
@@ -631,8 +567,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m039",
@@ -647,8 +582,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m040",
@@ -663,8 +597,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m041",
@@ -679,8 +612,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m042",
@@ -695,8 +627,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m043",
@@ -711,8 +642,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m044",
@@ -727,8 +657,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m045",
@@ -743,8 +672,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m046",
@@ -759,8 +687,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m047",
@@ -775,8 +702,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m048",
@@ -791,8 +717,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m049",
@@ -807,8 +732,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m050",
@@ -823,8 +747,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m051",
@@ -839,8 +762,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m052",
@@ -855,9 +777,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m053",
@@ -872,9 +792,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m054",
@@ -889,8 +807,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m055",
@@ -905,8 +822,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m056",
@@ -921,8 +837,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m057",
@@ -937,8 +852,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m058",
@@ -953,8 +867,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m059",
@@ -969,8 +882,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m060",
@@ -985,9 +897,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m061",
@@ -1002,8 +912,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m062",
@@ -1018,9 +927,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m063",
@@ -1035,9 +942,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m064",
@@ -1052,8 +957,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m065",
@@ -1068,9 +972,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m066",
@@ -1085,8 +987,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m067",
@@ -1101,9 +1002,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m068",
@@ -1118,8 +1017,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m069",
@@ -1134,8 +1032,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m070",
@@ -1150,9 +1047,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV10",
-    "tv_link": "https://vtvgo.vn/channel/vtv-can-tho-1,6.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m071",
@@ -1167,9 +1062,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV2",
-    "tv_link": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html"
+    "notes": ""
   },
   {
     "id": "wc2026-m072",
@@ -1184,8 +1077,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m073",
@@ -1200,8 +1092,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m074",
@@ -1216,8 +1107,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m075",
@@ -1232,8 +1122,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m076",
@@ -1248,8 +1137,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m077",
@@ -1264,8 +1152,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m078",
@@ -1280,8 +1167,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m079",
@@ -1296,8 +1182,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m080",
@@ -1312,8 +1197,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m081",
@@ -1328,8 +1212,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m082",
@@ -1344,8 +1227,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m083",
@@ -1360,8 +1242,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m084",
@@ -1376,8 +1257,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m085",
@@ -1392,8 +1272,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m086",
@@ -1408,8 +1287,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m087",
@@ -1424,8 +1302,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m088",
@@ -1440,8 +1317,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m089",
@@ -1456,8 +1332,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m090",
@@ -1472,8 +1347,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m091",
@@ -1488,8 +1362,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m092",
@@ -1504,8 +1377,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m093",
@@ -1520,8 +1392,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m094",
@@ -1536,8 +1407,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m095",
@@ -1552,8 +1422,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m096",
@@ -1568,8 +1437,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m097",
@@ -1584,8 +1452,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m098",
@@ -1600,8 +1467,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m099",
@@ -1616,8 +1482,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m100",
@@ -1632,8 +1497,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m101",
@@ -1648,8 +1512,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m102",
@@ -1664,8 +1527,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m103",
@@ -1680,8 +1542,7 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   },
   {
     "id": "wc2026-m104",
@@ -1696,7 +1557,6 @@
     "score": "",
     "status": "Scheduled",
     "scorers": [],
-    "notes": "",
-    "tv_channel": "VTV3"
+    "notes": ""
   }
 ]
