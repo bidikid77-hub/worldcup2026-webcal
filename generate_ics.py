@@ -65,7 +65,9 @@ def description(m):
         parts.append('⚽ Cầu thủ ghi bàn:')
         for s in scorers:
             if isinstance(s, dict):
-                parts.append(f'- {s.get("team", "")}: {s.get("player", "")} {s.get("minute", "")}')
+                assist = s.get("assist", "")
+                suffix = f' (kiến tạo: {assist})' if assist else ''
+                parts.append(f'- {s.get("team", "")}: {s.get("player", "")} {s.get("minute", "")}{suffix}')
             else:
                 parts.append(f'- {s}')
     if m.get('notes'):

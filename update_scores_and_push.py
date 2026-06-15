@@ -71,6 +71,42 @@ def fetch():
     with urllib.request.urlopen(ESPN_URL, timeout=30) as r:
         return json.load(r)
 
+def fetch_summary(event_id):
+    url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event={event_id}"
+    with urllib.request.urlopen(url, timeout=30) as r:
+        return json.load(r)
+
+def extract_scorers(event_id):
+    try:
+        data = fetch_summary(event_id)
+    except Exception:
+        return []
+    out = []
+    seen = set()
+    for ev in data.get("keyEvents", []):
+        if not ev.get("scoringPlay"):
+            continue
+        team = norm((ev.get("team") or {}).get("displayName", ""))
+        minute = ((ev.get("clock") or {}).get("displayValue") or "").strip()
+        participants = ev.get("participants") or []
+        player = ""
+        if participants:
+            player = ((participants[0].get("athlete") or {}).get("displayName") or "").strip()
+        if not player:
+            short = ev.get("shortText") or ""
+            player = short.replace(" Goal - Header", "").replace(" Goal - Volley", "").replace(" Penalty - Scored", "").replace(" Goal", "").strip()
+        assist = ""
+        if len(participants) > 1:
+            assist = ((participants[1].get("athlete") or {}).get("displayName") or "").strip()
+        row = {"team": team, "player": player, "minute": minute}
+        if assist:
+            row["assist"] = assist
+        key = (team, player, minute)
+        if player and key not in seen:
+            seen.add(key)
+            out.append(row)
+    return out
+
 def main():
     # Keep repo current; continue if pull fails due local changes? cron owns repo, so fail loud.
     pull = run(["git", "pull", "--ff-only"])
@@ -111,11 +147,15 @@ def main():
             new_status = status_type.get("detail") or desc or "Live"
         else:
             continue
-        old = (m.get("score", ""), m.get("status", ""))
-        new = (score, new_status)
+        event_id = ev.get("id")
+        scorers = extract_scorers(event_id) if event_id else []
+        old = (m.get("score", ""), m.get("status", ""), m.get("scorers") or [])
+        new = (score, new_status, scorers)
         if old != new:
             m["score"] = score
             m["status"] = new_status
+            if scorers:
+                m["scorers"] = scorers
             changes.append(f"{m['home']} {score} {m['away']} ({new_status})")
 
     if not changes:
