@@ -116,7 +116,19 @@
     "city": "Vancouver",
     "score": "2-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Australia",
+        "player": "Nestory Irankunda",
+        "minute": "27'",
+        "assist": "Paul Okon-Engstler"
+      },
+      {
+        "team": "Australia",
+        "player": "Connor Metcalfe",
+        "minute": "75'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -131,7 +143,54 @@
     "city": "Houston",
     "score": "7-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Đức",
+        "player": "Felix Nmecha",
+        "minute": "6'",
+        "assist": "Florian Wirtz"
+      },
+      {
+        "team": "Curaçao",
+        "player": "Livano Comenencia",
+        "minute": "21'"
+      },
+      {
+        "team": "Đức",
+        "player": "Nico Schlotterbeck",
+        "minute": "38'",
+        "assist": "Nathaniel Brown"
+      },
+      {
+        "team": "Đức",
+        "player": "Kai Havertz",
+        "minute": "45'+5'"
+      },
+      {
+        "team": "Đức",
+        "player": "Jamal Musiala",
+        "minute": "47'",
+        "assist": "Joshua Kimmich"
+      },
+      {
+        "team": "Đức",
+        "player": "Nathaniel Brown",
+        "minute": "68'",
+        "assist": "Deniz Undav"
+      },
+      {
+        "team": "Đức",
+        "player": "Deniz Undav",
+        "minute": "78'",
+        "assist": "Joshua Kimmich"
+      },
+      {
+        "team": "Đức",
+        "player": "Kai Havertz",
+        "minute": "88'",
+        "assist": "Deniz Undav"
+      }
+    ],
     "notes": ""
   },
   {
@@ -146,7 +205,32 @@
     "city": "Dallas",
     "score": "2-2",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Hà Lan",
+        "player": "Virgil van Dijk",
+        "minute": "51'",
+        "assist": "Ryan Gravenberch"
+      },
+      {
+        "team": "Nhật Bản",
+        "player": "Keito Nakamura",
+        "minute": "57'",
+        "assist": "Takefusa Kubo"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Crysencio Summerville",
+        "minute": "64'",
+        "assist": "Ryan Gravenberch"
+      },
+      {
+        "team": "Nhật Bản",
+        "player": "Daichi Kamada",
+        "minute": "89'",
+        "assist": "Koki Ogawa"
+      }
+    ],
     "notes": ""
   },
   {
@@ -160,8 +244,15 @@
     "stadium": "Philadelphia",
     "city": "Philadelphia",
     "score": "1-0",
-    "status": "90'+5'",
-    "scorers": [],
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Bờ Biển Ngà",
+        "player": "Amad Diallo",
+        "minute": "90'",
+        "assist": "Wilfried Singo"
+      }
+    ],
     "notes": ""
   },
   {
