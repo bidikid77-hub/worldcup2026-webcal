@@ -117,7 +117,6 @@ def main():
             changes.append(f"{m['home']} {score} {m['away']} ({new_status})")
 
     if not changes:
-        print("No score changes.")
         return 0
 
     MATCHES.write_text(json.dumps(matches, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
