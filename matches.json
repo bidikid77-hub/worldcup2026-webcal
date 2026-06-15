@@ -371,7 +371,7 @@
     "stage": "Bảng F - Lượt 1",
     "stadium": "Monterrey",
     "city": "Monterrey",
-    "score": "1-5",
+    "score": "5-1",
     "status": "FT",
     "scorers": [
       {
@@ -437,9 +437,21 @@
     "stage": "Bảng G - Lượt 1",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "0-0",
+    "score": "1-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Ai Cập",
+        "player": "Emam Ashour",
+        "minute": "19'",
+        "assist": "Mohamed Salah"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Mohamed Hany",
+        "minute": "66'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -452,9 +464,15 @@
     "stage": "Bảng H - Lượt 1",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "1-0",
+    "status": "49'",
+    "scorers": [
+      {
+        "team": "Saudi Arabia",
+        "player": "Abdulelah Al-Amri",
+        "minute": "41'"
+      }
+    ],
     "notes": ""
   },
   {
