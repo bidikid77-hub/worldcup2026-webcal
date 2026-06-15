@@ -9,1147 +9,1147 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:d94632b069e21272cfc30eb7653522704c26d431@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260612T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260612T040000
-SUMMARY:Mexico vs Nam Phi
+SUMMARY:Trận 1 [A] Mexico vs Nam Phi
 LOCATION:Mexico City - Mexico City
-DESCRIPTION:Vong: Bảng A - Lượt 1\nTrang thai: Scheduled\nSan: Mexico 
- City\nThanh pho: Mexico City
+DESCRIPTION:📌 Vòng: Bảng A - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Mexico City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eac38613fd61c30815de491b6dbf1bfa8a1d7aa9@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260612T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260612T110000
-SUMMARY:Hàn Quốc vs Czechia
+SUMMARY:Trận 2 [A] Hàn Quốc vs Czechia
 LOCATION:Guadalajara - Guadalajara
-DESCRIPTION:Vong: Bảng A - Lượt 1\nTrang thai: Scheduled\nSan: Guadala
- jara\nThanh pho: Guadalajara
+DESCRIPTION:📌 Vòng: Bảng A - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Guadalajara
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7227028eaae18ee3a39c63080811bf33b211b8b2@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260613T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260613T040000
-SUMMARY:Canada vs Bosnia-Herzegovina
+SUMMARY:Trận 3 [B] Canada vs Bosnia-Herzegovina
 LOCATION:Toronto - Toronto
-DESCRIPTION:Vong: Bảng B - Lượt 1\nTrang thai: Scheduled\nSan: Toronto
- \nThanh pho: Toronto
+DESCRIPTION:📌 Vòng: Bảng B - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Toronto
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b8e5b97449a013c2022056b8387f990b084ee8f9@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260613T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260613T100000
-SUMMARY:USA vs Paraguay
+SUMMARY:Trận 4 [D] USA vs Paraguay
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Bảng D - Lượt 1\nTrang thai: Scheduled\nSan: Los Ang
- eles\nThanh pho: Los Angeles
+DESCRIPTION:📌 Vòng: Bảng D - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fca1b7035dc40466afd7bf2ccd1307112a1550a8@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260614T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260614T040000
-SUMMARY:Qatar vs Thụy Sĩ
+SUMMARY:Trận 5 [B] Qatar vs Thụy Sĩ
 LOCATION:SF Bay Area - SF Bay Area
-DESCRIPTION:Vong: Bảng B - Lượt 1\nTrang thai: Scheduled\nSan: SF Bay 
- Area\nThanh pho: SF Bay Area
+DESCRIPTION:📌 Vòng: Bảng B - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: SF Bay Area
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5ae608300323dfc669e4c4723813eb49456b45a2@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260614T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260614T070000
-SUMMARY:Brazil vs Morocco
+SUMMARY:Trận 6 [C] Brazil vs Morocco
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Bảng C - Lượt 1\nTrang thai: Scheduled\nSan: New Yor
- k/New Jersey\nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Bảng C - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0b83bcc4bead1540a0536df9bf2ed058231368c@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260614T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260614T100000
-SUMMARY:Haiti vs Scotland
+SUMMARY:Trận 7 [C] Haiti vs Scotland
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Bảng C - Lượt 1\nTrang thai: Scheduled\nSan: Boston\
- nThanh pho: Boston
+DESCRIPTION:📌 Vòng: Bảng C - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4826e4899804ae060b465c0b6dca040622695f4@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260614T110000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260614T130000
-SUMMARY:Australia 2-0 Thổ Nhĩ Kỳ
+SUMMARY:Trận 8 [D] Australia 2-0 Thổ Nhĩ Kỳ
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Bảng D - Lượt 1\nTrang thai: FT\nSan: Vancouver\nTha
- nh pho: Vancouver\nTy so: 2-0
+DESCRIPTION:📌 Vòng: Bảng D - Lượt 1\n⏱ Trạng thái: FT\n🏟 S
+ ân: Vancouver\n⚽ Tỷ số: 2-0
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b72e012fd22b85cb7c2e8da2679992204d9bc3cf@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260615T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260615T020000
-SUMMARY:Đức 7-1 Curaçao
+SUMMARY:Trận 9 [E] Đức 7-1 Curaçao
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Bảng E - Lượt 1\nTrang thai: FT\nSan: Houston\nThanh
-  pho: Houston\nTy so: 7-1
+DESCRIPTION:📌 Vòng: Bảng E - Lượt 1\n⏱ Trạng thái: FT\n🏟 S
+ ân: Houston\n⚽ Tỷ số: 7-1
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b35ee37fd2bb1e2a81d43a6006ed548e819683f5@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260615T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260615T050000
-SUMMARY:Hà Lan 2-2 Nhật Bản
+SUMMARY:Trận 10 [F] Hà Lan 2-2 Nhật Bản
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Bảng F - Lượt 1\nTrang thai: FT\nSan: Dallas\nThanh 
- pho: Dallas\nTy so: 2-2
+DESCRIPTION:📌 Vòng: Bảng F - Lượt 1\n⏱ Trạng thái: FT\n🏟 S
+ ân: Dallas\n⚽ Tỷ số: 2-2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:24a5f31b176fae71874eedf419416cdb7bd2e539@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260615T060000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260615T080000
-SUMMARY:Bờ Biển Ngà vs Ecuador
+SUMMARY:Trận 11 [E] Bờ Biển Ngà 1-0 Ecuador
 LOCATION:Philadelphia - Philadelphia
-DESCRIPTION:Vong: Bảng E - Lượt 1\nTrang thai: Scheduled\nSan: Philade
- lphia\nThanh pho: Philadelphia
+DESCRIPTION:📌 Vòng: Bảng E - Lượt 1\n⏱ Trạng thái: 90'+2'\n
+ 🏟 Sân: Philadelphia\n⚽ Tỷ số: 1-0
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52a22039199db54b5d1cc5db1dc365c8f8ab00c0@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260615T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260615T110000
-SUMMARY:Tunisia vs Thụy Điển
+SUMMARY:Trận 12 [F] Tunisia vs Thụy Điển
 LOCATION:Monterrey - Monterrey
-DESCRIPTION:Vong: Bảng F - Lượt 1\nTrang thai: Scheduled\nSan: Monterr
- ey\nThanh pho: Monterrey
+DESCRIPTION:📌 Vòng: Bảng F - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Monterrey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afc3135df8288beaa6d29a787c44f5f1517e0c8f@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260615T230000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260616T010000
-SUMMARY:Tây Ban Nha vs Cape Verde
+SUMMARY:Trận 13 [H] Tây Ban Nha vs Cape Verde
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Bảng H - Lượt 1\nTrang thai: Scheduled\nSan: Atlanta
- \nThanh pho: Atlanta
+DESCRIPTION:📌 Vòng: Bảng H - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8de6c6efd32eea4dff5bd93e3580571602dd05e6@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260616T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260616T040000
-SUMMARY:Bỉ vs Ai Cập
+SUMMARY:Trận 14 [G] Bỉ vs Ai Cập
 LOCATION:Seattle - Seattle
-DESCRIPTION:Vong: Bảng G - Lượt 1\nTrang thai: Scheduled\nSan: Seattle
- \nThanh pho: Seattle
+DESCRIPTION:📌 Vòng: Bảng G - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Seattle
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3764f9a7378c07689582bf1384c33f4674818d11@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260616T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260616T070000
-SUMMARY:Saudi Arabia vs Uruguay
+SUMMARY:Trận 15 [H] Saudi Arabia vs Uruguay
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Bảng H - Lượt 1\nTrang thai: Scheduled\nSan: Miami\n
- Thanh pho: Miami
+DESCRIPTION:📌 Vòng: Bảng H - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:02a0c675a9aeeeb19fca37d72b0861194d8855dc@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260616T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260616T100000
-SUMMARY:Iran vs New Zealand
+SUMMARY:Trận 16 [G] Iran vs New Zealand
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Bảng G - Lượt 1\nTrang thai: Scheduled\nSan: Los Ang
- eles\nThanh pho: Los Angeles
+DESCRIPTION:📌 Vòng: Bảng G - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f7574212814e6cf6bcb10b6b397e55a613dca7eb@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260617T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260617T040000
-SUMMARY:Pháp vs Senegal
+SUMMARY:Trận 17 [I] Pháp vs Senegal
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Bảng I - Lượt 1\nTrang thai: Scheduled\nSan: New Yor
- k/New Jersey\nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Bảng I - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f898d455f3b1f515d2c7f8d9f9a5452de39f7927@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260617T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260617T070000
-SUMMARY:Na Uy vs Iraq
+SUMMARY:Trận 18 [I] Na Uy vs Iraq
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Bảng I - Lượt 1\nTrang thai: Scheduled\nSan: Boston\
- nThanh pho: Boston
+DESCRIPTION:📌 Vòng: Bảng I - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4260eba0162c809f06cb2a48dde0c362695865e1@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260617T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260617T100000
-SUMMARY:Argentina vs Algeria
+SUMMARY:Trận 19 [J] Argentina vs Algeria
 LOCATION:Kansas City - Kansas City
-DESCRIPTION:Vong: Bảng J - Lượt 1\nTrang thai: Scheduled\nSan: Kansas 
- City\nThanh pho: Kansas City
+DESCRIPTION:📌 Vòng: Bảng J - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Kansas City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55352c908ce46900f2d66589f2fe4daa5358b13f@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260617T110000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260617T130000
-SUMMARY:Áo vs Jordan
+SUMMARY:Trận 20 [J] Áo vs Jordan
 LOCATION:SF Bay Area - SF Bay Area
-DESCRIPTION:Vong: Bảng J - Lượt 1\nTrang thai: Scheduled\nSan: SF Bay 
- Area\nThanh pho: SF Bay Area
+DESCRIPTION:📌 Vòng: Bảng J - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: SF Bay Area
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4da6eb385fc2d06ec51f5943fdd79e4ccdb50265@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260618T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260618T020000
-SUMMARY:Bồ Đào Nha vs Congo DR
+SUMMARY:Trận 21 [K] Bồ Đào Nha vs Congo DR
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Bảng K - Lượt 1\nTrang thai: Scheduled\nSan: Houston
- \nThanh pho: Houston
+DESCRIPTION:📌 Vòng: Bảng K - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Houston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9530eee0980dbf47873db13738bf024435f9e9ca@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260618T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260618T050000
-SUMMARY:Anh vs Croatia
+SUMMARY:Trận 22 [L] Anh vs Croatia
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Bảng L - Lượt 1\nTrang thai: Scheduled\nSan: Dallas\
- nThanh pho: Dallas
+DESCRIPTION:📌 Vòng: Bảng L - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a04edef4941920e26b30e346674b2a0b2a22d300@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260618T060000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260618T080000
-SUMMARY:Ghana vs Panama
+SUMMARY:Trận 23 [L] Ghana vs Panama
 LOCATION:Toronto - Toronto
-DESCRIPTION:Vong: Bảng L - Lượt 1\nTrang thai: Scheduled\nSan: Toronto
- \nThanh pho: Toronto
+DESCRIPTION:📌 Vòng: Bảng L - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Toronto
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:23466d1d95d1776cd8ab441cc7574d34b82682e5@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260618T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260618T110000
-SUMMARY:Uzbekistan vs Colombia
+SUMMARY:Trận 24 [K] Uzbekistan vs Colombia
 LOCATION:Mexico City - Mexico City
-DESCRIPTION:Vong: Bảng K - Lượt 1\nTrang thai: Scheduled\nSan: Mexico 
- City\nThanh pho: Mexico City
+DESCRIPTION:📌 Vòng: Bảng K - Lượt 1\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Mexico City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7904edb3f73ba61f8a4b0215a5f549e21c4a17e0@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260618T230000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260619T010000
-SUMMARY:Nam Phi vs Czechia
+SUMMARY:Trận 25 [A] Nam Phi vs Czechia
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Bảng A - Lượt 2\nTrang thai: Scheduled\nSan: Atlanta
- \nThanh pho: Atlanta
+DESCRIPTION:📌 Vòng: Bảng A - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae63ca29f3e06d651897a92a9d49d2e620a25654@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260619T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260619T040000
-SUMMARY:Thụy Sĩ vs Bosnia-Herzegovina
+SUMMARY:Trận 26 [B] Thụy Sĩ vs Bosnia-Herzegovina
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Bảng B - Lượt 2\nTrang thai: Scheduled\nSan: Los Ang
- eles\nThanh pho: Los Angeles
+DESCRIPTION:📌 Vòng: Bảng B - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2a910ee927738055dd2648598aa83139607a9b06@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260619T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260619T070000
-SUMMARY:Canada vs Qatar
+SUMMARY:Trận 27 [B] Canada vs Qatar
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Bảng B - Lượt 2\nTrang thai: Scheduled\nSan: Vancouv
- er\nThanh pho: Vancouver
+DESCRIPTION:📌 Vòng: Bảng B - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4e8cf7bee062a48b32547c2439532321415ec99e@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260619T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260619T100000
-SUMMARY:Mexico vs Hàn Quốc
+SUMMARY:Trận 28 [A] Mexico vs Hàn Quốc
 LOCATION:Guadalajara - Guadalajara
-DESCRIPTION:Vong: Bảng A - Lượt 2\nTrang thai: Scheduled\nSan: Guadala
- jara\nThanh pho: Guadalajara
+DESCRIPTION:📌 Vòng: Bảng A - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Guadalajara
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e2f7278dca77173b8a3c0c7282e105ed75797d8@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260620T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260620T040000
-SUMMARY:USA vs Australia
+SUMMARY:Trận 29 [D] USA vs Australia
 LOCATION:Seattle - Seattle
-DESCRIPTION:Vong: Bảng D - Lượt 2\nTrang thai: Scheduled\nSan: Seattle
- \nThanh pho: Seattle
+DESCRIPTION:📌 Vòng: Bảng D - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Seattle
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08e52e0e95baad61988e6da00156e0a847084b8f@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260620T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260620T040000
-SUMMARY:Scotland vs Morocco
+SUMMARY:Trận 30 [C] Scotland vs Morocco
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Bảng C - Lượt 2\nTrang thai: Scheduled\nSan: Boston\
- nThanh pho: Boston
+DESCRIPTION:📌 Vòng: Bảng C - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f7ef4316cc652e246bc0c5fc1ca941def6df9e@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260620T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260620T100000
-SUMMARY:Brazil vs Haiti
+SUMMARY:Trận 31 [C] Brazil vs Haiti
 LOCATION:Philadelphia - Philadelphia
-DESCRIPTION:Vong: Bảng C - Lượt 2\nTrang thai: Scheduled\nSan: Philade
- lphia\nThanh pho: Philadelphia
+DESCRIPTION:📌 Vòng: Bảng C - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Philadelphia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91b0de8cf74d1176ba2de7d0f7ce44b6fda92276@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260620T110000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260620T130000
-SUMMARY:Paraguay vs Thổ Nhĩ Kỳ
+SUMMARY:Trận 32 [D] Paraguay vs Thổ Nhĩ Kỳ
 LOCATION:SF Bay Area - SF Bay Area
-DESCRIPTION:Vong: Bảng D - Lượt 2\nTrang thai: Scheduled\nSan: SF Bay 
- Area\nThanh pho: SF Bay Area
+DESCRIPTION:📌 Vòng: Bảng D - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: SF Bay Area
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b68bee9930e0274de64dc312d6af9c440e7e3d9d@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260621T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260621T020000
-SUMMARY:Hà Lan vs Ba Lan
+SUMMARY:Trận 33 [F] Hà Lan vs Ba Lan
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Bảng F - Lượt 2\nTrang thai: Scheduled\nSan: Houston
- \nThanh pho: Houston
+DESCRIPTION:📌 Vòng: Bảng F - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Houston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a7ea8d7e81d74b3939f15ca85bcb5a8166d0b7a9@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260621T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260621T050000
-SUMMARY:Đức vs Bờ Biển Ngà
+SUMMARY:Trận 34 [E] Đức vs Bờ Biển Ngà
 LOCATION:Toronto - Toronto
-DESCRIPTION:Vong: Bảng E - Lượt 2\nTrang thai: Scheduled\nSan: Toronto
- \nThanh pho: Toronto
+DESCRIPTION:📌 Vòng: Bảng E - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Toronto
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34ed85bcf577f160a0c3dc3f5c06aec005432901@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260621T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260621T090000
-SUMMARY:Ecuador vs Curaçao
+SUMMARY:Trận 35 [E] Ecuador vs Curaçao
 LOCATION:Kansas City - Kansas City
-DESCRIPTION:Vong: Bảng E - Lượt 2\nTrang thai: Scheduled\nSan: Kansas 
- City\nThanh pho: Kansas City
+DESCRIPTION:📌 Vòng: Bảng E - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Kansas City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1d52068dbf22e089795268f8fa5dbf6ca1ceaf8f@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260621T110000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260621T130000
-SUMMARY:Tunisia vs Nhật Bản
+SUMMARY:Trận 36 [F] Tunisia vs Nhật Bản
 LOCATION:Monterrey - Monterrey
-DESCRIPTION:Vong: Bảng F - Lượt 2\nTrang thai: Scheduled\nSan: Monterr
- ey\nThanh pho: Monterrey
+DESCRIPTION:📌 Vòng: Bảng F - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Monterrey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ba59ca5479ccc4aa8c88ea6f7e6abf33376fe336@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260621T230000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260622T010000
-SUMMARY:Tây Ban Nha vs Saudi Arabia
+SUMMARY:Trận 37 [H] Tây Ban Nha vs Saudi Arabia
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Bảng H - Lượt 2\nTrang thai: Scheduled\nSan: Atlanta
- \nThanh pho: Atlanta
+DESCRIPTION:📌 Vòng: Bảng H - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dff1b4a903e2e5505d5d8ec5de291320fb0ba399@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260622T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260622T040000
-SUMMARY:Bỉ vs Iran
+SUMMARY:Trận 38 [G] Bỉ vs Iran
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Bảng G - Lượt 2\nTrang thai: Scheduled\nSan: Los Ang
- eles\nThanh pho: Los Angeles
+DESCRIPTION:📌 Vòng: Bảng G - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9b61d10320b21282f332e2d15ffdcb8f97c5372a@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260622T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260622T070000
-SUMMARY:Uruguay vs Cape Verde
+SUMMARY:Trận 39 [H] Uruguay vs Cape Verde
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Bảng H - Lượt 2\nTrang thai: Scheduled\nSan: Miami\n
- Thanh pho: Miami
+DESCRIPTION:📌 Vòng: Bảng H - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:782cb1a6ca30b0afe25b007f329edbcdc37be520@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260622T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260622T100000
-SUMMARY:New Zealand vs Ai Cập
+SUMMARY:Trận 40 [G] New Zealand vs Ai Cập
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Bảng G - Lượt 2\nTrang thai: Scheduled\nSan: Vancouv
- er\nThanh pho: Vancouver
+DESCRIPTION:📌 Vòng: Bảng G - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e9d0c972619c70a69008337951099f54548ae186@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260623T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260623T020000
-SUMMARY:Argentina vs Áo
+SUMMARY:Trận 41 [J] Argentina vs Áo
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Bảng J - Lượt 2\nTrang thai: Scheduled\nSan: Dallas\
- nThanh pho: Dallas
+DESCRIPTION:📌 Vòng: Bảng J - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8bc3b8aeed7dc591bdc859931b12f78f24eb8b69@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260623T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260623T060000
-SUMMARY:Pháp vs Iraq
+SUMMARY:Trận 42 [I] Pháp vs Iraq
 LOCATION:Philadelphia - Philadelphia
-DESCRIPTION:Vong: Bảng I - Lượt 2\nTrang thai: Scheduled\nSan: Philade
- lphia\nThanh pho: Philadelphia
+DESCRIPTION:📌 Vòng: Bảng I - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Philadelphia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:26c223c09568d149efabf735b8b54f95a1f20176@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260623T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260623T090000
-SUMMARY:Na Uy vs Senegal
+SUMMARY:Trận 43 [I] Na Uy vs Senegal
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Bảng I - Lượt 2\nTrang thai: Scheduled\nSan: New Yor
- k/New Jersey\nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Bảng I - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58aff55832067f8764b1d71911b09dda3a7e6298@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260623T100000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260623T120000
-SUMMARY:Jordan vs Algeria
+SUMMARY:Trận 44 [J] Jordan vs Algeria
 LOCATION:SF Bay Area - SF Bay Area
-DESCRIPTION:Vong: Bảng J - Lượt 2\nTrang thai: Scheduled\nSan: SF Bay 
- Area\nThanh pho: SF Bay Area
+DESCRIPTION:📌 Vòng: Bảng J - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: SF Bay Area
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c046e8dd5a2799880af73613b8c33a8b1ccd87e@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260624T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260624T020000
-SUMMARY:Bồ Đào Nha vs Uzbekistan
+SUMMARY:Trận 45 [K] Bồ Đào Nha vs Uzbekistan
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Bảng K - Lượt 2\nTrang thai: Scheduled\nSan: Houston
- \nThanh pho: Houston
+DESCRIPTION:📌 Vòng: Bảng K - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Houston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58a24ff13e9b3c97f59271fb633301d74ff4cdea@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260624T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260624T050000
-SUMMARY:Anh vs Ghana
+SUMMARY:Trận 46 [L] Anh vs Ghana
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Bảng L - Lượt 2\nTrang thai: Scheduled\nSan: Boston\
- nThanh pho: Boston
+DESCRIPTION:📌 Vòng: Bảng L - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c803c13fe66b218ccaf405db239acac616a839b@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260624T060000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260624T080000
-SUMMARY:Panama vs Croatia
+SUMMARY:Trận 47 [L] Panama vs Croatia
 LOCATION:Toronto - Toronto
-DESCRIPTION:Vong: Bảng L - Lượt 2\nTrang thai: Scheduled\nSan: Toronto
- \nThanh pho: Toronto
+DESCRIPTION:📌 Vòng: Bảng L - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Toronto
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c2deb03989f1abbcd461a55d697aaf0e4471efa@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260624T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260624T110000
-SUMMARY:Colombia vs Congo DR
+SUMMARY:Trận 48 [K] Colombia vs Congo DR
 LOCATION:Guadalajara - Guadalajara
-DESCRIPTION:Vong: Bảng K - Lượt 2\nTrang thai: Scheduled\nSan: Guadala
- jara\nThanh pho: Guadalajara
+DESCRIPTION:📌 Vòng: Bảng K - Lượt 2\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Guadalajara
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:deee8706f2f9cb0d172fcc5f7a06eda70603a2a6@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260625T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260625T040000
-SUMMARY:Canada vs Thụy Sĩ
+SUMMARY:Trận 49 [B] Canada vs Thụy Sĩ
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Bảng B - Lượt 3\nTrang thai: Scheduled\nSan: Vancouv
- er\nThanh pho: Vancouver
+DESCRIPTION:📌 Vòng: Bảng B - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1f42c914070cb86de1dde5adcaf917448c2d2a5@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260625T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260625T040000
-SUMMARY:Qatar vs Bosnia-Herzegovina
+SUMMARY:Trận 50 [B] Qatar vs Bosnia-Herzegovina
 LOCATION:Seattle - Seattle
-DESCRIPTION:Vong: Bảng B - Lượt 3\nTrang thai: Scheduled\nSan: Seattle
- \nThanh pho: Seattle
+DESCRIPTION:📌 Vòng: Bảng B - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Seattle
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c15defbc4937f896104a3cd94ed479a942f3af9@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260625T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260625T070000
-SUMMARY:Scotland vs Brazil
+SUMMARY:Trận 51 [C] Scotland vs Brazil
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Bảng C - Lượt 3\nTrang thai: Scheduled\nSan: Miami\n
- Thanh pho: Miami
+DESCRIPTION:📌 Vòng: Bảng C - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eab4aa1829ad428d83b6d058565e9ef15f405157@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260625T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260625T070000
-SUMMARY:Morocco vs Haiti
+SUMMARY:Trận 52 [C] Morocco vs Haiti
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Bảng C - Lượt 3\nTrang thai: Scheduled\nSan: Atlanta
- \nThanh pho: Atlanta
+DESCRIPTION:📌 Vòng: Bảng C - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fcd395fb8c104567d89155d2e5ed4c42c8cd5646@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260625T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260625T100000
-SUMMARY:Mexico vs Czechia
+SUMMARY:Trận 53 [A] Mexico vs Czechia
 LOCATION:Mexico City - Mexico City
-DESCRIPTION:Vong: Bảng A - Lượt 3\nTrang thai: Scheduled\nSan: Mexico 
- City\nThanh pho: Mexico City
+DESCRIPTION:📌 Vòng: Bảng A - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Mexico City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:150001b1e965974d68bad566172c0986317996bc@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260625T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260625T100000
-SUMMARY:Hàn Quốc vs Nam Phi
+SUMMARY:Trận 54 [A] Hàn Quốc vs Nam Phi
 LOCATION:Monterrey - Monterrey
-DESCRIPTION:Vong: Bảng A - Lượt 3\nTrang thai: Scheduled\nSan: Monterr
- ey\nThanh pho: Monterrey
+DESCRIPTION:📌 Vòng: Bảng A - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Monterrey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cacbc0f069b951199b8ed7232011f87418ba75ca@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260626T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260626T050000
-SUMMARY:Ecuador vs Đức
+SUMMARY:Trận 55 [E] Ecuador vs Đức
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Bảng E - Lượt 3\nTrang thai: Scheduled\nSan: New Yor
- k/New Jersey\nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Bảng E - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:70943a8860ccd35027fd4910abc8c81729f83b3e@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260626T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260626T050000
-SUMMARY:Curaçao vs Bờ Biển Ngà
+SUMMARY:Trận 56 [E] Curaçao vs Bờ Biển Ngà
 LOCATION:Philadelphia - Philadelphia
-DESCRIPTION:Vong: Bảng E - Lượt 3\nTrang thai: Scheduled\nSan: Philade
- lphia\nThanh pho: Philadelphia
+DESCRIPTION:📌 Vòng: Bảng E - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Philadelphia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3edf84ec836cc4f7f2bf1950a04abb659032f97c@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260626T060000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260626T080000
-SUMMARY:Tunisia vs Hà Lan
+SUMMARY:Trận 57 [F] Tunisia vs Hà Lan
 LOCATION:Kansas City - Kansas City
-DESCRIPTION:Vong: Bảng F - Lượt 3\nTrang thai: Scheduled\nSan: Kansas 
- City\nThanh pho: Kansas City
+DESCRIPTION:📌 Vòng: Bảng F - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Kansas City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0c42a180ab4fba23e761752b0b5cf212af734c84@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260626T060000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260626T080000
-SUMMARY:Nhật Bản vs Thụy Điển
+SUMMARY:Trận 58 [F] Nhật Bản vs Thụy Điển
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Bảng F - Lượt 3\nTrang thai: Scheduled\nSan: Dallas\
- nThanh pho: Dallas
+DESCRIPTION:📌 Vòng: Bảng F - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:973fa7d699876de7ac4317326048e94e390d8af2@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260626T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260626T110000
-SUMMARY:USA vs Thổ Nhĩ Kỳ
+SUMMARY:Trận 59 [D] USA vs Thổ Nhĩ Kỳ
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Bảng D - Lượt 3\nTrang thai: Scheduled\nSan: Los Ang
- eles\nThanh pho: Los Angeles
+DESCRIPTION:📌 Vòng: Bảng D - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b027993343832072d4151e9addfa615185b86e3f@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260626T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260626T110000
-SUMMARY:Paraguay vs Australia
+SUMMARY:Trận 60 [D] Paraguay vs Australia
 LOCATION:SF Bay Area - SF Bay Area
-DESCRIPTION:Vong: Bảng D - Lượt 3\nTrang thai: Scheduled\nSan: SF Bay 
- Area\nThanh pho: SF Bay Area
+DESCRIPTION:📌 Vòng: Bảng D - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: SF Bay Area
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4c393de5dd608fa6f03e8029faf48da00e4eae20@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260627T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260627T040000
-SUMMARY:Na Uy vs Pháp
+SUMMARY:Trận 61 [I] Na Uy vs Pháp
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Bảng I - Lượt 3\nTrang thai: Scheduled\nSan: Boston\
- nThanh pho: Boston
+DESCRIPTION:📌 Vòng: Bảng I - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6db6c802b8a4d6086b6bcb8ddb36655f6c569a2a@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260627T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260627T040000
-SUMMARY:Senegal vs Iraq
+SUMMARY:Trận 62 [I] Senegal vs Iraq
 LOCATION:Toronto - Toronto
-DESCRIPTION:Vong: Bảng I - Lượt 3\nTrang thai: Scheduled\nSan: Toronto
- \nThanh pho: Toronto
+DESCRIPTION:📌 Vòng: Bảng I - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Toronto
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0cee9b7d54446cdc76ce7bde9ff641e28c5b6460@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260627T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260627T090000
-SUMMARY:Uruguay vs Tây Ban Nha
+SUMMARY:Trận 63 [H] Uruguay vs Tây Ban Nha
 LOCATION:Guadalajara - Guadalajara
-DESCRIPTION:Vong: Bảng H - Lượt 3\nTrang thai: Scheduled\nSan: Guadala
- jara\nThanh pho: Guadalajara
+DESCRIPTION:📌 Vòng: Bảng H - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Guadalajara
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d705b1af2c007c294b69df552bfc0b3929608423@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260627T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260627T090000
-SUMMARY:Cape Verde vs Saudi Arabia
+SUMMARY:Trận 64 [H] Cape Verde vs Saudi Arabia
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Bảng H - Lượt 3\nTrang thai: Scheduled\nSan: Houston
- \nThanh pho: Houston
+DESCRIPTION:📌 Vòng: Bảng H - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Houston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09b1e97842707ac6ae41e4527a1494485b862c78@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260627T100000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260627T120000
-SUMMARY:New Zealand vs Bỉ
+SUMMARY:Trận 65 [G] New Zealand vs Bỉ
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Bảng G - Lượt 3\nTrang thai: Scheduled\nSan: Vancouv
- er\nThanh pho: Vancouver
+DESCRIPTION:📌 Vòng: Bảng G - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0540bac3d32d1cfbf65a5d9e32f9804dca49866d@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260627T100000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260627T120000
-SUMMARY:Ai Cập vs Iran
+SUMMARY:Trận 66 [G] Ai Cập vs Iran
 LOCATION:Seattle - Seattle
-DESCRIPTION:Vong: Bảng G - Lượt 3\nTrang thai: Scheduled\nSan: Seattle
- \nThanh pho: Seattle
+DESCRIPTION:📌 Vòng: Bảng G - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Seattle
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40bf77fc3fd9231466a8615c45d95213844ce549@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260628T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260628T060000
-SUMMARY:Panama vs Anh
+SUMMARY:Trận 67 [L] Panama vs Anh
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Bảng L - Lượt 3\nTrang thai: Scheduled\nSan: New Yor
- k/New Jersey\nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Bảng L - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5ad6b5cd97102422725618e1dcc3621de32eac95@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260628T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260628T060000
-SUMMARY:Croatia vs Ghana
+SUMMARY:Trận 68 [L] Croatia vs Ghana
 LOCATION:Philadelphia - Philadelphia
-DESCRIPTION:Vong: Bảng L - Lượt 3\nTrang thai: Scheduled\nSan: Philade
- lphia\nThanh pho: Philadelphia
+DESCRIPTION:📌 Vòng: Bảng L - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Philadelphia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:849943f04b099f90086514f73525f57f2666e32a@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260628T063000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260628T083000
-SUMMARY:Colombia vs Bồ Đào Nha
+SUMMARY:Trận 69 [K] Colombia vs Bồ Đào Nha
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Bảng K - Lượt 3\nTrang thai: Scheduled\nSan: Miami\n
- Thanh pho: Miami
+DESCRIPTION:📌 Vòng: Bảng K - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91fe696c3b06571e5f37263a75cfed94f246ad20@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260628T063000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260628T083000
-SUMMARY:Uzbekistan vs Congo DR
+SUMMARY:Trận 70 [K] Uzbekistan vs Congo DR
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Bảng K - Lượt 3\nTrang thai: Scheduled\nSan: Atlanta
- \nThanh pho: Atlanta
+DESCRIPTION:📌 Vòng: Bảng K - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3873013a8fb484156a4fc536577a682af25aa3b4@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260628T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260628T110000
-SUMMARY:Jordan vs Argentina
+SUMMARY:Trận 71 [J] Jordan vs Argentina
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Bảng J - Lượt 3\nTrang thai: Scheduled\nSan: Dallas\
- nThanh pho: Dallas
+DESCRIPTION:📌 Vòng: Bảng J - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8981f469486209669ae09bba1c15a801e2509e42@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260628T090000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260628T110000
-SUMMARY:Algeria vs Áo
+SUMMARY:Trận 72 [J] Algeria vs Áo
 LOCATION:Kansas City - Kansas City
-DESCRIPTION:Vong: Bảng J - Lượt 3\nTrang thai: Scheduled\nSan: Kansas 
- City\nThanh pho: Kansas City
+DESCRIPTION:📌 Vòng: Bảng J - Lượt 3\n⏱ Trạng thái: Scheduled\
+ n🏟 Sân: Kansas City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1589a0025685ce58e3da7590eabe4950965d77bb@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260629T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260629T040000
-SUMMARY:2A vs 2B
+SUMMARY:Trận 73 2A vs 2B
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Los Angeles\nThanh 
- pho: Los Angeles
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e7a308d0900296ecdc2484b284139e8c80f9f9a2@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260630T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260630T020000
-SUMMARY:1C vs 2F
+SUMMARY:Trận 74 1C vs 2F
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Houston\nThanh pho:
-  Houston
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Houston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc1ea26bebcf0fec0a9e17e2bca30299a6865dbd@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260630T033000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260630T053000
-SUMMARY:1E vs 3rd(ABCDF)
+SUMMARY:Trận 75 1E vs 3rd(ABCDF)
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Boston\nThanh pho: 
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
  Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ec8a2cc0fbc3d83765207bc62e470c993e17b3d8@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260630T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260630T100000
-SUMMARY:1F vs 2C
+SUMMARY:Trận 76 1F vs 2C
 LOCATION:Monterrey - Monterrey
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Monterrey\nThanh ph
- o: Monterrey
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Monterrey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea2d233eb653405dd802d5661ca9ef70bbef2bed@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260701T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260701T020000
-SUMMARY:2E vs 2I
+SUMMARY:Trận 77 2E vs 2I
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Dallas\nThanh pho: 
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
  Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c9586efdf89be062cf6c5f9682bc2641536530a2@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260701T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260701T060000
-SUMMARY:1I vs 3rd(CDFGH)
+SUMMARY:Trận 78 1I vs 3rd(CDFGH)
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: New York/New Jersey
- \nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15169f57c50cc1d6a20b728099974fdff7bc87a1@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260701T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260701T100000
-SUMMARY:1A vs 3rd(CEFHI)
+SUMMARY:Trận 79 1A vs 3rd(CEFHI)
 LOCATION:Mexico City - Mexico City
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Mexico City\nThanh 
- pho: Mexico City
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Mexico City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b3182726397381a8aba16bc3fe3a644285cd9981@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260701T230000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260702T010000
-SUMMARY:1L vs 3rd(EHIJK)
+SUMMARY:Trận 80 1L vs 3rd(EHIJK)
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Atlanta\nThanh pho:
-  Atlanta
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f83171e2e43e2d305c4ce72bfffa5c9599019959@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260702T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260702T050000
-SUMMARY:1G vs 3rd(AEHIJ)
+SUMMARY:Trận 81 1G vs 3rd(AEHIJ)
 LOCATION:Seattle - Seattle
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Seattle\nThanh pho:
-  Seattle
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Seattle
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f6da31533829ef0073c96b81fd248a681aaf9270@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260702T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260702T090000
-SUMMARY:1D vs 3rd(BEFIJ)
+SUMMARY:Trận 82 1D vs 3rd(BEFIJ)
 LOCATION:SF Bay Area - SF Bay Area
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: SF Bay Area\nThanh 
- pho: SF Bay Area
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ SF Bay Area
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:536a43217340a840290c717b673850d593004515@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260703T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260703T040000
-SUMMARY:1H vs 2J
+SUMMARY:Trận 83 1H vs 2J
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Los Angeles\nThanh 
- pho: Los Angeles
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cf03a9741945bdf03a5770d6bae5446df9967d9c@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260703T060000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260703T080000
-SUMMARY:2K vs 2L
+SUMMARY:Trận 84 2K vs 2L
 LOCATION:Toronto - Toronto
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Toronto\nThanh pho:
-  Toronto
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Toronto
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd8f492f3c1bfdf2c242db6a2fea45d8940b9bfe@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260703T100000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260703T120000
-SUMMARY:1B vs 3rd(DEJIL)
+SUMMARY:Trận 85 1B vs 3rd(DEJIL)
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Vancouver\nThanh ph
- o: Vancouver
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e15b903ec4feff6d172ae75e0c5806421736f60c@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260704T010000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260704T030000
-SUMMARY:2D vs 2G
+SUMMARY:Trận 86 2D vs 2G
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Dallas\nThanh pho: 
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
  Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ce4dc7112ea5922ac1e330a37ff97b1cc9ad374@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260704T050000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260704T070000
-SUMMARY:1J vs 2H
+SUMMARY:Trận 87 1J vs 2H
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Miami\nThanh pho: M
- iami
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a111463d7cc92221f2dd6de444ac0ea717149124@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260704T083000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260704T103000
-SUMMARY:1K vs 3rd(DEJIL)
+SUMMARY:Trận 88 1K vs 3rd(DEJIL)
 LOCATION:Kansas City - Kansas City
-DESCRIPTION:Vong: Vòng 32\nTrang thai: Scheduled\nSan: Kansas City\nThanh 
- pho: Kansas City
+DESCRIPTION:📌 Vòng: Vòng 32\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Kansas City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bbed1630a8d4ef3d15664a2e3705f4d0a9ae21df@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260705T000000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260705T020000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 89 TBD vs TBD
 LOCATION:Houston - Houston
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Houston\nThanh pho:
-  Houston
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Houston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6b24ab7da8129e6599814de372ed8059a5cf9584@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260705T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260705T060000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 90 TBD vs TBD
 LOCATION:Philadelphia - Philadelphia
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Philadelphia\nThanh
-  pho: Philadelphia
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Philadelphia
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:757bbffe87f82c2a0e25c433e56dd994f0c58c82@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260706T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260706T050000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 91 TBD vs TBD
 LOCATION:New York/New Jersey - New York/New Jersey
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: New York/New Jersey
- \nThanh pho: New York/New Jersey
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:57068e81a762bc1bbd0fbb257cc390f5bb2fc5fb@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260706T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260706T090000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 92 TBD vs TBD
 LOCATION:Mexico City - Mexico City
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Mexico City\nThanh 
- pho: Mexico City
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Mexico City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:665a71b0a6960db22aaf79df238d41bbb69461c4@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260707T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260707T040000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 93 TBD vs TBD
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Dallas\nThanh pho: 
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
  Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b572d6859929b7d38e5e368044535c9e50f4b256@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260707T070000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260707T090000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 94 TBD vs TBD
 LOCATION:Seattle - Seattle
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Seattle\nThanh pho:
-  Seattle
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Seattle
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:87446bcc968e449d399664479c95d34b651a2abc@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260707T230000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260708T010000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 95 TBD vs TBD
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Atlanta\nThanh pho:
-  Atlanta
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:049dc43ea58a2d1546a734f6ecdcc15e27ba59fb@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260708T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260708T050000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 96 TBD vs TBD
 LOCATION:Vancouver - Vancouver
-DESCRIPTION:Vong: Vòng 16\nTrang thai: Scheduled\nSan: Vancouver\nThanh ph
- o: Vancouver
+DESCRIPTION:📌 Vòng: Vòng 16\n⏱ Trạng thái: Scheduled\n🏟 Sân: 
+ Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5dcb5e61e3be4fd763a91c3efc757277cb2c237@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260710T030000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260710T050000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 97 TBD vs TBD
 LOCATION:Boston - Boston
-DESCRIPTION:Vong: Tứ Kết\nTrang thai: Scheduled\nSan: Boston\nThanh pho
+DESCRIPTION:📌 Vòng: Tứ Kết\n⏱ Trạng thái: Scheduled\n🏟 Sân
  : Boston
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5bb0976d47c0d6d80a667f0b2573f03332877173@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260711T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260711T040000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 98 TBD vs TBD
 LOCATION:Los Angeles - Los Angeles
-DESCRIPTION:Vong: Tứ Kết\nTrang thai: Scheduled\nSan: Los Angeles\nThan
- h pho: Los Angeles
+DESCRIPTION:📌 Vòng: Tứ Kết\n⏱ Trạng thái: Scheduled\n🏟 Sân
+ : Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d5f9c5ad1bfff365a74bb584497584711696151@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260712T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260712T060000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 99 TBD vs TBD
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Tứ Kết\nTrang thai: Scheduled\nSan: Miami\nThanh pho:
-  Miami
+DESCRIPTION:📌 Vòng: Tứ Kết\n⏱ Trạng thái: Scheduled\n🏟 Sân
+ : Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:89e5824659ff0a47568c20b1ff3b53123a95c45a@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260712T080000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260712T100000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 100 TBD vs TBD
 LOCATION:Kansas City - Kansas City
-DESCRIPTION:Vong: Tứ Kết\nTrang thai: Scheduled\nSan: Kansas City\nThan
- h pho: Kansas City
+DESCRIPTION:📌 Vòng: Tứ Kết\n⏱ Trạng thái: Scheduled\n🏟 Sân
+ : Kansas City
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20aa2e292a62010bf024069916b7670191824c2e@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260715T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260715T040000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 101 TBD vs TBD
 LOCATION:Dallas - Dallas
-DESCRIPTION:Vong: Bán Kết\nTrang thai: Scheduled\nSan: Dallas\nThanh pho
+DESCRIPTION:📌 Vòng: Bán Kết\n⏱ Trạng thái: Scheduled\n🏟 Sân
  : Dallas
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7be383770cd8412f78ea8603a8216e3bca66891@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260716T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260716T040000
-SUMMARY:TBD vs TBD
+SUMMARY:Trận 102 TBD vs TBD
 LOCATION:Atlanta - Atlanta
-DESCRIPTION:Vong: Bán Kết\nTrang thai: Scheduled\nSan: Atlanta\nThanh ph
- o: Atlanta
+DESCRIPTION:📌 Vòng: Bán Kết\n⏱ Trạng thái: Scheduled\n🏟 Sân
+ : Atlanta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44adb58f952da704081198b5c26143ba949553af@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260719T040000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260719T060000
-SUMMARY:🥉 Tranh Hạng 3: TBD vs TBD
+SUMMARY:Trận 103 🥉 Tranh Hạng 3: TBD vs TBD
 LOCATION:Miami - Miami
-DESCRIPTION:Vong: Tranh Hạng Ba\nTrang thai: Scheduled\nSan: Miami\nThanh
-  pho: Miami
+DESCRIPTION:📌 Vòng: Tranh Hạng Ba\n⏱ Trạng thái: Scheduled\n🏟
+  Sân: Miami
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:abdf10df966fa46f60c71e4fa1d81084ccf32ca6@worldcup2026-nguyen
-DTSTAMP:20260614T232043Z
+DTSTAMP:20260615T005807Z
 DTSTART;TZID=Asia/Ho_Chi_Minh:20260720T020000
 DTEND;TZID=Asia/Ho_Chi_Minh:20260720T040000
-SUMMARY:🏆 CHUNG KẾT: TBD vs TBD
+SUMMARY:Trận 104 🏆 CHUNG KẾT: TBD vs TBD
 LOCATION:MetLife Stadium\, New York/New Jersey - MetLife Stadium\, New York
  /New Jersey
-DESCRIPTION:Vong: Chung Kết\nTrang thai: Scheduled\nSan: MetLife Stadium\
- , New York/New Jersey\nThanh pho: MetLife Stadium\, New York/New Jersey
+DESCRIPTION:📌 Vòng: Chung Kết\n⏱ Trạng thái: Scheduled\n🏟 Sâ
+ n: MetLife Stadium\, New York/New Jersey
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
