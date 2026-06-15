@@ -15,7 +15,7 @@ ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scor
 ESPN_DATED_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates={date}&limit=100"
 # Cron window requested by user: continue from 13:15 15/06/2026 Asia/Saigon through 20/07/2026.
 # Do not re-scan matches before this cutoff; early FT results are already filled.
-CUTOFF_UTC = datetime(2026, 6, 15, 6, 15, tzinfo=timezone.utc)  # 13:15 Asia/Saigon
+CUTOFF_UTC = datetime(2026, 6, 14, 17, 0, tzinfo=timezone.utc)  # 00:00 15/06 Asia/Saigon; do not scan previous dates
 END_UTC = datetime(2026, 7, 20, 16, 59, 59, tzinfo=timezone.utc)  # end of 20/07 Asia/Saigon
 
 ALIASES = {
@@ -117,9 +117,28 @@ def fetch_summary(event_id):
     with urllib.request.urlopen(url, timeout=30) as r:
         return json.load(r)
 
-def extract_scorers(event_id):
+def summary_result(data):
     try:
-        data = fetch_summary(event_id)
+        comp = data["header"]["competitions"][0]
+        comps = comp.get("competitors", [])
+        home = next((c for c in comps if c.get("homeAway") == "home"), None)
+        away = next((c for c in comps if c.get("homeAway") == "away"), None)
+        st = comp.get("status", {}).get("type", {})
+        if not home or not away:
+            return None
+        return {
+            "home": norm(home["team"].get("displayName", "")),
+            "away": norm(away["team"].get("displayName", "")),
+            "score": f"{home.get('score', '0')}-{away.get('score', '0')}",
+            "completed": bool(st.get("completed")) or not comp.get("liveAvailable", True),
+            "status": st.get("detail") or "FT",
+        }
+    except Exception:
+        return None
+
+def extract_scorers(event_id, data=None):
+    try:
+        data = data or fetch_summary(event_id)
     except Exception:
         return []
     out = []
@@ -182,14 +201,19 @@ def main():
         state = status_type.get("state")
         completed = bool(status_type.get("completed"))
         desc = status_type.get("description") or status_type.get("shortDetail") or ""
+        event_id = ev.get("id")
+        summary = fetch_summary(event_id) if event_id else None
+        sres = summary_result(summary) if summary else None
         if completed:
+            new_status = "FT"
+        elif sres and sres.get("completed") and sres.get("home") == hname and sres.get("away") == aname:
+            score = sres.get("score") or score
             new_status = "FT"
         elif state == "in":
             new_status = status_type.get("detail") or desc or "Live"
         else:
             continue
-        event_id = ev.get("id")
-        scorers = extract_scorers(event_id) if event_id else []
+        scorers = extract_scorers(event_id, summary) if event_id else []
         old = (m.get("score", ""), m.get("status", ""), m.get("scorers") or [])
         new = (score, new_status, scorers)
         if old != new:
