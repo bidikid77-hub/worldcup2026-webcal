@@ -371,9 +371,45 @@
     "stage": "Bảng F - Lượt 1",
     "stadium": "Monterrey",
     "city": "Monterrey",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "5-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Thụy Điển",
+        "player": "Yasin Ayari",
+        "minute": "7'"
+      },
+      {
+        "team": "Thụy Điển",
+        "player": "Alexander Isak",
+        "minute": "30'",
+        "assist": "Viktor Gyökeres"
+      },
+      {
+        "team": "Tunisia",
+        "player": "Omar Rekik",
+        "minute": "43'",
+        "assist": "Hannibal Mejbri"
+      },
+      {
+        "team": "Thụy Điển",
+        "player": "Viktor Gyökeres",
+        "minute": "59'",
+        "assist": "Alexander Isak"
+      },
+      {
+        "team": "Thụy Điển",
+        "player": "Mattias Svanberg",
+        "minute": "84'",
+        "assist": "Alexander Isak"
+      },
+      {
+        "team": "Thụy Điển",
+        "player": "Yasin Ayari",
+        "minute": "90'+6'",
+        "assist": "Lucas Bergvall"
+      }
+    ],
     "notes": ""
   },
   {
@@ -386,8 +422,8 @@
     "stage": "Bảng H - Lượt 1",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -401,8 +437,8 @@
     "stage": "Bảng G - Lượt 1",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -416,8 +452,8 @@
     "stage": "Bảng H - Lượt 1",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -431,8 +467,8 @@
     "stage": "Bảng G - Lượt 1",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
