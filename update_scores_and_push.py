@@ -13,7 +13,10 @@ MATCHES = BASE / "matches.json"
 GEN = BASE / "generate_ics.py"
 ESPN_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?limit=100"
 ESPN_DATED_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates={date}&limit=100"
-START_DATE = datetime(2026, 6, 11, tzinfo=timezone.utc)  # 12/6 Asia/Saigon includes 11/6 UTC evening
+# Cron window requested by user: continue from 13:15 15/06/2026 Asia/Saigon through 20/07/2026.
+# Do not re-scan matches before this cutoff; early FT results are already filled.
+CUTOFF_UTC = datetime(2026, 6, 15, 6, 15, tzinfo=timezone.utc)  # 13:15 Asia/Saigon
+END_UTC = datetime(2026, 7, 20, 16, 59, 59, tzinfo=timezone.utc)  # end of 20/07 Asia/Saigon
 
 ALIASES = {
     "Australia": "Australia",
@@ -73,29 +76,38 @@ def fetch_url(url):
     with urllib.request.urlopen(url, timeout=30) as r:
         return json.load(r)
 
-def fetch():
-    """Fetch scoreboard events from 12/6 VN time through current date.
+def event_dt(ev):
+    try:
+        return datetime.fromisoformat(ev.get("date", "").replace("Z", "+00:00"))
+    except Exception:
+        return None
 
-    ESPN default scoreboard is a rolling window and misses earlier FT matches,
-    so cron uses dated scoreboards and de-dupes event IDs.
-    """
+def in_window(ev):
+    dt = event_dt(ev)
+    return bool(dt and CUTOFF_UTC <= dt <= END_UTC)
+
+def fetch():
+    """Fetch only matches from cutoff forward, not earlier filled results."""
     now = datetime.now(timezone.utc)
+    if now > END_UTC:
+        return {"events": []}
+    end = min(now, END_UTC)
     events = []
     seen = set()
-    day = START_DATE
-    while day.date() <= now.date():
+    day = CUTOFF_UTC
+    while day.date() <= end.date():
         data = fetch_url(ESPN_DATED_URL.format(date=day.strftime("%Y%m%d")))
         for ev in data.get("events", []):
             eid = ev.get("id")
-            if eid and eid not in seen:
+            if eid and eid not in seen and in_window(ev):
                 seen.add(eid)
                 events.append(ev)
         day += timedelta(days=1)
-    # include rolling window too, in case ESPN exposes live edge differently
+    # include rolling window too, filtered by same cutoff/end window
     data = fetch_url(ESPN_URL)
     for ev in data.get("events", []):
         eid = ev.get("id")
-        if eid and eid not in seen:
+        if eid and eid not in seen and in_window(ev):
             seen.add(eid)
             events.append(ev)
     return {"events": events}
