@@ -443,7 +443,7 @@
       {
         "team": "Ai Cập",
         "player": "Emam Ashour",
-        "minute": "19'",
+        "minute": "20'",
         "assist": "Mohamed Salah"
       },
       {
@@ -464,13 +464,18 @@
     "stage": "Bảng H - Lượt 1",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "1-0",
-    "status": "49'",
+    "score": "1-1",
+    "status": "FT",
     "scorers": [
       {
         "team": "Saudi Arabia",
         "player": "Abdulelah Al-Amri",
         "minute": "41'"
+      },
+      {
+        "team": "Uruguay",
+        "player": "Maxi Araújo",
+        "minute": "80'"
       }
     ],
     "notes": ""
@@ -485,9 +490,33 @@
     "stage": "Bảng G - Lượt 1",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "2-2",
+    "status": "73'",
+    "scorers": [
+      {
+        "team": "New Zealand",
+        "player": "Elijah Just",
+        "minute": "7'",
+        "assist": "Chris Wood"
+      },
+      {
+        "team": "Iran",
+        "player": "Ramin Rezaeian",
+        "minute": "32'"
+      },
+      {
+        "team": "New Zealand",
+        "player": "Elijah Just",
+        "minute": "54'",
+        "assist": "Chris Wood"
+      },
+      {
+        "team": "Iran",
+        "player": "Mohammad Mohebbi",
+        "minute": "64'",
+        "assist": "Ramin Rezaeian"
+      }
+    ],
     "notes": ""
   },
   {
@@ -500,8 +529,8 @@
     "stage": "Bảng I - Lượt 1",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -515,8 +544,8 @@
     "stage": "Bảng I - Lượt 1",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -530,8 +559,8 @@
     "stage": "Bảng J - Lượt 1",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
