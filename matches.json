@@ -529,9 +529,33 @@
     "stage": "Bảng I - Lượt 1",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "0-0",
+    "score": "3-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "66'",
+        "assist": "Michael Olise"
+      },
+      {
+        "team": "Pháp",
+        "player": "Bradley Barcola",
+        "minute": "82'",
+        "assist": "Adrien Rabiot"
+      },
+      {
+        "team": "Senegal",
+        "player": "Ibrahim Mbaye",
+        "minute": "90'+5'",
+        "assist": "Iliman Ndiaye"
+      },
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "90'+6'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -544,9 +568,27 @@
     "stage": "Bảng I - Lượt 1",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "1-2",
+    "status": "52'",
+    "scorers": [
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "29'",
+        "assist": "David Møller Wolfe"
+      },
+      {
+        "team": "Iraq",
+        "player": "Aymen Hussein",
+        "minute": "39'",
+        "assist": "Amir Al-Ammari"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "43'"
+      }
+    ],
     "notes": ""
   },
   {
