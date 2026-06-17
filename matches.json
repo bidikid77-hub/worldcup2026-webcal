@@ -568,8 +568,8 @@
     "stage": "Bảng I - Lượt 1",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "1-2",
-    "status": "52'",
+    "score": "1-4",
+    "status": "FT",
     "scorers": [
       {
         "team": "Na Uy",
@@ -587,6 +587,17 @@
         "team": "Na Uy",
         "player": "Erling Haaland",
         "minute": "43'"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Leo Østigard",
+        "minute": "76'",
+        "assist": "Martin Ødegaard"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Aymen Hussein",
+        "minute": "90'+6'"
       }
     ],
     "notes": ""
@@ -601,9 +612,27 @@
     "stage": "Bảng J - Lượt 1",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "0-0",
+    "score": "3-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "17'",
+        "assist": "Rodrigo De Paul"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "60'"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "76'",
+        "assist": "Nico González"
+      }
+    ],
     "notes": ""
   },
   {
@@ -661,8 +690,8 @@
     "stage": "Bảng L - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -676,8 +705,8 @@
     "stage": "Bảng K - Lượt 1",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
