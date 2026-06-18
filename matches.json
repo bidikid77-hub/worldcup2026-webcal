@@ -762,9 +762,16 @@
     "stage": "Bảng L - Lượt 1",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "0-0",
-    "status": "90'+1'",
-    "scorers": [],
+    "score": "1-0",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Ghana",
+        "player": "Caleb Yirenkyi",
+        "minute": "90'+5'",
+        "assist": "Brandon Thomas-Asante"
+      }
+    ],
     "notes": ""
   },
   {
@@ -777,9 +784,27 @@
     "stage": "Bảng K - Lượt 1",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "1-2",
+    "status": "89'",
+    "scorers": [
+      {
+        "team": "Colombia",
+        "player": "Daniel Muñoz",
+        "minute": "40'",
+        "assist": "Luis Díaz"
+      },
+      {
+        "team": "Uzbekistan",
+        "player": "Abbosbek Fayzullaev",
+        "minute": "60'"
+      },
+      {
+        "team": "Colombia",
+        "player": "Luis Díaz",
+        "minute": "65'",
+        "assist": "Gustavo Puerta"
+      }
+    ],
     "notes": ""
   },
   {
