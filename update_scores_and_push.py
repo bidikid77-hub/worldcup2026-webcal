@@ -64,6 +64,14 @@ ALIASES = {
     "Morocco": "Morocco",
     "Haiti": "Haiti",
     "Scotland": "Scotland",
+    "Austria": "Áo",
+    "Jordan": "Jordan",
+    "Portugal": "Bồ Đào Nha",
+    "Congo DR": "Congo DR",
+    "England": "Anh",
+    "Croatia": "Croatia",
+    "Uzbekistan": "Uzbekistan",
+    "Colombia": "Colombia",
 }
 
 def norm(name: str) -> str:
