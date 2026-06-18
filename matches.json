@@ -371,7 +371,7 @@
     "stage": "Bảng F - Lượt 1",
     "stadium": "Monterrey",
     "city": "Monterrey",
-    "score": "5-1",
+    "score": "1-5",
     "status": "FT",
     "scorers": [
       {
@@ -645,9 +645,32 @@
     "stage": "Bảng J - Lượt 1",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "3-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Áo",
+        "player": "Romano Schmid",
+        "minute": "21'",
+        "assist": "Xaver Schlager"
+      },
+      {
+        "team": "Jordan",
+        "player": "Ali Olwan",
+        "minute": "50'",
+        "assist": "Noor Al-Rawabdeh"
+      },
+      {
+        "team": "Áo",
+        "player": "Yazan Al-Arab",
+        "minute": "76'"
+      },
+      {
+        "team": "Áo",
+        "player": "Marko Arnautovic",
+        "minute": "90'+12'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -660,9 +683,22 @@
     "stage": "Bảng K - Lượt 1",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "1-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Bồ Đào Nha",
+        "player": "João Neves",
+        "minute": "6'",
+        "assist": "Pedro Neto"
+      },
+      {
+        "team": "Congo DR",
+        "player": "Yoane Wissa",
+        "minute": "45'+5'",
+        "assist": "Arthur Masuaku"
+      }
+    ],
     "notes": ""
   },
   {
@@ -675,9 +711,45 @@
     "stage": "Bảng L - Lượt 1",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "4-2",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Anh",
+        "player": "Harry Kane",
+        "minute": "12'"
+      },
+      {
+        "team": "Croatia",
+        "player": "Martin Baturina",
+        "minute": "36'",
+        "assist": "Petar Sucic"
+      },
+      {
+        "team": "Anh",
+        "player": "Harry Kane",
+        "minute": "42'",
+        "assist": "Declan Rice"
+      },
+      {
+        "team": "Croatia",
+        "player": "Petar Musa",
+        "minute": "45'+5'",
+        "assist": "Ivan Perisic"
+      },
+      {
+        "team": "Anh",
+        "player": "Jude Bellingham",
+        "minute": "47'",
+        "assist": "Elliot Anderson"
+      },
+      {
+        "team": "Anh",
+        "player": "Marcus Rashford",
+        "minute": "85'",
+        "assist": "Bukayo Saka"
+      }
+    ],
     "notes": ""
   },
   {
@@ -691,7 +763,7 @@
     "stadium": "Toronto",
     "city": "Toronto",
     "score": "0-0",
-    "status": "75'",
+    "status": "90'+1'",
     "scorers": [],
     "notes": ""
   },
