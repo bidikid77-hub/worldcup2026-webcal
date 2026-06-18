@@ -691,7 +691,7 @@
     "stadium": "Toronto",
     "city": "Toronto",
     "score": "0-0",
-    "status": "15'",
+    "status": "75'",
     "scorers": [],
     "notes": ""
   },
@@ -720,8 +720,8 @@
     "stage": "Bảng A - Lượt 2",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -735,8 +735,8 @@
     "stage": "Bảng B - Lượt 2",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -750,8 +750,8 @@
     "stage": "Bảng B - Lượt 2",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -765,8 +765,8 @@
     "stage": "Bảng A - Lượt 2",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
