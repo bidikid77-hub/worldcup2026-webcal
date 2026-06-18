@@ -823,9 +823,21 @@
     "stage": "Bảng A - Lượt 2",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "0-0",
+    "score": "1-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Czechia",
+        "player": "Michal Sadílek",
+        "minute": "6'",
+        "assist": "Alexandr Sojka"
+      },
+      {
+        "team": "Nam Phi",
+        "player": "Teboho Mokoena",
+        "minute": "83'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -838,9 +850,37 @@
     "stage": "Bảng B - Lượt 2",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "0-0",
+    "score": "4-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Thụy Sĩ",
+        "player": "Johan Manzambi",
+        "minute": "74'"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Rubén Vargas",
+        "minute": "84'",
+        "assist": "Breel Embolo"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Johan Manzambi",
+        "minute": "90'",
+        "assist": "Rubén Vargas"
+      },
+      {
+        "team": "Bosnia-Herzegovina",
+        "player": "Ermin Mahmic",
+        "minute": "90'+3'"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Granit Xhaka",
+        "minute": "90'+7'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -853,9 +893,25 @@
     "stage": "Bảng B - Lượt 2",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "3-0",
+    "status": "53'",
+    "scorers": [
+      {
+        "team": "Canada",
+        "player": "Cyle Larin",
+        "minute": "16'"
+      },
+      {
+        "team": "Canada",
+        "player": "Jonathan David",
+        "minute": "29'"
+      },
+      {
+        "team": "Canada",
+        "player": "Jonathan David",
+        "minute": "45'+3'"
+      }
+    ],
     "notes": ""
   },
   {
