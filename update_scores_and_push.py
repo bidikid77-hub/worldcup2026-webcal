@@ -197,7 +197,14 @@ def main():
             continue
         hscore = str(home.get("score", "0"))
         ascore = str(away.get("score", "0"))
-        score = f"{hscore}-{ascore}"
+        if m.get("home") == hname and m.get("away") == aname:
+            score = f"{hscore}-{ascore}"
+        elif m.get("home") == aname and m.get("away") == hname:
+            # ESPN may present teams opposite to local canonical calendar order.
+            # Store score in matches.json home-away order.
+            score = f"{ascore}-{hscore}"
+        else:
+            continue
         state = status_type.get("state")
         completed = bool(status_type.get("completed"))
         desc = status_type.get("description") or status_type.get("shortDetail") or ""
