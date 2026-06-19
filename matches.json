@@ -893,8 +893,8 @@
     "stage": "Bảng B - Lượt 2",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "3-0",
-    "status": "53'",
+    "score": "6-0",
+    "status": "FT",
     "scorers": [
       {
         "team": "Canada",
@@ -910,6 +910,22 @@
         "team": "Canada",
         "player": "Jonathan David",
         "minute": "45'+3'"
+      },
+      {
+        "team": "Canada",
+        "player": "Nathan Saliba",
+        "minute": "64'"
+      },
+      {
+        "team": "Canada",
+        "player": "Mohamed Manai",
+        "minute": "75'"
+      },
+      {
+        "team": "Canada",
+        "player": "Jonathan David",
+        "minute": "90'+2'",
+        "assist": "Nathan Saliba"
       }
     ],
     "notes": ""
@@ -924,9 +940,15 @@
     "stage": "Bảng A - Lượt 2",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "0-0",
+    "score": "1-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Mexico",
+        "player": "Luis Romo",
+        "minute": "50'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -939,8 +961,8 @@
     "stage": "Bảng D - Lượt 2",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -954,8 +976,8 @@
     "stage": "Bảng C - Lượt 2",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -969,8 +991,8 @@
     "stage": "Bảng C - Lượt 2",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -984,8 +1006,8 @@
     "stage": "Bảng D - Lượt 2",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
