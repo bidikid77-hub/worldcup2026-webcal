@@ -961,9 +961,20 @@
     "stage": "Bảng D - Lượt 2",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "0-0",
+    "score": "2-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "USA",
+        "player": "Cameron Burgess",
+        "minute": "11'"
+      },
+      {
+        "team": "USA",
+        "player": "Alex Freeman",
+        "minute": "43'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -976,9 +987,16 @@
     "stage": "Bảng C - Lượt 2",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "0-1",
+    "status": "53'",
+    "scorers": [
+      {
+        "team": "Morocco",
+        "player": "Ismael Saibari",
+        "minute": "2'",
+        "assist": "Brahim Díaz"
+      }
+    ],
     "notes": ""
   },
   {
