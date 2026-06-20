@@ -1079,9 +1079,27 @@
     "stage": "Bảng E - Lượt 2",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "0-0",
+    "score": "2-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Bờ Biển Ngà",
+        "player": "Franck Kessié",
+        "minute": "30'"
+      },
+      {
+        "team": "Đức",
+        "player": "Deniz Undav",
+        "minute": "68'",
+        "assist": "Nadiem Amiri"
+      },
+      {
+        "team": "Đức",
+        "player": "Deniz Undav",
+        "minute": "90'+4'",
+        "assist": "Felix Nmecha"
+      }
+    ],
     "notes": ""
   },
   {
