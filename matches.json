@@ -988,7 +988,7 @@
     "stadium": "Boston",
     "city": "Boston",
     "score": "0-1",
-    "status": "53'",
+    "status": "FT",
     "scorers": [
       {
         "team": "Morocco",
@@ -1009,9 +1009,27 @@
     "stage": "Bảng C - Lượt 2",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "0-0",
+    "score": "3-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Brazil",
+        "player": "Matheus Cunha",
+        "minute": "23'"
+      },
+      {
+        "team": "Brazil",
+        "player": "Matheus Cunha",
+        "minute": "36'",
+        "assist": "Vinícius Júnior"
+      },
+      {
+        "team": "Brazil",
+        "player": "Vinícius Júnior",
+        "minute": "45'+3'",
+        "assist": "Lucas Paquetá"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1024,9 +1042,16 @@
     "stage": "Bảng D - Lượt 2",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "0-0",
+    "score": "1-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Paraguay",
+        "player": "Matías Galarza",
+        "minute": "2'",
+        "assist": "Julio Enciso"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1054,8 +1079,8 @@
     "stage": "Bảng E - Lượt 2",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1069,8 +1094,8 @@
     "stage": "Bảng E - Lượt 2",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
