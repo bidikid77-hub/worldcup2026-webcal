@@ -1127,9 +1127,34 @@
     "stage": "Bảng F - Lượt 2",
     "stadium": "Monterrey",
     "city": "Monterrey",
-    "score": "",
-    "status": "Scheduled",
-    "scorers": [],
+    "score": "0-4",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Nhật Bản",
+        "player": "Daichi Kamada",
+        "minute": "4'",
+        "assist": "Keito Nakamura"
+      },
+      {
+        "team": "Nhật Bản",
+        "player": "Ayase Ueda",
+        "minute": "31'",
+        "assist": "Kou Itakura"
+      },
+      {
+        "team": "Nhật Bản",
+        "player": "Junya Ito",
+        "minute": "69'",
+        "assist": "Ayase Ueda"
+      },
+      {
+        "team": "Nhật Bản",
+        "player": "Ayase Ueda",
+        "minute": "83'",
+        "assist": "Kaishu Sano"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1142,8 +1167,8 @@
     "stage": "Bảng H - Lượt 2",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1157,8 +1182,8 @@
     "stage": "Bảng G - Lượt 2",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1172,8 +1197,8 @@
     "stage": "Bảng H - Lượt 2",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1187,8 +1212,8 @@
     "stage": "Bảng G - Lượt 2",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
