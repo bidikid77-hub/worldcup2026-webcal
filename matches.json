@@ -1167,9 +1167,33 @@
     "stage": "Bảng H - Lượt 2",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "0-0",
+    "score": "4-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "Lamine Yamal",
+        "minute": "10'",
+        "assist": "Mikel Oyarzabal"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Oyarzabal",
+        "minute": "21'",
+        "assist": "Aymeric Laporte"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Oyarzabal",
+        "minute": "24'",
+        "assist": "Dani Olmo"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Hassan Al-Tambakti",
+        "minute": "49'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1197,9 +1221,26 @@
     "stage": "Bảng H - Lượt 2",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "2-1",
+    "status": "50'",
+    "scorers": [
+      {
+        "team": "Cape Verde",
+        "player": "Kevin Pina",
+        "minute": "21'"
+      },
+      {
+        "team": "Uruguay",
+        "player": "Maxi Araújo",
+        "minute": "44'"
+      },
+      {
+        "team": "Uruguay",
+        "player": "Agustín Cano",
+        "minute": "45'+6'",
+        "assist": "Maxi Araújo"
+      }
+    ],
     "notes": ""
   },
   {
