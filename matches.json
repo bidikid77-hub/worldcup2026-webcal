@@ -1221,8 +1221,8 @@
     "stage": "Bảng H - Lượt 2",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "2-1",
-    "status": "50'",
+    "score": "2-2",
+    "status": "FT",
     "scorers": [
       {
         "team": "Cape Verde",
@@ -1236,9 +1236,14 @@
       },
       {
         "team": "Uruguay",
-        "player": "Agustín Cano",
+        "player": "Agustín Canobbio",
         "minute": "45'+6'",
         "assist": "Maxi Araújo"
+      },
+      {
+        "team": "Cape Verde",
+        "player": "Hélio Varela",
+        "minute": "61'"
       }
     ],
     "notes": ""
@@ -1253,9 +1258,34 @@
     "stage": "Bảng G - Lượt 2",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "0-0",
+    "score": "1-3",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "New Zealand",
+        "player": "Finn Surman",
+        "minute": "15'",
+        "assist": "Tim Payne"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Mostafa Zico",
+        "minute": "58'",
+        "assist": "Mohamed Hany"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Mohamed Salah",
+        "minute": "67'",
+        "assist": "Mostafa Zico"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Trézéguet",
+        "minute": "82'",
+        "assist": "Mohamed Salah"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1268,8 +1298,8 @@
     "stage": "Bảng J - Lượt 2",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1283,8 +1313,8 @@
     "stage": "Bảng I - Lượt 2",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1298,8 +1328,8 @@
     "stage": "Bảng I - Lượt 2",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1313,8 +1343,8 @@
     "stage": "Bảng J - Lượt 2",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
