@@ -1298,9 +1298,21 @@
     "stage": "Bảng J - Lượt 2",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "0-0",
+    "score": "2-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "38'",
+        "assist": "Facundo Medina"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "90'+5'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1313,9 +1325,16 @@
     "stage": "Bảng I - Lượt 2",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "1-0",
+    "status": "45'+3'",
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "14'",
+        "assist": "Michael Olise"
+      }
+    ],
     "notes": ""
   },
   {
