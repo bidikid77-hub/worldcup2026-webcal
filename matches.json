@@ -1437,9 +1437,37 @@
     "stage": "Bảng K - Lượt 2",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "0-0",
+    "score": "5-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Cristiano Ronaldo",
+        "minute": "6'",
+        "assist": "João Cancelo"
+      },
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Nuno Mendes",
+        "minute": "17'"
+      },
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Cristiano Ronaldo",
+        "minute": "39'",
+        "assist": "Bruno Fernandes"
+      },
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Abduvohid Nematov",
+        "minute": "60'"
+      },
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Rafael Leão",
+        "minute": "87'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1468,7 +1496,7 @@
     "stadium": "Toronto",
     "city": "Toronto",
     "score": "0-0",
-    "status": "FT",
+    "status": "15'",
     "scorers": [],
     "notes": ""
   },
