@@ -1325,13 +1325,25 @@
     "stage": "Bảng I - Lượt 2",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "1-0",
-    "status": "45'+3'",
+    "score": "3-0",
+    "status": "FT",
     "scorers": [
       {
         "team": "Pháp",
         "player": "Kylian Mbappé",
         "minute": "14'",
+        "assist": "Michael Olise"
+      },
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "54'",
+        "assist": "Ousmane Dembélé"
+      },
+      {
+        "team": "Pháp",
+        "player": "Ousmane Dembélé",
+        "minute": "66'",
         "assist": "Michael Olise"
       }
     ],
@@ -1347,9 +1359,39 @@
     "stage": "Bảng I - Lượt 2",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "0-0",
+    "score": "3-2",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Na Uy",
+        "player": "Marcus Holmgren Pedersen",
+        "minute": "43'"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "48'",
+        "assist": "Martin Ødegaard"
+      },
+      {
+        "team": "Senegal",
+        "player": "Ismaïla Sarr",
+        "minute": "53'",
+        "assist": "Sadio Mané"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "58'",
+        "assist": "Patrick Berg"
+      },
+      {
+        "team": "Senegal",
+        "player": "Ismaïla Sarr",
+        "minute": "90'+3'",
+        "assist": "Nicolas Jackson"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1362,9 +1404,27 @@
     "stage": "Bảng J - Lượt 2",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "0-0",
+    "score": "1-2",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Jordan",
+        "player": "Nizar Al-Rashdan",
+        "minute": "36'",
+        "assist": "Mousa Al-Tamari"
+      },
+      {
+        "team": "Algeria",
+        "player": "Nadhir Benbouali",
+        "minute": "69'",
+        "assist": "Riyad Mahrez"
+      },
+      {
+        "team": "Algeria",
+        "player": "Amine Gouiri",
+        "minute": "82'"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1377,8 +1437,8 @@
     "stage": "Bảng K - Lượt 2",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1392,8 +1452,8 @@
     "stage": "Bảng L - Lượt 2",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1407,8 +1467,8 @@
     "stage": "Bảng L - Lượt 2",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1422,8 +1482,8 @@
     "stage": "Bảng K - Lượt 2",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
