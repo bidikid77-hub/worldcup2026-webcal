@@ -1495,9 +1495,16 @@
     "stage": "Bảng L - Lượt 2",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "0-0",
-    "status": "15'",
-    "scorers": [],
+    "score": "0-1",
+    "status": "FT",
+    "scorers": [
+      {
+        "team": "Croatia",
+        "player": "Ante Budimir",
+        "minute": "54'",
+        "assist": "Josip Stanisic"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1510,9 +1517,16 @@
     "stage": "Bảng K - Lượt 2",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "0-0",
+    "score": "1-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Colombia",
+        "player": "Daniel Muñoz",
+        "minute": "76'",
+        "assist": "Juan Fernando Quintero"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1525,8 +1539,8 @@
     "stage": "Bảng B - Lượt 3",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1540,8 +1554,8 @@
     "stage": "Bảng B - Lượt 3",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1555,8 +1569,8 @@
     "stage": "Bảng C - Lượt 3",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1570,8 +1584,8 @@
     "stage": "Bảng C - Lượt 3",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1585,8 +1599,8 @@
     "stage": "Bảng A - Lượt 3",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1600,8 +1614,8 @@
     "stage": "Bảng A - Lượt 3",
     "stadium": "Monterrey",
     "city": "Monterrey",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
