@@ -81,8 +81,14 @@ def run(cmd):
     return subprocess.run(cmd, cwd=BASE, text=True, capture_output=True, check=False)
 
 def fetch_url(url):
-    with urllib.request.urlopen(url, timeout=30) as r:
-        return json.load(r)
+    last = None
+    for _ in range(3):
+        try:
+            with urllib.request.urlopen(url, timeout=12) as r:
+                return json.load(r)
+        except Exception as e:
+            last = e
+    raise RuntimeError(f"failed to fetch {url}: {last}")
 
 def event_dt(ev):
     try:
@@ -122,8 +128,7 @@ def fetch():
 
 def fetch_summary(event_id):
     url = f"https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event={event_id}"
-    with urllib.request.urlopen(url, timeout=30) as r:
-        return json.load(r)
+    return fetch_url(url)
 
 def summary_result(data):
     try:
