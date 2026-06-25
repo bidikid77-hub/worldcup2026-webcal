@@ -1753,9 +1753,8 @@
     "stage": "Bảng E - Lượt 3",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "",
+    "status": "Scheduled",
     "notes": ""
   },
   {
@@ -1768,9 +1767,8 @@
     "stage": "Bảng E - Lượt 3",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "",
+    "status": "Scheduled",
     "notes": ""
   },
   {
@@ -1783,9 +1781,8 @@
     "stage": "Bảng F - Lượt 3",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "",
+    "status": "Scheduled",
     "notes": ""
   },
   {
@@ -1798,9 +1795,8 @@
     "stage": "Bảng F - Lượt 3",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "",
+    "status": "Scheduled",
     "notes": ""
   },
   {
@@ -1813,9 +1809,8 @@
     "stage": "Bảng D - Lượt 3",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "",
+    "status": "Scheduled",
     "notes": ""
   },
   {
@@ -1828,9 +1823,8 @@
     "stage": "Bảng D - Lượt 3",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "0-0",
-    "status": "FT",
-    "scorers": [],
+    "score": "",
+    "status": "Scheduled",
     "notes": ""
   },
   {
@@ -1845,7 +1839,6 @@
     "city": "Boston",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1860,7 +1853,6 @@
     "city": "Toronto",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1875,7 +1867,6 @@
     "city": "Guadalajara",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1890,7 +1881,6 @@
     "city": "Houston",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1905,7 +1895,6 @@
     "city": "Vancouver",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1920,7 +1909,6 @@
     "city": "Seattle",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1935,7 +1923,6 @@
     "city": "New York/New Jersey",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1950,7 +1937,6 @@
     "city": "Philadelphia",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1965,7 +1951,6 @@
     "city": "Miami",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1980,7 +1965,6 @@
     "city": "Atlanta",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -1995,7 +1979,6 @@
     "city": "Dallas",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2010,7 +1993,6 @@
     "city": "Kansas City",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2025,7 +2007,6 @@
     "city": "Los Angeles",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2040,7 +2021,6 @@
     "city": "Houston",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2055,7 +2035,6 @@
     "city": "Boston",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2070,7 +2049,6 @@
     "city": "Monterrey",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2085,7 +2063,6 @@
     "city": "Dallas",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2100,7 +2077,6 @@
     "city": "New York/New Jersey",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2115,7 +2091,6 @@
     "city": "Mexico City",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2130,7 +2105,6 @@
     "city": "Atlanta",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2145,7 +2119,6 @@
     "city": "Seattle",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2160,7 +2133,6 @@
     "city": "SF Bay Area",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2175,7 +2147,6 @@
     "city": "Los Angeles",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2190,7 +2161,6 @@
     "city": "Toronto",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2205,7 +2175,6 @@
     "city": "Vancouver",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2220,7 +2189,6 @@
     "city": "Dallas",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2235,7 +2203,6 @@
     "city": "Miami",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2250,7 +2217,6 @@
     "city": "Kansas City",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2265,7 +2231,6 @@
     "city": "Houston",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2280,7 +2245,6 @@
     "city": "Philadelphia",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2295,7 +2259,6 @@
     "city": "New York/New Jersey",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2310,7 +2273,6 @@
     "city": "Mexico City",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2325,7 +2287,6 @@
     "city": "Dallas",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2340,7 +2301,6 @@
     "city": "Seattle",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2355,7 +2315,6 @@
     "city": "Atlanta",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2370,7 +2329,6 @@
     "city": "Vancouver",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2385,7 +2343,6 @@
     "city": "Boston",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2400,7 +2357,6 @@
     "city": "Los Angeles",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2415,7 +2371,6 @@
     "city": "Miami",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2430,7 +2385,6 @@
     "city": "Kansas City",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2445,7 +2399,6 @@
     "city": "Dallas",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2460,7 +2413,6 @@
     "city": "Atlanta",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2475,7 +2427,6 @@
     "city": "Miami",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   },
   {
@@ -2490,7 +2441,6 @@
     "city": "MetLife Stadium, New York/New Jersey",
     "score": "",
     "status": "Scheduled",
-    "scorers": [],
     "notes": ""
   }
 ]

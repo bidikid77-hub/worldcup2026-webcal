@@ -98,7 +98,8 @@ def event_dt(ev):
 
 def in_window(ev):
     dt = event_dt(ev)
-    return bool(dt and CUTOFF_UTC <= dt <= END_UTC)
+    now = datetime.now(timezone.utc)
+    return bool(dt and CUTOFF_UTC <= dt <= min(now, END_UTC))
 
 def fetch():
     """Fetch only matches from cutoff forward, not earlier filled results."""
@@ -208,16 +209,6 @@ def main():
         m = by_key.get((hname, aname))
         if not m:
             continue
-        hscore = str(home.get("score", "0"))
-        ascore = str(away.get("score", "0"))
-        if m.get("home") == hname and m.get("away") == aname:
-            score = f"{hscore}-{ascore}"
-        elif m.get("home") == aname and m.get("away") == hname:
-            # ESPN may present teams opposite to local canonical calendar order.
-            # Store score in matches.json home-away order.
-            score = f"{ascore}-{hscore}"
-        else:
-            continue
         state = status_type.get("state")
         completed = bool(status_type.get("completed"))
         desc = status_type.get("description") or status_type.get("shortDetail") or ""
@@ -225,12 +216,26 @@ def main():
         summary = fetch_summary(event_id) if event_id else None
         sres = summary_result(summary) if summary else None
         if completed:
+            hscore = str(home.get("score", ""))
+            ascore = str(away.get("score", ""))
             new_status = "FT"
         elif sres and sres.get("completed") and sres.get("home") == hname and sres.get("away") == aname:
-            score = sres.get("score") or score
+            hscore, ascore = (sres.get("score") or "-").split("-", 1)
             new_status = "FT"
         elif state == "in":
+            hscore = str(home.get("score", ""))
+            ascore = str(away.get("score", ""))
             new_status = status_type.get("detail") or desc or "Live"
+        else:
+            continue
+        if hscore == "" or ascore == "":
+            continue
+        if m.get("home") == hname and m.get("away") == aname:
+            score = f"{hscore}-{ascore}"
+        elif m.get("home") == aname and m.get("away") == hname:
+            # ESPN may present teams opposite to local canonical calendar order.
+            # Store score in matches.json home-away order.
+            score = f"{ascore}-{hscore}"
         else:
             continue
         scorers = extract_scorers(event_id, summary) if event_id else []

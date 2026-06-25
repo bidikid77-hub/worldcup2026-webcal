@@ -34,7 +34,8 @@ def fmt_dt(dt):
 def summary(m):
     h = m.get('home', 'TBD')
     a = m.get('away', 'TBD')
-    score = m.get('score', '').strip()
+    score = str(m.get('score', '') or '').strip()
+    status = str(m.get('status', '') or '').strip().lower()
     raw_id = str(m.get('id') or '')
     num = ''
     if raw_id.startswith('wc2026-m'):
@@ -48,7 +49,9 @@ def summary(m):
         group = stage.split('Bảng ', 1)[1].split(' ', 1)[0].strip()
     prefix = f'Trận {num} ' if num else ''
     group_text = f'[{group}] ' if group else ''
-    return f'{prefix}{group_text}{h} {score} {a}' if score else f'{prefix}{group_text}{h} vs {a}'
+    if score and status in {'ft', 'aet', 'pen'}:
+        return f'{prefix}{group_text}{h} {score} {a}'
+    return f'{prefix}{group_text}{h} vs {a}'
 
 def description(m):
     parts = []
