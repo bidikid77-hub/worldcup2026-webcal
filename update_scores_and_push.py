@@ -246,7 +246,22 @@ def main():
             m["status"] = new_status
             if scorers:
                 m["scorers"] = scorers
+            else:
+                m.pop("scorers", None)
             changes.append(f"{m['home']} {score} {m['away']} ({new_status})")
+
+    for m in matches:
+        status = str(m.get("status", "") or "").strip().lower()
+        if status in {"scheduled", "postponed", "canceled", "cancelled"}:
+            dirty = False
+            if m.get("score"):
+                m["score"] = ""
+                dirty = True
+            if m.get("scorers"):
+                m.pop("scorers", None)
+                dirty = True
+            if dirty:
+                changes.append(f"Sanitized future match: {m['home']} vs {m['away']}")
 
     if not changes:
         return 0
