@@ -1612,8 +1612,8 @@
     "stage": "Bảng C - Lượt 3",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "0-2",
-    "status": "50'",
+    "score": "0-3",
+    "status": "FT",
     "scorers": [
       {
         "team": "Brazil",
@@ -1625,6 +1625,12 @@
         "team": "Brazil",
         "player": "Vinícius Júnior",
         "minute": "45'+3'",
+        "assist": "Bruno Guimarães"
+      },
+      {
+        "team": "Brazil",
+        "player": "Matheus Cunha",
+        "minute": "60'",
         "assist": "Bruno Guimarães"
       }
     ],
@@ -1640,8 +1646,8 @@
     "stage": "Bảng C - Lượt 3",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "2-2",
-    "status": "53'",
+    "score": "4-2",
+    "status": "FT",
     "scorers": [
       {
         "team": "Haiti",
@@ -1665,6 +1671,18 @@
         "player": "Ismael Saibari",
         "minute": "45'+1'",
         "assist": "Achraf Hakimi"
+      },
+      {
+        "team": "Morocco",
+        "player": "Soufiane Rahimi",
+        "minute": "78'",
+        "assist": "Chadi Riad"
+      },
+      {
+        "team": "Morocco",
+        "player": "Gessime Yassine",
+        "minute": "89'",
+        "assist": "Soufiane Rahimi"
       }
     ],
     "notes": ""
@@ -1679,9 +1697,28 @@
     "stage": "Bảng A - Lượt 3",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "0-0",
+    "score": "3-0",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Mexico",
+        "player": "Mateo Chávez",
+        "minute": "55'",
+        "assist": "Luis Romo"
+      },
+      {
+        "team": "Mexico",
+        "player": "Julián Quiñones",
+        "minute": "61'",
+        "assist": "Jorge Sánchez"
+      },
+      {
+        "team": "Mexico",
+        "player": "Álvaro Fidalgo",
+        "minute": "90'+4'",
+        "assist": "Roberto Alvarado"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1694,9 +1731,16 @@
     "stage": "Bảng A - Lượt 3",
     "stadium": "Monterrey",
     "city": "Monterrey",
-    "score": "0-0",
+    "score": "0-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Nam Phi",
+        "player": "Thapelo Maseko",
+        "minute": "63'",
+        "assist": "Tshepang Moremi"
+      }
+    ],
     "notes": ""
   },
   {
@@ -1709,8 +1753,8 @@
     "stage": "Bảng E - Lượt 3",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1724,8 +1768,8 @@
     "stage": "Bảng E - Lượt 3",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1739,8 +1783,8 @@
     "stage": "Bảng F - Lượt 3",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1754,8 +1798,8 @@
     "stage": "Bảng F - Lượt 3",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1769,8 +1813,8 @@
     "stage": "Bảng D - Lượt 3",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
@@ -1784,8 +1828,8 @@
     "stage": "Bảng D - Lượt 3",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "scorers": [],
     "notes": ""
   },
