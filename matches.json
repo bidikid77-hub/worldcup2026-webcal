@@ -1940,9 +1940,41 @@
     "stage": "Bảng I - Lượt 3",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-4",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "Ousmane Dembélé",
+        "minute": "7'",
+        "assist": "Kylian Mbappé"
+      },
+      {
+        "team": "Pháp",
+        "player": "Ousmane Dembélé",
+        "minute": "20'",
+        "assist": "Kylian Mbappé"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Thelo Aasgaard",
+        "minute": "21'",
+        "assist": "Andreas Schjelderup"
+      },
+      {
+        "team": "Pháp",
+        "player": "Ousmane Dembélé",
+        "minute": "32'",
+        "assist": "Aurélien Tchouaméni"
+      },
+      {
+        "team": "Pháp",
+        "player": "Désiré Doué",
+        "minute": "90'+4'",
+        "assist": "Bradley Barcola"
+      }
+    ]
   },
   {
     "id": "wc2026-m062",
@@ -1954,9 +1986,41 @@
     "stage": "Bảng I - Lượt 3",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "5-0",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Senegal",
+        "player": "Habib Diarra",
+        "minute": "4'",
+        "assist": "Abdoulaye Seck"
+      },
+      {
+        "team": "Senegal",
+        "player": "Ismaïla Sarr",
+        "minute": "56'",
+        "assist": "Lamine Camara"
+      },
+      {
+        "team": "Senegal",
+        "player": "Pape Gueye",
+        "minute": "59'",
+        "assist": "Ismaïla Sarr"
+      },
+      {
+        "team": "Senegal",
+        "player": "Pape Gueye",
+        "minute": "71'",
+        "assist": "Iliman Ndiaye"
+      },
+      {
+        "team": "Senegal",
+        "player": "Iliman Ndiaye",
+        "minute": "82'",
+        "assist": "Pape Gueye"
+      }
+    ]
   },
   {
     "id": "wc2026-m063",
