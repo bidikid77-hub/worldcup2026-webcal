@@ -2144,9 +2144,23 @@
     "stage": "Bảng L - Lượt 3",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "0-2",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Anh",
+        "player": "Jude Bellingham",
+        "minute": "62'",
+        "assist": "Bukayo Saka"
+      },
+      {
+        "team": "Anh",
+        "player": "Harry Kane",
+        "minute": "67'",
+        "assist": "Jude Bellingham"
+      }
+    ]
   },
   {
     "id": "wc2026-m068",
@@ -2158,9 +2172,29 @@
     "stage": "Bảng L - Lượt 3",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-1",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Croatia",
+        "player": "Petar Sucic",
+        "minute": "31'",
+        "assist": "Mateo Kovacic"
+      },
+      {
+        "team": "Ghana",
+        "player": "Derrick Luckassen",
+        "minute": "73'",
+        "assist": "Ernest Nuamah"
+      },
+      {
+        "team": "Croatia",
+        "player": "Nikola Vlasic",
+        "minute": "83'",
+        "assist": "Luka Modric"
+      }
+    ]
   },
   {
     "id": "wc2026-m069",
