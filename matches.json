@@ -2032,9 +2032,17 @@
     "stage": "Bảng H - Lượt 3",
     "stadium": "Guadalajara",
     "city": "Guadalajara",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "0-1",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "Álex Baena",
+        "minute": "42'",
+        "assist": "Marcos Llorente"
+      }
+    ]
   },
   {
     "id": "wc2026-m064",
@@ -2046,8 +2054,8 @@
     "stage": "Bảng H - Lượt 3",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "notes": ""
   },
   {
@@ -2060,9 +2068,44 @@
     "stage": "Bảng G - Lượt 3",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-5",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Bỉ",
+        "player": "Leandro Trossard",
+        "minute": "28'"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Leandro Trossard",
+        "minute": "50'",
+        "assist": "Hans Vanaken"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Kevin De Bruyne",
+        "minute": "66'"
+      },
+      {
+        "team": "New Zealand",
+        "player": "Elijah Just",
+        "minute": "84'"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Romelu Lukaku",
+        "minute": "86'",
+        "assist": "Nicolas Raskin"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Alexis Saelemaekers",
+        "minute": "90'+4'",
+        "assist": "Romelu Lukaku"
+      }
+    ]
   },
   {
     "id": "wc2026-m066",
@@ -2074,9 +2117,22 @@
     "stage": "Bảng G - Lượt 3",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-1",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Ai Cập",
+        "player": "Mahmoud Saber",
+        "minute": "5'",
+        "assist": "Trézéguet"
+      },
+      {
+        "team": "Iran",
+        "player": "Ramin Rezaeian",
+        "minute": "14'"
+      }
+    ]
   },
   {
     "id": "wc2026-m067",
