@@ -2206,8 +2206,8 @@
     "stage": "Bảng K - Lượt 3",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "FT",
     "notes": ""
   },
   {
@@ -2220,9 +2220,33 @@
     "stage": "Bảng K - Lượt 3",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-3",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Uzbekistan",
+        "player": "Eldor Shomurodov",
+        "minute": "10'",
+        "assist": "Akmal Mozgovoy"
+      },
+      {
+        "team": "Congo DR",
+        "player": "Yoane Wissa",
+        "minute": "68'"
+      },
+      {
+        "team": "Congo DR",
+        "player": "Fiston Mayele",
+        "minute": "78'"
+      },
+      {
+        "team": "Congo DR",
+        "player": "Yoane Wissa",
+        "minute": "90'+1'",
+        "assist": "Meschack Elia"
+      }
+    ]
   },
   {
     "id": "wc2026-m071",
@@ -2234,9 +2258,32 @@
     "stage": "Bảng J - Lượt 3",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-3",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Argentina",
+        "player": "Giovani Lo Celso",
+        "minute": "19'"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lautaro Martínez",
+        "minute": "31'"
+      },
+      {
+        "team": "Jordan",
+        "player": "Mousa Al-Tamari",
+        "minute": "55'",
+        "assist": "Ehsan Haddad"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "80'"
+      }
+    ]
   },
   {
     "id": "wc2026-m072",
@@ -2248,9 +2295,46 @@
     "stage": "Bảng J - Lượt 3",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "3-3",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Áo",
+        "player": "Marko Arnautovic",
+        "minute": "28'",
+        "assist": "David Alaba"
+      },
+      {
+        "team": "Algeria",
+        "player": "Rafik Belghali",
+        "minute": "45'"
+      },
+      {
+        "team": "Áo",
+        "player": "Marcel Sabitzer",
+        "minute": "55'",
+        "assist": "Konrad Laimer"
+      },
+      {
+        "team": "Algeria",
+        "player": "Riyad Mahrez",
+        "minute": "60'",
+        "assist": "Houssem Aouar"
+      },
+      {
+        "team": "Algeria",
+        "player": "Riyad Mahrez",
+        "minute": "90'+3'",
+        "assist": "Houssem Aouar"
+      },
+      {
+        "team": "Áo",
+        "player": "Sasa Kalajdzic",
+        "minute": "90'+6'",
+        "assist": "Michael Gregoritsch"
+      }
+    ]
   },
   {
     "id": "wc2026-m073",
