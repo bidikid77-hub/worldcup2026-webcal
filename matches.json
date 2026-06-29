@@ -2346,9 +2346,16 @@
     "stage": "Vòng 32",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "0-1",
+    "status": "FT",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Canada",
+        "player": "Stephen Eustáquio",
+        "minute": "90'+2'"
+      }
+    ]
   },
   {
     "id": "wc2026-m074",
