@@ -2401,7 +2401,7 @@
     "stadium": "Boston",
     "city": "Boston",
     "score": "1-1",
-    "status": "FT",
+    "status": "Pen",
     "notes": "",
     "scorers": [
       {
@@ -2416,7 +2416,9 @@
         "minute": "54'",
         "assist": "Florian Wirtz"
       }
-    ]
+    ],
+    "penalty_score": "3-4",
+    "winner": "Paraguay"
   },
   {
     "id": "wc2026-m076",
@@ -2429,7 +2431,7 @@
     "stadium": "Monterrey",
     "city": "Monterrey",
     "score": "1-1",
-    "status": "FT",
+    "status": "Pen",
     "notes": "",
     "scorers": [
       {
@@ -2444,7 +2446,9 @@
         "minute": "90'+1'",
         "assist": "Chemsdine Talbi"
       }
-    ]
+    ],
+    "penalty_score": "2-3",
+    "winner": "Morocco"
   },
   {
     "id": "wc2026-m077",
