@@ -191,8 +191,14 @@ def main():
     matches = json.loads(MATCHES.read_text(encoding="utf-8"))
     by_key = {}
     for m in matches:
-        by_key[(m.get("home"), m.get("away"))] = m
-        by_key[(m.get("away"), m.get("home"))] = m
+        names = {
+            (m.get("home"), m.get("away")),
+            (m.get("away"), m.get("home")),
+            (norm(m.get("home", "")), norm(m.get("away", ""))),
+            (norm(m.get("away", "")), norm(m.get("home", ""))),
+        }
+        for key in names:
+            by_key[key] = m
 
     data = fetch()
     changes = []
@@ -230,9 +236,9 @@ def main():
             continue
         if hscore == "" or ascore == "":
             continue
-        if m.get("home") == hname and m.get("away") == aname:
+        if norm(m.get("home", "")) == hname and norm(m.get("away", "")) == aname:
             score = f"{hscore}-{ascore}"
-        elif m.get("home") == aname and m.get("away") == hname:
+        elif norm(m.get("home", "")) == aname and norm(m.get("away", "")) == hname:
             # ESPN may present teams opposite to local canonical calendar order.
             # Store score in matches.json home-away order.
             score = f"{ascore}-{hscore}"
