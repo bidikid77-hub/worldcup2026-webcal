@@ -2460,9 +2460,30 @@
     "stage": "Vòng 32",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-2",
+    "status": "FT",
+    "notes": "",
+    "winner": "Na Uy",
+    "scorers": [
+      {
+        "team": "Na Uy",
+        "player": "Antonio Nusa",
+        "minute": "39'",
+        "assist": "Martin Ødegaard"
+      },
+      {
+        "team": "Bờ Biển Ngà",
+        "player": "Amad Diallo",
+        "minute": "74'",
+        "assist": "Nicolas Pépé"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "86'",
+        "assist": "Patrick Berg"
+      }
+    ]
   },
   {
     "id": "wc2026-m078",
@@ -2474,9 +2495,30 @@
     "stage": "Vòng 32",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "3-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "Pháp",
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "45'",
+        "assist": "Ousmane Dembélé"
+      },
+      {
+        "team": "Pháp",
+        "player": "Bradley Barcola",
+        "minute": "53'",
+        "assist": "Michael Olise"
+      },
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "74'",
+        "assist": "Michael Olise"
+      }
+    ]
   },
   {
     "id": "wc2026-m079",
