@@ -144,6 +144,8 @@ def summary_result(data):
             "home": norm(home["team"].get("displayName", "")),
             "away": norm(away["team"].get("displayName", "")),
             "score": f"{home.get('score', '0')}-{away.get('score', '0')}",
+            "penalty_score": f"{int(float(home.get('shootoutScore')))}-{int(float(away.get('shootoutScore')))}" if home.get('shootoutScore') is not None and away.get('shootoutScore') is not None else "",
+            "winner": norm((home if home.get('winner') else away if away.get('winner') else {}).get("team", {}).get("displayName", "")),
             "completed": bool(st.get("completed")) or not comp.get("liveAvailable", True),
             "status": st.get("detail") or "FT",
         }
@@ -221,17 +223,24 @@ def main():
         event_id = ev.get("id")
         summary = fetch_summary(event_id) if event_id else None
         sres = summary_result(summary) if summary else None
+        is_penalty = status_type.get("name") == "STATUS_FINAL_PEN" or "pen" in (status_type.get("detail") or "").lower() or "penalt" in desc.lower()
         if completed:
             hscore = str(home.get("score", ""))
             ascore = str(away.get("score", ""))
-            new_status = "FT"
+            new_status = "Pen" if is_penalty else "FT"
+            penalty_score = f"{int(float(home.get('shootoutScore')))}-{int(float(away.get('shootoutScore')))}" if home.get('shootoutScore') is not None and away.get('shootoutScore') is not None else ""
+            winner = norm((home if home.get('winner') else away if away.get('winner') else {}).get("team", {}).get("displayName", ""))
         elif sres and sres.get("completed") and sres.get("home") == hname and sres.get("away") == aname:
             hscore, ascore = (sres.get("score") or "-").split("-", 1)
-            new_status = "FT"
+            new_status = "Pen" if "pen" in (sres.get("status") or "").lower() else "FT"
+            penalty_score = sres.get("penalty_score", "")
+            winner = sres.get("winner", "")
         elif state == "in":
             hscore = str(home.get("score", ""))
             ascore = str(away.get("score", ""))
             new_status = status_type.get("detail") or desc or "Live"
+            penalty_score = ""
+            winner = ""
         else:
             continue
         if hscore == "" or ascore == "":
@@ -250,6 +259,14 @@ def main():
         if old != new:
             m["score"] = score
             m["status"] = new_status
+            if penalty_score:
+                m["penalty_score"] = penalty_score
+            else:
+                m.pop("penalty_score", None)
+            if winner:
+                m["winner"] = winner
+            else:
+                m.pop("winner", None)
             if scorers:
                 m["scorers"] = scorers
             else:

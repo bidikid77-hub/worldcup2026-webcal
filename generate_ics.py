@@ -50,6 +50,8 @@ def summary(m):
     prefix = f'Trận {num} ' if num else ''
     group_text = f'[{group}] ' if group else ''
     if score and status in {'ft', 'aet', 'pen'}:
+        if status == 'pen' and m.get('winner') and m.get('penalty_score'):
+            return f'{prefix}{group_text}{h} {score} {a} · {m["winner"]} thắng pen {m["penalty_score"]}'
         return f'{prefix}{group_text}{h} {score} {a}'
     return f'{prefix}{group_text}{h} vs {a}'
 
@@ -63,6 +65,10 @@ def description(m):
         parts.append(f'🏟 Sân: {m["stadium"]}')
     if m.get('score'):
         parts.append(f'⚽ Tỷ số: {m["score"]}')
+    if m.get('penalty_score'):
+        parts.append(f'🎯 Luân lưu: {m["penalty_score"]}')
+    if m.get('winner'):
+        parts.append(f'🏆 Đội thắng: {m["winner"]}')
     scorers = m.get('scorers') or []
     if scorers:
         parts.append('⚽ Cầu thủ ghi bàn:')
