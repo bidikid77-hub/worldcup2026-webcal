@@ -2530,9 +2530,24 @@
     "stage": "Vòng 32",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "Mexico",
+    "scorers": [
+      {
+        "team": "Mexico",
+        "player": "Julián Quiñones",
+        "minute": "22'",
+        "assist": "Roberto Alvarado"
+      },
+      {
+        "team": "Mexico",
+        "player": "Raúl Jiménez",
+        "minute": "31'",
+        "assist": "Julián Quiñones"
+      }
+    ]
   },
   {
     "id": "wc2026-m080",
@@ -2558,9 +2573,40 @@
     "stage": "Vòng 32",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "3-2",
+    "status": "FT",
+    "notes": "",
+    "winner": "Bỉ",
+    "scorers": [
+      {
+        "team": "Senegal",
+        "player": "Habib Diarra",
+        "minute": "25'"
+      },
+      {
+        "team": "Senegal",
+        "player": "Ismaïla Sarr",
+        "minute": "51'",
+        "assist": "Moussa Niakhaté"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Romelu Lukaku",
+        "minute": "86'",
+        "assist": "Thomas Meunier"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Youri Tielemans",
+        "minute": "89'",
+        "assist": "Leandro Trossard"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Youri Tielemans",
+        "minute": "120'+5'"
+      }
+    ]
   },
   {
     "id": "wc2026-m082",
