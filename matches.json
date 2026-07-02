@@ -2724,56 +2724,60 @@
     "date": "2026-07-05",
     "time": "00:00",
     "timezone": "Asia/Ho_Chi_Minh",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "Canada",
+    "away": "Morocco",
     "stage": "Vòng 16",
     "stadium": "Houston",
     "city": "Houston",
     "score": "",
     "status": "Scheduled",
-    "notes": ""
+    "notes": "",
+    "scorers": []
   },
   {
     "id": "wc2026-m090",
     "date": "2026-07-05",
     "time": "04:00",
     "timezone": "Asia/Ho_Chi_Minh",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "Paraguay",
+    "away": "France",
     "stage": "Vòng 16",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
     "score": "",
     "status": "Scheduled",
-    "notes": ""
+    "notes": "",
+    "scorers": []
   },
   {
     "id": "wc2026-m091",
     "date": "2026-07-06",
     "time": "03:00",
     "timezone": "Asia/Ho_Chi_Minh",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "Brazil",
+    "away": "Norway",
     "stage": "Vòng 16",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
     "score": "",
     "status": "Scheduled",
-    "notes": ""
+    "notes": "",
+    "scorers": []
   },
   {
     "id": "wc2026-m092",
     "date": "2026-07-06",
     "time": "07:00",
     "timezone": "Asia/Ho_Chi_Minh",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "Mexico",
+    "away": "England",
     "stage": "Vòng 16",
     "stadium": "Mexico City",
     "city": "Mexico City",
     "score": "",
     "status": "Scheduled",
-    "notes": ""
+    "notes": "",
+    "scorers": []
   },
   {
     "id": "wc2026-m093",
@@ -2787,21 +2791,23 @@
     "city": "Dallas",
     "score": "",
     "status": "Scheduled",
-    "notes": ""
+    "notes": "",
+    "scorers": []
   },
   {
     "id": "wc2026-m094",
     "date": "2026-07-07",
     "time": "07:00",
     "timezone": "Asia/Ho_Chi_Minh",
-    "home": "TBD",
-    "away": "TBD",
+    "home": "USA",
+    "away": "Belgium",
     "stage": "Vòng 16",
     "stadium": "Seattle",
     "city": "Seattle",
     "score": "",
     "status": "Scheduled",
-    "notes": ""
+    "notes": "",
+    "scorers": []
   },
   {
     "id": "wc2026-m095",
