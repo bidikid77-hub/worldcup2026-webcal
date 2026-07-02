@@ -693,7 +693,7 @@
         "assist": "Pedro Neto"
       },
       {
-        "team": "Congo DR",
+        "team": "DR Congo",
         "player": "Yoane Wissa",
         "minute": "45'+5'",
         "assist": "Arthur Masuaku"
@@ -715,7 +715,7 @@
     "status": "FT",
     "scorers": [
       {
-        "team": "Anh",
+        "team": "England",
         "player": "Harry Kane",
         "minute": "12'"
       },
@@ -726,7 +726,7 @@
         "assist": "Petar Sucic"
       },
       {
-        "team": "Anh",
+        "team": "England",
         "player": "Harry Kane",
         "minute": "42'",
         "assist": "Declan Rice"
@@ -738,19 +738,20 @@
         "assist": "Ivan Perisic"
       },
       {
-        "team": "Anh",
+        "team": "England",
         "player": "Jude Bellingham",
         "minute": "47'",
         "assist": "Elliot Anderson"
       },
       {
-        "team": "Anh",
+        "team": "England",
         "player": "Marcus Rashford",
         "minute": "85'",
         "assist": "Bukayo Saka"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "England"
   },
   {
     "id": "wc2026-m023",
@@ -2149,18 +2150,19 @@
     "notes": "",
     "scorers": [
       {
-        "team": "Anh",
+        "team": "England",
         "player": "Jude Bellingham",
         "minute": "62'",
         "assist": "Bukayo Saka"
       },
       {
-        "team": "Anh",
+        "team": "England",
         "player": "Harry Kane",
         "minute": "67'",
         "assist": "Jude Bellingham"
       }
-    ]
+    ],
+    "winner": "England"
   },
   {
     "id": "wc2026-m068",
@@ -2231,22 +2233,23 @@
         "assist": "Akmal Mozgovoy"
       },
       {
-        "team": "Congo DR",
+        "team": "DR Congo",
         "player": "Yoane Wissa",
         "minute": "68'"
       },
       {
-        "team": "Congo DR",
+        "team": "DR Congo",
         "player": "Fiston Mayele",
         "minute": "78'"
       },
       {
-        "team": "Congo DR",
+        "team": "DR Congo",
         "player": "Yoane Wissa",
         "minute": "90'+1'",
         "assist": "Meschack Elia"
       }
-    ]
+    ],
+    "winner": "DR Congo"
   },
   {
     "id": "wc2026-m071",
@@ -2559,9 +2562,30 @@
     "stage": "Vòng 32",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-1",
+    "status": "FT",
+    "notes": "",
+    "winner": "England",
+    "scorers": [
+      {
+        "team": "DR Congo",
+        "player": "Brian Cipenga",
+        "minute": "7'",
+        "assist": "Chancel Mbemba"
+      },
+      {
+        "team": "England",
+        "player": "Harry Kane",
+        "minute": "75'",
+        "assist": "Anthony Gordon"
+      },
+      {
+        "team": "England",
+        "player": "Harry Kane",
+        "minute": "86'",
+        "assist": "Anthony Gordon"
+      }
+    ]
   },
   {
     "id": "wc2026-m081",
