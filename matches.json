@@ -2669,9 +2669,30 @@
     "stage": "Vòng 32",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "3-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "Tây Ban Nha",
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Oyarzabal",
+        "minute": "36'",
+        "assist": "Marc Cucurella"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Pedro Porro",
+        "minute": "66'",
+        "assist": "Álex Baena"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Oyarzabal",
+        "minute": "89'",
+        "assist": "Marc Cucurella"
+      }
+    ]
   },
   {
     "id": "wc2026-m084",
@@ -2683,8 +2704,8 @@
     "stage": "Vòng 32",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "16'",
     "notes": ""
   },
   {
