@@ -2581,7 +2581,7 @@
       {
         "team": "Senegal",
         "player": "Habib Diarra",
-        "minute": "25'"
+        "minute": "24'"
       },
       {
         "team": "Senegal",
@@ -2618,9 +2618,22 @@
     "stage": "Vòng 32",
     "stadium": "SF Bay Area",
     "city": "SF Bay Area",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "USA",
+    "scorers": [
+      {
+        "team": "USA",
+        "player": "Folarin Balogun",
+        "minute": "45'"
+      },
+      {
+        "team": "USA",
+        "player": "Malik Tillman",
+        "minute": "82'"
+      }
+    ]
   },
   {
     "id": "wc2026-m083",
