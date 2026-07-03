@@ -2704,9 +2704,28 @@
     "stage": "Vòng 32",
     "stadium": "Toronto",
     "city": "Toronto",
-    "score": "0-0",
-    "status": "16'",
-    "notes": ""
+    "score": "2-1",
+    "status": "FT",
+    "notes": "",
+    "winner": "Bồ Đào Nha",
+    "scorers": [
+      {
+        "team": "Croatia",
+        "player": "Ivan Perisic",
+        "minute": "53'"
+      },
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Cristiano Ronaldo",
+        "minute": "68'"
+      },
+      {
+        "team": "Bồ Đào Nha",
+        "player": "Gonçalo Ramos",
+        "minute": "90'+4'",
+        "assist": "Rafael Leão"
+      }
+    ]
   },
   {
     "id": "wc2026-m085",
@@ -2718,9 +2737,23 @@
     "stage": "Vòng 32",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "Thụy Sĩ",
+    "scorers": [
+      {
+        "team": "Thụy Sĩ",
+        "player": "Breel Embolo",
+        "minute": "10'",
+        "assist": "Johan Manzambi"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Dan Ndoye",
+        "minute": "46'"
+      }
+    ]
   },
   {
     "id": "wc2026-m086",
