@@ -2765,9 +2765,24 @@
     "stage": "Vòng 32",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-1",
+    "status": "Pen",
+    "notes": "",
+    "penalty_score": "2-4",
+    "winner": "Ai Cập",
+    "scorers": [
+      {
+        "team": "Ai Cập",
+        "player": "Emam Ashour",
+        "minute": "13'",
+        "assist": "Karim Hafez"
+      },
+      {
+        "team": "Australia",
+        "player": "Mohamed Hany",
+        "minute": "55'"
+      }
+    ]
   },
   {
     "id": "wc2026-m087",
