@@ -2794,9 +2794,11 @@
     "stage": "Vòng 32",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "3-2",
+    "status": "AET",
+    "notes": "",
+    "winner": "Argentina",
+    "scorers": []
   },
   {
     "id": "wc2026-m088",
