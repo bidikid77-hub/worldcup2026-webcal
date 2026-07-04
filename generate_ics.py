@@ -49,10 +49,35 @@ def summary(m):
         group = stage.split('Bảng ', 1)[1].split(' ', 1)[0].strip()
     prefix = f'Trận {num} ' if num else ''
     group_text = f'[{group}] ' if group else ''
+
+    def bold_winner(home, away):
+        try:
+            n = int(num)
+        except Exception:
+            return home, away
+        if not (1 <= n <= 87):
+            return home, away
+        winner = str(m.get('winner') or '').strip()
+        if winner:
+            if winner == home:
+                return f'**{home}**', away
+            if winner == away:
+                return home, f'**{away}**'
+        try:
+            hs, as_ = [int(x) for x in score.split('-', 1)]
+        except Exception:
+            return home, away
+        if hs > as_:
+            return f'**{home}**', away
+        if as_ > hs:
+            return home, f'**{away}**'
+        return home, away
+
     if score and status in {'ft', 'aet', 'pen'}:
+        bh, ba = bold_winner(h, a)
         if status == 'pen' and m.get('winner') and m.get('penalty_score'):
-            return f'{prefix}{group_text}{h} {score} {a} · {m["winner"]} thắng pen {m["penalty_score"]}'
-        return f'{prefix}{group_text}{h} {score} {a}'
+            return f'{prefix}{group_text}{bh} {score} {ba} · **{m["winner"]}** thắng pen {m["penalty_score"]}'
+        return f'{prefix}{group_text}{bh} {score} {ba}'
     return f'{prefix}{group_text}{h} vs {a}'
 
 def description(m):
