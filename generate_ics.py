@@ -75,9 +75,10 @@ def summary(m):
 
     if score and status in {'ft', 'aet', 'pen'}:
         bh, ba = bold_winner(h, a)
+        trophy = '🏆 ' if bh.startswith('**') or ba.startswith('**') else ''
         if status == 'pen' and m.get('winner') and m.get('penalty_score'):
-            return f'{prefix}{group_text}{bh} {score} {ba} · **{m["winner"]}** thắng pen {m["penalty_score"]}'
-        return f'{prefix}{group_text}{bh} {score} {ba}'
+            return f'{prefix}{group_text}{trophy}{bh} {score} {ba} · **{m["winner"]}** thắng pen {m["penalty_score"]}'
+        return f'{prefix}{group_text}{trophy}{bh} {score} {ba}'
     return f'{prefix}{group_text}{h} vs {a}'
 
 def description(m):
