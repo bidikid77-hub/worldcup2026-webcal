@@ -50,35 +50,34 @@ def summary(m):
     prefix = f'Trận {num} ' if num else ''
     group_text = f'[{group}] ' if group else ''
 
-    def bold_winner(home, away):
+    def winner_marker(home, away):
         try:
             n = int(num)
         except Exception:
-            return home, away
+            return home, away, ''
         if not (1 <= n <= 88):
-            return home, away
+            return home, away, ''
         winner = str(m.get('winner') or '').strip()
         if winner:
             if winner == home:
-                return f'**{home}**', away
+                return f'🏆 {home}', away, winner
             if winner == away:
-                return home, f'**{away}**'
+                return home, f'🏆 {away}', winner
         try:
             hs, as_ = [int(x) for x in score.split('-', 1)]
         except Exception:
-            return home, away
+            return home, away, ''
         if hs > as_:
-            return f'**{home}**', away
+            return f'🏆 {home}', away, home
         if as_ > hs:
-            return home, f'**{away}**'
-        return home, away
+            return home, f'🏆 {away}', away
+        return home, away, ''
 
     if score and status in {'ft', 'aet', 'pen'}:
-        bh, ba = bold_winner(h, a)
-        trophy = '🏆 ' if bh.startswith('**') or ba.startswith('**') else ''
-        if status == 'pen' and m.get('winner') and m.get('penalty_score'):
-            return f'{prefix}{group_text}{trophy}{bh} {score} {ba} · **{m["winner"]}** thắng pen {m["penalty_score"]}'
-        return f'{prefix}{group_text}{trophy}{bh} {score} {ba}'
+        mh, ma, winner = winner_marker(h, a)
+        if status == 'pen' and winner and m.get('penalty_score'):
+            return f'{prefix}{group_text}{mh} {score} {ma} · {winner} thắng pen {m["penalty_score"]}'
+        return f'{prefix}{group_text}{mh} {score} {ma}'
     return f'{prefix}{group_text}{h} vs {a}'
 
 def description(m):
