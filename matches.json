@@ -1067,7 +1067,44 @@
     "city": "Houston",
     "score": "5-1",
     "status": "FT",
-    "scorers": [],
+    "scorers": [
+      {
+        "team": "Hà Lan",
+        "player": "Brian Brobbey",
+        "minute": "5'",
+        "assist": "Cody Gakpo"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Brian Brobbey",
+        "minute": "17'",
+        "assist": "Denzel Dumfries"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Cody Gakpo",
+        "minute": "47'",
+        "assist": "Denzel Dumfries"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Cody Gakpo",
+        "minute": "54'",
+        "assist": "Crysencio Summerville"
+      },
+      {
+        "team": "Thụy Điển",
+        "player": "Anthony Elanga",
+        "minute": "59'",
+        "assist": "Alexander Isak"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Crysencio Summerville",
+        "minute": "89'",
+        "assist": "Memphis Depay"
+      }
+    ],
     "notes": "",
     "winner": "Hà Lan"
   },
@@ -2815,7 +2852,14 @@
     "status": "FT",
     "notes": "",
     "winner": "Colombia",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Colombia",
+        "player": "Jhon Arias",
+        "minute": "14'",
+        "assist": "Luis Suárez"
+      }
+    ]
   },
   {
     "id": "wc2026-m089",
@@ -2827,10 +2871,30 @@
     "stage": "Vòng 16",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-3",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Morocco",
+        "player": "Azzedine Ounahi",
+        "minute": "50'",
+        "assist": "Achraf Hakimi"
+      },
+      {
+        "team": "Morocco",
+        "player": "Azzedine Ounahi",
+        "minute": "82'",
+        "assist": "Brahim Díaz"
+      },
+      {
+        "team": "Morocco",
+        "player": "Soufiane Rahimi",
+        "minute": "90'+8'",
+        "assist": "Brahim Díaz"
+      }
+    ],
+    "winner": "Morocco"
   },
   {
     "id": "wc2026-m090",
@@ -2842,10 +2906,17 @@
     "stage": "Vòng 16",
     "stadium": "Philadelphia",
     "city": "Philadelphia",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-1",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "70'"
+      }
+    ],
+    "winner": "Pháp"
   },
   {
     "id": "wc2026-m091",
