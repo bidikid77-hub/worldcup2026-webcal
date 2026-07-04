@@ -2810,9 +2810,11 @@
     "stage": "Vòng 32",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "Colombia",
+    "scorers": []
   },
   {
     "id": "wc2026-m089",
