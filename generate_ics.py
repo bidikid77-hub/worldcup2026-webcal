@@ -51,6 +51,24 @@ def summary(m):
     group_text = f'[{group}] ' if group else ''
 
     def winner_marker(home, away):
+        def key(name):
+            aliases = {
+                'Ai Cập': 'egypt', 'Egypt': 'egypt',
+                'Bỉ': 'belgium', 'Belgium': 'belgium',
+                'Pháp': 'france', 'France': 'france',
+                'Đức': 'germany', 'Germany': 'germany',
+                'Hà Lan': 'netherlands', 'Netherlands': 'netherlands',
+                'Tây Ban Nha': 'spain', 'Spain': 'spain',
+                'Bồ Đào Nha': 'portugal', 'Portugal': 'portugal',
+                'Na Uy': 'norway', 'Norway': 'norway',
+                'Thụy Sĩ': 'switzerland', 'Switzerland': 'switzerland',
+                'Anh': 'england', 'England': 'england',
+                'USA': 'usa', 'Hoa Kỳ': 'usa', 'United States': 'usa',
+                'Morocco': 'morocco', 'Maroc': 'morocco',
+                'Cabo Verde': 'cape verde', 'Cape Verde': 'cape verde',
+            }
+            return aliases.get(str(name).strip(), str(name).strip().lower())
+
         try:
             n = int(num)
         except Exception:
@@ -59,10 +77,10 @@ def summary(m):
             return home, away, ''
         winner = str(m.get('winner') or '').strip()
         if winner:
-            if winner == home:
-                return f'🏆 {home}', away, winner
-            if winner == away:
-                return home, f'🏆 {away}', winner
+            if key(winner) == key(home):
+                return f'🏆 {home}', away, home
+            if key(winner) == key(away):
+                return home, f'🏆 {away}', away
         try:
             hs, as_ = [int(x) for x in score.split('-', 1)]
         except Exception:
