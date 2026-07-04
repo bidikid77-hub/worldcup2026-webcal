@@ -1061,14 +1061,15 @@
     "time": "00:00",
     "timezone": "Asia/Ho_Chi_Minh",
     "home": "Hà Lan",
-    "away": "Ba Lan",
+    "away": "Thụy Điển",
     "stage": "Bảng F - Lượt 2",
     "stadium": "Houston",
     "city": "Houston",
-    "score": "",
-    "status": "Scheduled",
+    "score": "5-1",
+    "status": "FT",
     "scorers": [],
-    "notes": ""
+    "notes": "",
+    "winner": "Hà Lan"
   },
   {
     "id": "wc2026-m034",
