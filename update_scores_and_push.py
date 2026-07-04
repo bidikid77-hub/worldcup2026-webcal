@@ -82,6 +82,19 @@ def norm(name: str) -> str:
 def run(cmd):
     return subprocess.run(cmd, cwd=BASE, text=True, capture_output=True, check=False)
 
+def format_result(home, score, away, winner=""):
+    """Add trophy emoji beside winner team for cron output."""
+    if not winner:
+        return f"{home} {score} {away}"
+    whome = norm(home)
+    waway = norm(away)
+    w = norm(winner)
+    if w == whome:
+        home = f"🏆 {home}"
+    elif w == waway:
+        away = f"🏆 {away}"
+    return f"{home} {score} {away}"
+
 def fetch_url(url):
     last = None
     for _ in range(3):
@@ -273,7 +286,7 @@ def main():
                 m["scorers"] = scorers
             else:
                 m.pop("scorers", None)
-            changes.append(f"{m['home']} {score} {m['away']} ({new_status})")
+            changes.append(f"{format_result(m['home'], score, m['away'], winner)} ({new_status})")
 
     for m in matches:
         status = str(m.get("status", "") or "").strip().lower()
