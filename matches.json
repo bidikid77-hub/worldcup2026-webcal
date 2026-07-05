@@ -2928,10 +2928,29 @@
     "stage": "Vòng 16",
     "stadium": "New York/New Jersey",
     "city": "New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
+    "score": "1-2",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "79'",
+        "assist": "Andreas Schjelderup"
+      },
+      {
+        "team": "Na Uy",
+        "player": "Erling Haaland",
+        "minute": "90'",
+        "assist": "Andreas Schjelderup"
+      },
+      {
+        "team": "Brazil",
+        "player": "Neymar",
+        "minute": "90'+10'"
+      }
+    ],
+    "winner": "Na Uy"
   },
   {
     "id": "wc2026-m092",
