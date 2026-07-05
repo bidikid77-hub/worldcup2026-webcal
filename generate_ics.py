@@ -73,7 +73,7 @@ def summary(m):
             n = int(num)
         except Exception:
             return home, away, ''
-        if not (1 <= n <= 88):
+        if not (1 <= n <= 104):
             return home, away, ''
         winner = str(m.get('winner') or '').strip()
         if winner:
