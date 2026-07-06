@@ -2962,10 +2962,39 @@
     "stage": "Vòng 16",
     "stadium": "Mexico City",
     "city": "Mexico City",
-    "score": "",
-    "status": "Scheduled",
+    "score": "2-3",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "England",
+        "player": "Jude Bellingham",
+        "minute": "36'",
+        "assist": "Bukayo Saka"
+      },
+      {
+        "team": "England",
+        "player": "Jude Bellingham",
+        "minute": "38'",
+        "assist": "Harry Kane"
+      },
+      {
+        "team": "Mexico",
+        "player": "Julián Quiñones",
+        "minute": "42'"
+      },
+      {
+        "team": "England",
+        "player": "Harry Kane",
+        "minute": "60'"
+      },
+      {
+        "team": "Mexico",
+        "player": "Raúl Jiménez",
+        "minute": "69'"
+      }
+    ],
+    "winner": "England"
   },
   {
     "id": "wc2026-m093",
