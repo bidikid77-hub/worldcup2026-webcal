@@ -3006,10 +3006,18 @@
     "stage": "Vòng 16",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-1",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Merino",
+        "minute": "90'+1'",
+        "assist": "Ferran Torres"
+      }
+    ],
+    "winner": "Tây Ban Nha"
   },
   {
     "id": "wc2026-m094",
