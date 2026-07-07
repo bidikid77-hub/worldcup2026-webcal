@@ -3075,10 +3075,42 @@
     "stage": "Vòng 16",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
+    "score": "3-2",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Ai Cập",
+        "player": "Yasser Ibrahim",
+        "minute": "15'",
+        "assist": "Marawan Attia"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Mostafa Zico",
+        "minute": "67'",
+        "assist": "Haissem Hassan"
+      },
+      {
+        "team": "Argentina",
+        "player": "Cristian Romero",
+        "minute": "79'",
+        "assist": "Lionel Messi"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lionel Messi",
+        "minute": "83'",
+        "assist": "Gonzalo Montiel"
+      },
+      {
+        "team": "Argentina",
+        "player": "Enzo Fernández",
+        "minute": "90'+2'",
+        "assist": "Lautaro Martínez"
+      }
+    ],
+    "winner": "Argentina"
   },
   {
     "id": "wc2026-m096",
@@ -3090,10 +3122,11 @@
     "stage": "Vòng 16",
     "stadium": "Vancouver",
     "city": "Vancouver",
-    "score": "",
-    "status": "Scheduled",
+    "score": "0-0",
+    "status": "Pen",
     "notes": "",
-    "scorers": []
+    "penalty_score": "4-3",
+    "winner": "Thụy Sĩ"
   },
   {
     "id": "wc2026-m097",
