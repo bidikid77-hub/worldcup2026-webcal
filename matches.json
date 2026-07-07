@@ -3029,10 +3029,41 @@
     "stage": "Vòng 16",
     "stadium": "Seattle",
     "city": "Seattle",
-    "score": "",
-    "status": "Scheduled",
+    "score": "1-4",
+    "status": "FT",
     "notes": "",
-    "scorers": []
+    "scorers": [
+      {
+        "team": "Bỉ",
+        "player": "Charles De Ketelaere",
+        "minute": "9'",
+        "assist": "Nicolas Raskin"
+      },
+      {
+        "team": "USA",
+        "player": "Malik Tillman",
+        "minute": "31'"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Charles De Ketelaere",
+        "minute": "33'",
+        "assist": "Leandro Trossard"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Hans Vanaken",
+        "minute": "57'",
+        "assist": "Charles De Ketelaere"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Romelu Lukaku",
+        "minute": "90'+3'",
+        "assist": "Hans Vanaken"
+      }
+    ],
+    "winner": "Bỉ"
   },
   {
     "id": "wc2026-m095",
