@@ -110,6 +110,17 @@ def description(m):
         parts.append(f'⚽ Tỷ số: {m["score"]}')
     if m.get('penalty_score'):
         parts.append(f'🎯 Luân lưu: {m["penalty_score"]}')
+    shootout = m.get('shootout') or []
+    if shootout:
+        parts.append('🎯 Chi tiết luân lưu:')
+        for s in shootout:
+            if isinstance(s, dict):
+                marker = '✅' if s.get('result') == 'scored' else '❌'
+                shot = s.get('shot')
+                label = f' lượt {shot}' if shot else ''
+                parts.append(f'- {marker} {s.get("team", "")}{label}: {s.get("player", "")}')
+            else:
+                parts.append(f'- {s}')
     if m.get('winner'):
         parts.append(f'🏆 Đội thắng: {m["winner"]}')
     scorers = m.get('scorers') or []

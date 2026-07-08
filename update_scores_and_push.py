@@ -198,6 +198,24 @@ def extract_scorers(event_id, data=None):
             out.append(row)
     return out
 
+
+def extract_shootout(data):
+    """Return penalty shootout detail rows from ESPN summary data."""
+    out = []
+    for team in data.get("shootout", []) or []:
+        team_name = norm(team.get("team", ""))
+        for shot in team.get("shots", []) or []:
+            player = str(shot.get("player") or "").strip()
+            if not player:
+                continue
+            out.append({
+                "team": team_name,
+                "player": player,
+                "shot": shot.get("shotNumber"),
+                "result": "scored" if shot.get("didScore") else "missed",
+            })
+    return out
+
 def main():
     # Keep repo current; continue if pull fails due local changes? cron owns repo, so fail loud.
     pull = run(["git", "pull", "--ff-only"])
@@ -269,8 +287,16 @@ def main():
         else:
             continue
         scorers = extract_scorers(event_id, summary) if event_id else []
-        old = (m.get("score", ""), m.get("status", ""), m.get("scorers") or [])
-        new = (score, new_status, scorers)
+        shootout = extract_shootout(summary) if summary and (new_status == "Pen" or penalty_score) else []
+        old = (
+            m.get("score", ""),
+            m.get("status", ""),
+            m.get("penalty_score", ""),
+            m.get("winner", ""),
+            m.get("scorers") or [],
+            m.get("shootout") or [],
+        )
+        new = (score, new_status, penalty_score, winner, scorers, shootout)
         if old != new:
             m["score"] = score
             m["status"] = new_status
@@ -286,6 +312,10 @@ def main():
                 m["scorers"] = scorers
             else:
                 m.pop("scorers", None)
+            if shootout:
+                m["shootout"] = shootout
+            else:
+                m.pop("shootout", None)
             changes.append(f"{format_result(m['home'], score, m['away'], winner)} ({new_status})")
 
     for m in matches:
