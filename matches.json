@@ -297,7 +297,8 @@
         "assist": "Deniz Undav"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Đức"
   },
   {
     "id": "wc2026-m010",
@@ -359,7 +360,8 @@
         "assist": "Wilfried Singo"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Bờ Biển Ngà"
   },
   {
     "id": "wc2026-m012",
@@ -410,7 +412,8 @@
         "assist": "Lucas Bergvall"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Thụy Điển"
   },
   {
     "id": "wc2026-m013",
@@ -556,7 +559,8 @@
         "minute": "90'+6'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Pháp"
   },
   {
     "id": "wc2026-m018",
@@ -600,7 +604,8 @@
         "minute": "90'+6'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Na Uy"
   },
   {
     "id": "wc2026-m019",
@@ -633,7 +638,8 @@
         "assist": "Nico González"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Argentina"
   },
   {
     "id": "wc2026-m020",
@@ -671,7 +677,8 @@
         "minute": "90'+12'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Áo"
   },
   {
     "id": "wc2026-m021",
@@ -773,7 +780,8 @@
         "assist": "Brandon Thomas-Asante"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Ghana"
   },
   {
     "id": "wc2026-m024",
@@ -812,7 +820,8 @@
         "assist": "Cucho Hernández"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Colombia"
   },
   {
     "id": "wc2026-m025",
@@ -882,7 +891,8 @@
         "minute": "90'+7'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Thụy Sĩ"
   },
   {
     "id": "wc2026-m027",
@@ -929,7 +939,8 @@
         "assist": "Nathan Saliba"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Canada"
   },
   {
     "id": "wc2026-m028",
@@ -950,7 +961,8 @@
         "minute": "50'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Mexico"
   },
   {
     "id": "wc2026-m029",
@@ -976,7 +988,8 @@
         "minute": "43'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "USA"
   },
   {
     "id": "wc2026-m030",
@@ -998,7 +1011,8 @@
         "assist": "Brahim Díaz"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Morocco"
   },
   {
     "id": "wc2026-m031",
@@ -1031,7 +1045,8 @@
         "assist": "Lucas Paquetá"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Brazil"
   },
   {
     "id": "wc2026-m032",
@@ -1053,7 +1068,8 @@
         "assist": "Julio Enciso"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Paraguay"
   },
   {
     "id": "wc2026-m033",
@@ -1139,7 +1155,8 @@
         "assist": "Felix Nmecha"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Đức"
   },
   {
     "id": "wc2026-m035",
@@ -1194,7 +1211,8 @@
         "assist": "Kaishu Sano"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Nhật Bản"
   },
   {
     "id": "wc2026-m037",
@@ -1233,7 +1251,8 @@
         "minute": "49'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Tây Ban Nha"
   },
   {
     "id": "wc2026-m038",
@@ -1325,7 +1344,8 @@
         "assist": "Mohamed Salah"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Ai Cập"
   },
   {
     "id": "wc2026-m041",
@@ -1352,7 +1372,8 @@
         "minute": "90'+5'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Argentina"
   },
   {
     "id": "wc2026-m042",
@@ -1386,7 +1407,8 @@
         "assist": "Michael Olise"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Pháp"
   },
   {
     "id": "wc2026-m043",
@@ -1431,7 +1453,8 @@
         "assist": "Nicolas Jackson"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Na Uy"
   },
   {
     "id": "wc2026-m044",
@@ -1464,7 +1487,8 @@
         "minute": "82'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Algeria"
   },
   {
     "id": "wc2026-m045",
@@ -1507,7 +1531,8 @@
         "minute": "87'"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Bồ Đào Nha"
   },
   {
     "id": "wc2026-m046",
@@ -1544,7 +1569,8 @@
         "assist": "Josip Stanisic"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Croatia"
   },
   {
     "id": "wc2026-m048",
@@ -1566,7 +1592,8 @@
         "assist": "Juan Fernando Quintero"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Colombia"
   },
   {
     "id": "wc2026-m049",
@@ -1600,7 +1627,8 @@
         "assist": "Nathan Saliba"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Thụy Sĩ"
   },
   {
     "id": "wc2026-m050",
@@ -1639,7 +1667,8 @@
         "assist": "Dennis Hadzikadunic"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Bosnia-Herzegovina"
   },
   {
     "id": "wc2026-m051",
@@ -1673,7 +1702,8 @@
         "assist": "Bruno Guimarães"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Brazil"
   },
   {
     "id": "wc2026-m052",
@@ -1724,7 +1754,8 @@
         "assist": "Soufiane Rahimi"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Morocco"
   },
   {
     "id": "wc2026-m053",
@@ -1758,7 +1789,8 @@
         "assist": "Roberto Alvarado"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Mexico"
   },
   {
     "id": "wc2026-m054",
@@ -1780,7 +1812,8 @@
         "assist": "Tshepang Moremi"
       }
     ],
-    "notes": ""
+    "notes": "",
+    "winner": "Nam Phi"
   },
   {
     "id": "wc2026-m055",
@@ -1814,7 +1847,8 @@
         "minute": "77'",
         "assist": "Kevin Rodríguez"
       }
-    ]
+    ],
+    "winner": "Ecuador"
   },
   {
     "id": "wc2026-m056",
@@ -1842,7 +1876,8 @@
         "minute": "64'",
         "assist": "Ibrahim Sangaré"
       }
-    ]
+    ],
+    "winner": "Bờ Biển Ngà"
   },
   {
     "id": "wc2026-m057",
@@ -1881,7 +1916,8 @@
         "minute": "62'",
         "assist": "Tijjani Reijnders"
       }
-    ]
+    ],
+    "winner": "Hà Lan"
   },
   {
     "id": "wc2026-m058",
@@ -1953,7 +1989,8 @@
         "player": "Kaan Ayhan",
         "minute": "90'+8'"
       }
-    ]
+    ],
+    "winner": "Thổ Nhĩ Kỳ"
   },
   {
     "id": "wc2026-m060",
@@ -2013,7 +2050,8 @@
         "minute": "90'+4'",
         "assist": "Bradley Barcola"
       }
-    ]
+    ],
+    "winner": "Pháp"
   },
   {
     "id": "wc2026-m062",
@@ -2059,7 +2097,8 @@
         "minute": "82'",
         "assist": "Pape Gueye"
       }
-    ]
+    ],
+    "winner": "Senegal"
   },
   {
     "id": "wc2026-m063",
@@ -2081,7 +2120,8 @@
         "minute": "42'",
         "assist": "Marcos Llorente"
       }
-    ]
+    ],
+    "winner": "Tây Ban Nha"
   },
   {
     "id": "wc2026-m064",
@@ -2144,7 +2184,8 @@
         "minute": "90'+4'",
         "assist": "Romelu Lukaku"
       }
-    ]
+    ],
+    "winner": "Bỉ"
   },
   {
     "id": "wc2026-m066",
@@ -2234,7 +2275,8 @@
         "minute": "83'",
         "assist": "Luka Modric"
       }
-    ]
+    ],
+    "winner": "Croatia"
   },
   {
     "id": "wc2026-m069",
@@ -2324,7 +2366,8 @@
         "player": "Lionel Messi",
         "minute": "80'"
       }
-    ]
+    ],
+    "winner": "Argentina"
   },
   {
     "id": "wc2026-m072",
@@ -2396,7 +2439,8 @@
         "player": "Stephen Eustáquio",
         "minute": "90'+2'"
       }
-    ]
+    ],
+    "winner": "Canada"
   },
   {
     "id": "wc2026-m074",
@@ -2429,7 +2473,8 @@
         "minute": "90'+5'",
         "assist": "Bruno Guimarães"
       }
-    ]
+    ],
+    "winner": "Brazil"
   },
   {
     "id": "wc2026-m075",
@@ -2459,7 +2504,81 @@
       }
     ],
     "penalty_score": "3-4",
-    "winner": "Paraguay"
+    "winner": "Paraguay",
+    "shootout": [
+      {
+        "team": "Đức",
+        "player": "Kai Havertz",
+        "shot": 1,
+        "result": "missed"
+      },
+      {
+        "team": "Đức",
+        "player": "Joshua Kimmich",
+        "shot": 2,
+        "result": "scored"
+      },
+      {
+        "team": "Đức",
+        "player": "Jamal Musiala",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Đức",
+        "player": "Nick Woltemade",
+        "shot": 4,
+        "result": "missed"
+      },
+      {
+        "team": "Đức",
+        "player": "Nadiem Amiri",
+        "shot": 5,
+        "result": "scored"
+      },
+      {
+        "team": "Đức",
+        "player": "Jonathan Tah",
+        "shot": 6,
+        "result": "missed"
+      },
+      {
+        "team": "Paraguay",
+        "player": "Maurício",
+        "shot": 1,
+        "result": "scored"
+      },
+      {
+        "team": "Paraguay",
+        "player": "Gustavo Gómez",
+        "shot": 2,
+        "result": "scored"
+      },
+      {
+        "team": "Paraguay",
+        "player": "Matías Galarza",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Paraguay",
+        "player": "Antonio Sanabria",
+        "shot": 4,
+        "result": "missed"
+      },
+      {
+        "team": "Paraguay",
+        "player": "Fabián Balbuena",
+        "shot": 5,
+        "result": "missed"
+      },
+      {
+        "team": "Paraguay",
+        "player": "José Canale",
+        "shot": 6,
+        "result": "scored"
+      }
+    ]
   },
   {
     "id": "wc2026-m076",
@@ -2489,7 +2608,69 @@
       }
     ],
     "penalty_score": "2-3",
-    "winner": "Morocco"
+    "winner": "Morocco",
+    "shootout": [
+      {
+        "team": "Hà Lan",
+        "player": "Teun Koopmeiners",
+        "shot": 1,
+        "result": "scored"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Justin Kluivert",
+        "shot": 2,
+        "result": "missed"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Wout Weghorst",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Quinten Timber",
+        "shot": 4,
+        "result": "missed"
+      },
+      {
+        "team": "Hà Lan",
+        "player": "Crysencio Summerville",
+        "shot": 5,
+        "result": "missed"
+      },
+      {
+        "team": "Morocco",
+        "player": "Neil El Aynaoui",
+        "shot": 1,
+        "result": "missed"
+      },
+      {
+        "team": "Morocco",
+        "player": "Soufiane Rahimi",
+        "shot": 2,
+        "result": "scored"
+      },
+      {
+        "team": "Morocco",
+        "player": "Chemsdine Talbi",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Morocco",
+        "player": "Achraf Hakimi",
+        "shot": 4,
+        "result": "missed"
+      },
+      {
+        "team": "Morocco",
+        "player": "Ismael Saibari",
+        "shot": 5,
+        "result": "scored"
+      }
+    ]
   },
   {
     "id": "wc2026-m077",
@@ -2820,6 +3001,56 @@
         "player": "Mohamed Hany",
         "minute": "55'"
       }
+    ],
+    "shootout": [
+      {
+        "team": "Australia",
+        "player": "Harry Souttar",
+        "shot": 1,
+        "result": "missed"
+      },
+      {
+        "team": "Australia",
+        "player": "Jackson Irvine",
+        "shot": 2,
+        "result": "scored"
+      },
+      {
+        "team": "Australia",
+        "player": "Awer Mabil",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Australia",
+        "player": "Lucas Herrington",
+        "shot": 4,
+        "result": "missed"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Mahmoud Saber",
+        "shot": 1,
+        "result": "scored"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Ramy Rabia",
+        "shot": 2,
+        "result": "scored"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Mohamed Salah",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Ai Cập",
+        "player": "Hossam Abdelmaguid",
+        "shot": 4,
+        "result": "scored"
+      }
     ]
   },
   {
@@ -3126,7 +3357,69 @@
     "status": "Pen",
     "notes": "",
     "penalty_score": "4-3",
-    "winner": "Thụy Sĩ"
+    "winner": "Thụy Sĩ",
+    "shootout": [
+      {
+        "team": "Colombia",
+        "player": "Juan Fernando Quintero",
+        "shot": 1,
+        "result": "scored"
+      },
+      {
+        "team": "Colombia",
+        "player": "Davinson Sánchez",
+        "shot": 2,
+        "result": "missed"
+      },
+      {
+        "team": "Colombia",
+        "player": "Jáminton Campaz",
+        "shot": 3,
+        "result": "scored"
+      },
+      {
+        "team": "Colombia",
+        "player": "Cucho Hernández",
+        "shot": 4,
+        "result": "missed"
+      },
+      {
+        "team": "Colombia",
+        "player": "Luis Díaz",
+        "shot": 5,
+        "result": "scored"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Granit Xhaka",
+        "shot": 1,
+        "result": "scored"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Zeki Amdouni",
+        "shot": 2,
+        "result": "scored"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Manuel Akanji",
+        "shot": 3,
+        "result": "missed"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Cedric Itten",
+        "shot": 4,
+        "result": "scored"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Rubén Vargas",
+        "shot": 5,
+        "result": "scored"
+      }
+    ]
   },
   {
     "id": "wc2026-m097",
