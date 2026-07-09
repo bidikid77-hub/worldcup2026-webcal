@@ -3431,9 +3431,24 @@
     "stage": "Tứ Kết",
     "stadium": "Boston",
     "city": "Boston",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-0",
+    "status": "FT",
+    "notes": "",
+    "winner": "Pháp",
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "Kylian Mbappé",
+        "minute": "60'",
+        "assist": "Désiré Doué"
+      },
+      {
+        "team": "Pháp",
+        "player": "Ousmane Dembélé",
+        "minute": "66'",
+        "assist": "Kylian Mbappé"
+      }
+    ]
   },
   {
     "id": "wc2026-m098",
