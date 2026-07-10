@@ -3460,9 +3460,28 @@
     "stage": "Tứ Kết",
     "stadium": "Los Angeles",
     "city": "Los Angeles",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "2-1",
+    "status": "FT",
+    "notes": "",
+    "winner": "Tây Ban Nha",
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "Fabián Ruiz",
+        "minute": "30'"
+      },
+      {
+        "team": "Bỉ",
+        "player": "Charles De Ketelaere",
+        "minute": "41'",
+        "assist": "Timothy Castagne"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Merino",
+        "minute": "88'"
+      }
+    ]
   },
   {
     "id": "wc2026-m099",
