@@ -3493,9 +3493,28 @@
     "stage": "Tứ Kết",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-2",
+    "status": "98'",
+    "notes": "",
+    "scorers": [
+      {
+        "team": "Na Uy",
+        "player": "Andreas Schjelderup",
+        "minute": "36'",
+        "assist": "Martin Ødegaard"
+      },
+      {
+        "team": "England",
+        "player": "Jude Bellingham",
+        "minute": "45'+2'",
+        "assist": "Anthony Gordon"
+      },
+      {
+        "team": "England",
+        "player": "Jude Bellingham",
+        "minute": "93'"
+      }
+    ]
   },
   {
     "id": "wc2026-m100",
