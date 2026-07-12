@@ -3527,9 +3527,35 @@
     "stage": "Tứ Kết",
     "stadium": "Kansas City",
     "city": "Kansas City",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "3-1",
+    "status": "FT",
+    "notes": "",
+    "winner": "Argentina",
+    "scorers": [
+      {
+        "team": "Argentina",
+        "player": "Alexis Mac Allister",
+        "minute": "10'",
+        "assist": "Lionel Messi"
+      },
+      {
+        "team": "Thụy Sĩ",
+        "player": "Dan Ndoye",
+        "minute": "67'",
+        "assist": "Ricardo Rodríguez"
+      },
+      {
+        "team": "Argentina",
+        "player": "Julián Álvarez",
+        "minute": "112'",
+        "assist": "José Manuel López"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lautaro Martínez",
+        "minute": "120'+1'"
+      }
+    ]
   },
   {
     "id": "wc2026-m101",
