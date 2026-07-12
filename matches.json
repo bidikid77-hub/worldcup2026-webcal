@@ -3494,7 +3494,7 @@
     "stadium": "Miami",
     "city": "Miami",
     "score": "1-2",
-    "status": "98'",
+    "status": "FT",
     "notes": "",
     "scorers": [
       {
@@ -3514,7 +3514,8 @@
         "player": "Jude Bellingham",
         "minute": "93'"
       }
-    ]
+    ],
+    "winner": "England"
   },
   {
     "id": "wc2026-m100",
