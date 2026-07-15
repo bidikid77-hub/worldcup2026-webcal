@@ -3567,9 +3567,23 @@
     "stage": "Bán Kết",
     "stadium": "Dallas",
     "city": "Dallas",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "0-2",
+    "status": "FT",
+    "notes": "",
+    "winner": "Tây Ban Nha",
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "Mikel Oyarzabal",
+        "minute": "22'"
+      },
+      {
+        "team": "Tây Ban Nha",
+        "player": "Pedro Porro",
+        "minute": "58'",
+        "assist": "Dani Olmo"
+      }
+    ]
   },
   {
     "id": "wc2026-m102",
