@@ -3595,9 +3595,30 @@
     "stage": "Bán Kết",
     "stadium": "Atlanta",
     "city": "Atlanta",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-2",
+    "status": "FT",
+    "notes": "",
+    "winner": "Argentina",
+    "scorers": [
+      {
+        "team": "England",
+        "player": "Anthony Gordon",
+        "minute": "55'",
+        "assist": "Morgan Rogers"
+      },
+      {
+        "team": "Argentina",
+        "player": "Enzo Fernández",
+        "minute": "85'",
+        "assist": "Lionel Messi"
+      },
+      {
+        "team": "Argentina",
+        "player": "Lautaro Martínez",
+        "minute": "90'+2'",
+        "assist": "Lionel Messi"
+      }
+    ]
   },
   {
     "id": "wc2026-m103",
