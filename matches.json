@@ -3682,8 +3682,16 @@
     "stage": "Chung Kết",
     "stadium": "MetLife Stadium, New York/New Jersey",
     "city": "MetLife Stadium, New York/New Jersey",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "1-0",
+    "status": "AET",
+    "notes": "Sau hiệp phụ; thẻ đỏ: E. Fernández 90+3'",
+    "winner": "Tây Ban Nha",
+    "scorers": [
+      {
+        "team": "Tây Ban Nha",
+        "player": "F. Torres",
+        "minute": "106'"
+      }
+    ]
   }
 ]
