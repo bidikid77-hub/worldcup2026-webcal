@@ -3630,9 +3630,47 @@
     "stage": "Tranh Hạng Ba",
     "stadium": "Miami",
     "city": "Miami",
-    "score": "",
-    "status": "Scheduled",
-    "notes": ""
+    "score": "4-6",
+    "status": "FT",
+    "notes": "",
+    "winner": "England",
+    "scorers": [
+      {
+        "team": "Pháp",
+        "player": "K. Mbappé",
+        "minute": "48', 66'"
+      },
+      {
+        "team": "Pháp",
+        "player": "B. Barcola",
+        "minute": "54'"
+      },
+      {
+        "team": "Pháp",
+        "player": "O. Dembélé",
+        "minute": "90+6'"
+      },
+      {
+        "team": "England",
+        "player": "Declan Rice",
+        "minute": "3'"
+      },
+      {
+        "team": "England",
+        "player": "Ezri Konsa",
+        "minute": "18'"
+      },
+      {
+        "team": "England",
+        "player": "Bukayo Saka",
+        "minute": "37', 45+1', 87' (P)"
+      },
+      {
+        "team": "England",
+        "player": "Jude Bellingham",
+        "minute": "90+8'"
+      }
+    ]
   },
   {
     "id": "wc2026-m104",
